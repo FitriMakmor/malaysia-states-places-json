@@ -1,0 +1,11038 @@
+[
+  {
+    "name": "Federal Territory of Kuala Lumpur",
+    "cities": [
+      {
+        "name": "Kuala Lumpur"
+      }
+    ]
+  },
+  {
+    "name": "Federal Territory of Labuan",
+    "cities": [
+      {
+        "name": "Bandar Victoria"
+      },
+      {
+        "name": "Kg. Pantai"
+      },
+      {
+        "name": "Kg. Pohon Batu"
+      }
+    ]
+  },
+  {
+    "name": "Federal Territory of Putrajaya",
+    "cities": [
+      {
+        "name": "Putrajaya"
+      }
+    ]
+  },
+  {
+    "name": "Johor",
+    "cities": [
+      {
+        "name": "Air Tawar 4"
+      },
+      {
+        "name": "Air Tawar 5"
+      },
+      {
+        "name": "Ayer Baloi"
+      },
+      {
+        "name": "Ayer Bemban"
+      },
+      {
+        "name": "Ayer Hitam"
+      },
+      {
+        "name": "Bagan"
+      },
+      {
+        "name": "Bandar Mas"
+      },
+      {
+        "name": "Bandar Penawar"
+      },
+      {
+        "name": "Bandar Permas"
+      },
+      {
+        "name": "Bandar Tenggara"
+      },
+      {
+        "name": "Batu 24 Kahang"
+      },
+      {
+        "name": "Batu Anam"
+      },
+      {
+        "name": "Batu Pahat"
+      },
+      {
+        "name": "Bekok"
+      },
+      {
+        "name": "Benut"
+      },
+      {
+        "name": "Bukit Bakri"
+      },
+      {
+        "name": "Bukit Batu"
+      },
+      {
+        "name": "Bukit Gambir"
+      },
+      {
+        "name": "Bukit Kangkar"
+      },
+      {
+        "name": "Bukit Kepong"
+      },
+      {
+        "name": "Bukit Mor"
+      },
+      {
+        "name": "Bukit Pasir"
+      },
+      {
+        "name": "Bukit Siput"
+      },
+      {
+        "name": "Buloh Kasap"
+      },
+      {
+        "name": "Chaah"
+      },
+      {
+        "name": "Chamek"
+      },
+      {
+        "name": "Desa Paya Mengkuang"
+      },
+      {
+        "name": "Endau"
+      },
+      {
+        "name": "Felcra Bukit Kepong"
+      },
+      {
+        "name": "Felcra Sg Ara"
+      },
+      {
+        "name": "Felda Air Tawar 2"
+      },
+      {
+        "name": "Felda Ayer Hitam Kluang"
+      },
+      {
+        "name": "Felda Bukit Besar"
+      },
+      {
+        "name": "Felda Bukit Ramun"
+      },
+      {
+        "name": "Felda Chemplak"
+      },
+      {
+        "name": "Felda Kemelah"
+      },
+      {
+        "name": "Felda Maokil"
+      },
+      {
+        "name": "Felda Medoi"
+      },
+      {
+        "name": "Felda Nitar Timur"
+      },
+      {
+        "name": "Felda Palong Timur"
+      },
+      {
+        "name": "Felda Pasak"
+      },
+      {
+        "name": "Felda Pasir Raja"
+      },
+      {
+        "name": "Felda Petri Jaya"
+      },
+      {
+        "name": "Felda Redong"
+      },
+      {
+        "name": "Felda Sri Jaya Bukit Serampang"
+      },
+      {
+        "name": "Felda Sri Ledang"
+      },
+      {
+        "name": "Felda Sungai Sayong"
+      },
+      {
+        "name": "Felda Taib Andak"
+      },
+      {
+        "name": "Felda Tenggaroh 1"
+      },
+      {
+        "name": "Felda Tenggaroh 2"
+      },
+      {
+        "name": "Felda Tenggaroh 3"
+      },
+      {
+        "name": "Felda Tenggaroh 6"
+      },
+      {
+        "name": "Felda Ulu Dengar"
+      },
+      {
+        "name": "Felda Ulu Tebrau"
+      },
+      {
+        "name": "Gelang Patah"
+      },
+      {
+        "name": "Gemereh"
+      },
+      {
+        "name": "Gerisek"
+      },
+      {
+        "name": "Gombang"
+      },
+      {
+        "name": "Iskandar Puteri"
+      },
+      {
+        "name": "Jemaluang"
+      },
+      {
+        "name": "Jementah"
+      },
+      {
+        "name": "Johor Bahru"
+      },
+      {
+        "name": "Kahang"
+      },
+      {
+        "name": "Kampong Air Papan"
+      },
+      {
+        "name": "Kampong Air Puteh"
+      },
+      {
+        "name": "Kampong Bukit Berangan"
+      },
+      {
+        "name": "Kampong Buloh Kasap"
+      },
+      {
+        "name": "Kampong Buloh Kasap"
+      },
+      {
+        "name": "Kampong Jurak"
+      },
+      {
+        "name": "Kampong Labong"
+      },
+      {
+        "name": "Kampong Pasir Panjang"
+      },
+      {
+        "name": "Kampong Penerok"
+      },
+      {
+        "name": "Kampong Permas Kelapa"
+      },
+      {
+        "name": "Kampong Peta"
+      },
+      {
+        "name": "Kampong Punggai"
+      },
+      {
+        "name": "Kampong Seri Pantai"
+      },
+      {
+        "name": "Kampong Serkat"
+      },
+      {
+        "name": "Kampong Si-Kijang"
+      },
+      {
+        "name": "Kampong Sri Gading"
+      },
+      {
+        "name": "Kampong Sungai Boh"
+      },
+      {
+        "name": "Kampong Sungai Suloh"
+      },
+      {
+        "name": "Kampong Tanjung Balang"
+      },
+      {
+        "name": "Kampong Tanjung Resang"
+      },
+      {
+        "name": "Kampong Tenglu Besar"
+      },
+      {
+        "name": "Kampong Triang Kechil"
+      },
+      {
+        "name": "Kampung Ayer Gemuroh"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru Buloh Kasap"
+      },
+      {
+        "name": "Kampung Bindu"
+      },
+      {
+        "name": "Kampung Changi"
+      },
+      {
+        "name": "Kampung Hubong"
+      },
+      {
+        "name": "Kampung Hutan Lesong"
+      },
+      {
+        "name": "Kampung Ladang"
+      },
+      {
+        "name": "Kampung Lepau"
+      },
+      {
+        "name": "Kampung Lubuk Batu"
+      },
+      {
+        "name": "Kampung Minyak Beku"
+      },
+      {
+        "name": "Kampung Padang"
+      },
+      {
+        "name": "Kampung Panca Jaya"
+      },
+      {
+        "name": "Kampung Parit Baru"
+      },
+      {
+        "name": "Kampung Parit Baru"
+      },
+      {
+        "name": "Kampung Parit Gantong"
+      },
+      {
+        "name": "Kampung Parit Pulai"
+      },
+      {
+        "name": "Kampung Parit Raja Ahmad"
+      },
+      {
+        "name": "Kampung Pasir Gogok"
+      },
+      {
+        "name": "Kampung Pekajang Bengkok"
+      },
+      {
+        "name": "Kampung Pendas Baru"
+      },
+      {
+        "name": "Kampung Pengkalan Batu"
+      },
+      {
+        "name": "Kampung Penyabong Pantai"
+      },
+      {
+        "name": "Kampung Pok Besar"
+      },
+      {
+        "name": "Kampung Pok Kechil"
+      },
+      {
+        "name": "Kampung Rahmat"
+      },
+      {
+        "name": "Kampung Rambah"
+      },
+      {
+        "name": "Kampung Sawah Padi"
+      },
+      {
+        "name": "Kampung Sengkuang"
+      },
+      {
+        "name": "Kampung Seri Binjai"
+      },
+      {
+        "name": "Kampung Simon"
+      },
+      {
+        "name": "Kampung Sin Lik"
+      },
+      {
+        "name": "Kampung Sisek"
+      },
+      {
+        "name": "Kampung Sri Lukut"
+      },
+      {
+        "name": "Kampung Sri Murni"
+      },
+      {
+        "name": "Kampung Sungai Lontok"
+      },
+      {
+        "name": "Kampung Tambang Batu Tujoh"
+      },
+      {
+        "name": "Kampung Tanjong Adang"
+      },
+      {
+        "name": "Kampung Tanjong Pelepas"
+      },
+      {
+        "name": "Kampung Tanjung Kupang"
+      },
+      {
+        "name": "Kampung Telok"
+      },
+      {
+        "name": "Kampung Teluk Buloh"
+      },
+      {
+        "name": "Kampung Teluk Kerang"
+      },
+      {
+        "name": "Kampung Teratai"
+      },
+      {
+        "name": "Kampung Tiram Duku"
+      },
+      {
+        "name": "Kampung Tungku Tiga"
+      },
+      {
+        "name": "Kampung Ulu Pulai"
+      },
+      {
+        "name": "Kangkar Bahru"
+      },
+      {
+        "name": "Kangkar Tebrau"
+      },
+      {
+        "name": "Kebun Baharu"
+      },
+      {
+        "name": "Kelapa Sawit"
+      },
+      {
+        "name": "Kg Air Tawar"
+      },
+      {
+        "name": "Kg Makam"
+      },
+      {
+        "name": "Kg Tenglu"
+      },
+      {
+        "name": "Kg Tenglu Laut"
+      },
+      {
+        "name": "Kg Wak Salam"
+      },
+      {
+        "name": "Kg. Mohd. Noor"
+      },
+      {
+        "name": "Kluang"
+      },
+      {
+        "name": "Kota Tinggi"
+      },
+      {
+        "name": "Kukup"
+      },
+      {
+        "name": "Kulai"
+      },
+      {
+        "name": "Kundang"
+      },
+      {
+        "name": "Kundang Ulu"
+      },
+      {
+        "name": "Labis"
+      },
+      {
+        "name": "Ladang Eldred"
+      },
+      {
+        "name": "Lam Lee"
+      },
+      {
+        "name": "Layang-Layang"
+      },
+      {
+        "name": "Lenga"
+      },
+      {
+        "name": "Liang Batu"
+      },
+      {
+        "name": "Lima Kedai"
+      },
+      {
+        "name": "Machap"
+      },
+      {
+        "name": "Masai"
+      },
+      {
+        "name": "Mawai"
+      },
+      {
+        "name": "Medini"
+      },
+      {
+        "name": "Mersing"
+      },
+      {
+        "name": "Muar"
+      },
+      {
+        "name": "Niyor"
+      },
+      {
+        "name": "Pagoh"
+      },
+      {
+        "name": "Paloh"
+      },
+      {
+        "name": "Panchor"
+      },
+      {
+        "name": "Pandan"
+      },
+      {
+        "name": "Parit Bakar"
+      },
+      {
+        "name": "Parit Buloh"
+      },
+      {
+        "name": "Parit Bunga"
+      },
+      {
+        "name": "Parit Jawa"
+      },
+      {
+        "name": "Parit Raja"
+      },
+      {
+        "name": "Parit Sulong"
+      },
+      {
+        "name": "Parit Yaani"
+      },
+      {
+        "name": "Pasir Gudang"
+      },
+      {
+        "name": "Pekan Ayer Panas"
+      },
+      {
+        "name": "Pekan Jabi"
+      },
+      {
+        "name": "Pekan Nanas"
+      },
+      {
+        "name": "Pekan Rawang"
+      },
+      {
+        "name": "Pengerang"
+      },
+      {
+        "name": "Pengkalan Raja"
+      },
+      {
+        "name": "Plentong"
+      },
+      {
+        "name": "Pontian Kecil"
+      },
+      {
+        "name": "Pulai"
+      },
+      {
+        "name": "Renggam"
+      },
+      {
+        "name": "Rengit"
+      },
+      {
+        "name": "Sabak Awor"
+      },
+      {
+        "name": "Sagil"
+      },
+      {
+        "name": "Sedenak"
+      },
+      {
+        "name": "Segamat"
+      },
+      {
+        "name": "Segamat Baru"
+      },
+      {
+        "name": "Semenchu"
+      },
+      {
+        "name": "Semerah"
+      },
+      {
+        "name": "Senggarang"
+      },
+      {
+        "name": "Sengkang"
+      },
+      {
+        "name": "Sengkang Batu 19"
+      },
+      {
+        "name": "Seri Lalang"
+      },
+      {
+        "name": "Seri Medan"
+      },
+      {
+        "name": "Serom"
+      },
+      {
+        "name": "Simpang Jeram"
+      },
+      {
+        "name": "Simpang Renggam"
+      },
+      {
+        "name": "Skudai"
+      },
+      {
+        "name": "Sri Gading"
+      },
+      {
+        "name": "Sungai Ambat"
+      },
+      {
+        "name": "Sungai Balang"
+      },
+      {
+        "name": "Sungai Buntu"
+      },
+      {
+        "name": "Sungai Kapal"
+      },
+      {
+        "name": "Sungai Karas"
+      },
+      {
+        "name": "Sungai Mati"
+      },
+      {
+        "name": "Sungai Rengit"
+      },
+      {
+        "name": "Taman Mutiara"
+      },
+      {
+        "name": "Taman Ramunia Indah"
+      },
+      {
+        "name": "Taman Samudera"
+      },
+      {
+        "name": "Taman Sri Saujana"
+      },
+      {
+        "name": "Tangkak"
+      },
+      {
+        "name": "Tanjung Pengelih"
+      },
+      {
+        "name": "Tanjung Piai"
+      },
+      {
+        "name": "Tanjung Sedili"
+      },
+      {
+        "name": "Tanjung Sedili Besar"
+      },
+      {
+        "name": "Tanjung Sepang"
+      },
+      {
+        "name": "Tanjung Surat"
+      },
+      {
+        "name": "Tebrau"
+      },
+      {
+        "name": "Teluk Pinang"
+      },
+      {
+        "name": "Teluk Ramunia"
+      },
+      {
+        "name": "Teluk Rimba"
+      },
+      {
+        "name": "Tongkang Pechah"
+      },
+      {
+        "name": "Ulu Choh"
+      },
+      {
+        "name": "Ulu Tiram"
+      },
+      {
+        "name": "Yong Peng"
+      }
+    ]
+  },
+  {
+    "name": "Kedah",
+    "cities": [
+      {
+        "name": "Alor Melintang"
+      },
+      {
+        "name": "Alor Merah"
+      },
+      {
+        "name": "Alor Semela"
+      },
+      {
+        "name": "Alor Setar"
+      },
+      {
+        "name": "Ayer Hitam"
+      },
+      {
+        "name": "Ayer Puteh"
+      },
+      {
+        "name": "Baling"
+      },
+      {
+        "name": "Bandar Baharu"
+      },
+      {
+        "name": "Batu 7"
+      },
+      {
+        "name": "Batu Tiga"
+      },
+      {
+        "name": "Bedong"
+      },
+      {
+        "name": "Bujang"
+      },
+      {
+        "name": "Bukit Besar"
+      },
+      {
+        "name": "Bukit Jenun"
+      },
+      {
+        "name": "Bukit Kayu Hitam"
+      },
+      {
+        "name": "Bukit Kechik"
+      },
+      {
+        "name": "Bukit Payong"
+      },
+      {
+        "name": "Bukit Pinang"
+      },
+      {
+        "name": "Bukit Raya"
+      },
+      {
+        "name": "Bukit Selambau"
+      },
+      {
+        "name": "Bukit Tangga"
+      },
+      {
+        "name": "Changlun"
+      },
+      {
+        "name": "Derang"
+      },
+      {
+        "name": "Desa Keda"
+      },
+      {
+        "name": "Dulang Besar"
+      },
+      {
+        "name": "Dulang Kechil"
+      },
+      {
+        "name": "Dulang Kecil Tengah"
+      },
+      {
+        "name": "Guar Chempedak"
+      },
+      {
+        "name": "Guar Kepayang"
+      },
+      {
+        "name": "Guar Napai"
+      },
+      {
+        "name": "Gulau"
+      },
+      {
+        "name": "Gurun"
+      },
+      {
+        "name": "Jabi"
+      },
+      {
+        "name": "Jeniang"
+      },
+      {
+        "name": "Jerlun"
+      },
+      {
+        "name": "Jitra"
+      },
+      {
+        "name": "Junjong"
+      },
+      {
+        "name": "Kampong Alor Besar"
+      },
+      {
+        "name": "Kampong Alor Binjal"
+      },
+      {
+        "name": "Kampong Alor Senibong"
+      },
+      {
+        "name": "Kampong Banggol Lalang"
+      },
+      {
+        "name": "Kampong Banggol Temak"
+      },
+      {
+        "name": "Kampong Belukar Luas"
+      },
+      {
+        "name": "Kampong Bendang Dalam"
+      },
+      {
+        "name": "Kampong Benua"
+      },
+      {
+        "name": "Kampong Binjal"
+      },
+      {
+        "name": "Kampong Bukit Jambul"
+      },
+      {
+        "name": "Kampong Bukit Kechil"
+      },
+      {
+        "name": "Kampong Dalam Kota"
+      },
+      {
+        "name": "Kampong Darat"
+      },
+      {
+        "name": "Kampong Datok"
+      },
+      {
+        "name": "Kampong Gelam"
+      },
+      {
+        "name": "Kampong Gelong Rambai"
+      },
+      {
+        "name": "Kampong Guar Lobak"
+      },
+      {
+        "name": "Kampong Haji Kudong"
+      },
+      {
+        "name": "Kampong Jeram"
+      },
+      {
+        "name": "Kampong Kalai"
+      },
+      {
+        "name": "Kampong Lampam"
+      },
+      {
+        "name": "Kampong Lengkuas"
+      },
+      {
+        "name": "Kampong Lubok Ayer"
+      },
+      {
+        "name": "Kampong Manggol"
+      },
+      {
+        "name": "Kampong Menerong"
+      },
+      {
+        "name": "Kampong Nongka"
+      },
+      {
+        "name": "Kampong Padang Buloh"
+      },
+      {
+        "name": "Kampong Padang Kunyit"
+      },
+      {
+        "name": "Kampong Padang Lanjut"
+      },
+      {
+        "name": "Kampong Padang Petani"
+      },
+      {
+        "name": "Kampong Penia"
+      },
+      {
+        "name": "Kampong Perupok"
+      },
+      {
+        "name": "Kampong Perupok"
+      },
+      {
+        "name": "Kampong Pong Manis"
+      },
+      {
+        "name": "Kampong Pulau Emas"
+      },
+      {
+        "name": "Kampong Seberang Alor"
+      },
+      {
+        "name": "Kampong Sirako"
+      },
+      {
+        "name": "Kampong Sungai Baru"
+      },
+      {
+        "name": "Kampong Sungai Emas"
+      },
+      {
+        "name": "Kampong Sungai Kering"
+      },
+      {
+        "name": "Kampong Sungai Korok"
+      },
+      {
+        "name": "Kampong Sungai Pasir"
+      },
+      {
+        "name": "Kampong Tok Keling"
+      },
+      {
+        "name": "Kampung Alor Biak"
+      },
+      {
+        "name": "Kampung Alor Buluh"
+      },
+      {
+        "name": "Kampung Alor Gandak"
+      },
+      {
+        "name": "Kampung Alor Ganu"
+      },
+      {
+        "name": "Kampung Alor Gunung"
+      },
+      {
+        "name": "Kampung Alor Janggus"
+      },
+      {
+        "name": "Kampung Alor Madi"
+      },
+      {
+        "name": "Kampung Alor Malong"
+      },
+      {
+        "name": "Kampung Alor Nan"
+      },
+      {
+        "name": "Kampung Alor Pudak"
+      },
+      {
+        "name": "Kampung Alor Punti"
+      },
+      {
+        "name": "Kampung Alor Senjaya"
+      },
+      {
+        "name": "Kampung Alor Serdang"
+      },
+      {
+        "name": "Kampung Asam Jawa"
+      },
+      {
+        "name": "Kampung Ayer Puteh"
+      },
+      {
+        "name": "Kampung Badlishah"
+      },
+      {
+        "name": "Kampung Bahagia"
+      },
+      {
+        "name": "Kampung Bakong"
+      },
+      {
+        "name": "Kampung Bandar"
+      },
+      {
+        "name": "Kampung Barohkas"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru Telok"
+      },
+      {
+        "name": "Kampung Bata"
+      },
+      {
+        "name": "Kampung Batas Baru"
+      },
+      {
+        "name": "Kampung Batas Bengkok"
+      },
+      {
+        "name": "Kampung Batu 1"
+      },
+      {
+        "name": "Kampung Batu 14"
+      },
+      {
+        "name": "Kampung Batu 16"
+      },
+      {
+        "name": "Kampung Batu 17"
+      },
+      {
+        "name": "Kampung Batu 18"
+      },
+      {
+        "name": "Kampung Batu 22"
+      },
+      {
+        "name": "Kampung Batu 4"
+      },
+      {
+        "name": "Kampung Batu 5"
+      },
+      {
+        "name": "Kampung Batu 7"
+      },
+      {
+        "name": "Kampung Batu 7"
+      },
+      {
+        "name": "Kampung Batu Besar"
+      },
+      {
+        "name": "Kampung Batu Lapan"
+      },
+      {
+        "name": "Kampung Batu Lapan"
+      },
+      {
+        "name": "Kampung Batu Lima"
+      },
+      {
+        "name": "Kampung Batu Menunggul"
+      },
+      {
+        "name": "Kampung Begia"
+      },
+      {
+        "name": "Kampung Belanga Pecah"
+      },
+      {
+        "name": "Kampung Belau"
+      },
+      {
+        "name": "Kampung Bendang Baru"
+      },
+      {
+        "name": "Kampung Bendang Man"
+      },
+      {
+        "name": "Kampung Bendang Perang"
+      },
+      {
+        "name": "Kampung Bendang Raja"
+      },
+      {
+        "name": "Kampung Bendang Tok Teri"
+      },
+      {
+        "name": "Kampung Berapit"
+      },
+      {
+        "name": "Kampung Bohor"
+      },
+      {
+        "name": "Kampung Budi"
+      },
+      {
+        "name": "Kampung Bukit"
+      },
+      {
+        "name": "Kampung Bukit"
+      },
+      {
+        "name": "Kampung Bukit"
+      },
+      {
+        "name": "Kampung Bukit Choras"
+      },
+      {
+        "name": "Kampung Bukit Nambua"
+      },
+      {
+        "name": "Kampung Bukit Sarang Ayam"
+      },
+      {
+        "name": "Kampung Bukit Sekechong"
+      },
+      {
+        "name": "Kampung Bukit Tinggi"
+      },
+      {
+        "name": "Kampung Buloh Lima"
+      },
+      {
+        "name": "Kampung Cemara"
+      },
+      {
+        "name": "Kampung Changhai"
+      },
+      {
+        "name": "Kampung Changkat Setol"
+      },
+      {
+        "name": "Kampung Charok Bemban"
+      },
+      {
+        "name": "Kampung Charok Kelian"
+      },
+      {
+        "name": "Kampung Charok Salang"
+      },
+      {
+        "name": "Kampung Charok Sik"
+      },
+      {
+        "name": "Kampung Chepir"
+      },
+      {
+        "name": "Kampung China"
+      },
+      {
+        "name": "Kampung Damai"
+      },
+      {
+        "name": "Kampung Gajah Puteh"
+      },
+      {
+        "name": "Kampung Gerigis"
+      },
+      {
+        "name": "Kampung Guar"
+      },
+      {
+        "name": "Kampung Haji Jamal"
+      },
+      {
+        "name": "Kampung Hijrah"
+      },
+      {
+        "name": "Kampung Hujung Telok Bagan"
+      },
+      {
+        "name": "Kampung Huma"
+      },
+      {
+        "name": "Kampung Hutan"
+      },
+      {
+        "name": "Kampung Hutan Betut"
+      },
+      {
+        "name": "Kampung Hutan Kandis"
+      },
+      {
+        "name": "Kampung Hutan Terabak"
+      },
+      {
+        "name": "Kampung Ibus"
+      },
+      {
+        "name": "Kampung Imam"
+      },
+      {
+        "name": "Kampung Jelai"
+      },
+      {
+        "name": "Kampung Jelatang"
+      },
+      {
+        "name": "Kampung Jemerlang"
+      },
+      {
+        "name": "Kampung Jeragan"
+      },
+      {
+        "name": "Kampung Jerong"
+      },
+      {
+        "name": "Kampung Kandis"
+      },
+      {
+        "name": "Kampung Kebun Pinang"
+      },
+      {
+        "name": "Kampung Kelubi Dalam"
+      },
+      {
+        "name": "Kampung Kelubi Luar"
+      },
+      {
+        "name": "Kampung Kelunchor"
+      },
+      {
+        "name": "Kampung Kelut"
+      },
+      {
+        "name": "Kampung Kemboja"
+      },
+      {
+        "name": "Kampung Kemumbung"
+      },
+      {
+        "name": "Kampung Kepala Batu"
+      },
+      {
+        "name": "Kampung Kepala Dua Puloh"
+      },
+      {
+        "name": "Kampung Kerawai"
+      },
+      {
+        "name": "Kampung Keriang Pulau"
+      },
+      {
+        "name": "Kampung Kilim"
+      },
+      {
+        "name": "Kampung Kuala Alor"
+      },
+      {
+        "name": "Kampung Kuala Dulang Besar"
+      },
+      {
+        "name": "Kampung Kuala Dulang Kechil"
+      },
+      {
+        "name": "Kampung Kuala Kuang"
+      },
+      {
+        "name": "Kampung Kuala Lesong"
+      },
+      {
+        "name": "Kampung Kuala Muda"
+      },
+      {
+        "name": "Kampung Kuala Ruman"
+      },
+      {
+        "name": "Kampung Kuala Sungai"
+      },
+      {
+        "name": "Kampung Kubang Pisang"
+      },
+      {
+        "name": "Kampung Kubang Rotan"
+      },
+      {
+        "name": "Kampung Kubu"
+      },
+      {
+        "name": "Kampung Lanas"
+      },
+      {
+        "name": "Kampung Lancuk Emat"
+      },
+      {
+        "name": "Kampung Lanjut Malau"
+      },
+      {
+        "name": "Kampung Lembah Keriang"
+      },
+      {
+        "name": "Kampung Lubok Gong Gek"
+      },
+      {
+        "name": "Kampung Lubok Perong"
+      },
+      {
+        "name": "Kampung Lubok Pinang"
+      },
+      {
+        "name": "Kampung Masjid"
+      },
+      {
+        "name": "Kampung Masjid Lama"
+      },
+      {
+        "name": "Kampung Matang Gadong"
+      },
+      {
+        "name": "Kampung Matang Kong"
+      },
+      {
+        "name": "Kampung Matang Paku"
+      },
+      {
+        "name": "Kampung Memali"
+      },
+      {
+        "name": "Kampung Merbau Kudong"
+      },
+      {
+        "name": "Kampung Minangkabau"
+      },
+      {
+        "name": "Kampung Naga"
+      },
+      {
+        "name": "Kampung Nai Teh"
+      },
+      {
+        "name": "Kampung Nami"
+      },
+      {
+        "name": "Kampung Napuh Hulu"
+      },
+      {
+        "name": "Kampung Natoi"
+      },
+      {
+        "name": "Kampung Olak Madu"
+      },
+      {
+        "name": "Kampung Padang Cina"
+      },
+      {
+        "name": "Kampung Padang Gaong"
+      },
+      {
+        "name": "Kampung Padang Halban"
+      },
+      {
+        "name": "Kampung Padang Kerasak"
+      },
+      {
+        "name": "Kampung Padang Kulim"
+      },
+      {
+        "name": "Kampung Padang Lalang"
+      },
+      {
+        "name": "Kampung Padang Lengkuas"
+      },
+      {
+        "name": "Kampung Padang Limau"
+      },
+      {
+        "name": "Kampung Padang Panjang"
+      },
+      {
+        "name": "Kampung Panchor"
+      },
+      {
+        "name": "Kampung Parit Panjang"
+      },
+      {
+        "name": "Kampung Paya Mempelam"
+      },
+      {
+        "name": "Kampung Paya Serdang"
+      },
+      {
+        "name": "Kampung Pegawai"
+      },
+      {
+        "name": "Kampung Penghulu Him"
+      },
+      {
+        "name": "Kampung Peregam"
+      },
+      {
+        "name": "Kampung Perik"
+      },
+      {
+        "name": "Kampung Permatang Bongor"
+      },
+      {
+        "name": "Kampung Permatang Durian"
+      },
+      {
+        "name": "Kampung Permatang Pasir"
+      },
+      {
+        "name": "Kampung Permatang Simpor"
+      },
+      {
+        "name": "Kampung Pisang"
+      },
+      {
+        "name": "Kampung Pokok Asam"
+      },
+      {
+        "name": "Kampung Pokok Assam"
+      },
+      {
+        "name": "Kampung Pokok Tai"
+      },
+      {
+        "name": "Kampung Pulai"
+      },
+      {
+        "name": "Kampung Pulau Kechik"
+      },
+      {
+        "name": "Kampung Pulau Kerengga"
+      },
+      {
+        "name": "Kampung Pulau Pak Ubin"
+      },
+      {
+        "name": "Kampung Pulau Pisang"
+      },
+      {
+        "name": "Kampung Pulau Tengah"
+      },
+      {
+        "name": "Kampung Putat"
+      },
+      {
+        "name": "Kampung Rambutan"
+      },
+      {
+        "name": "Kampung Rancangan Bukit Tembaga"
+      },
+      {
+        "name": "Kampung Rawa"
+      },
+      {
+        "name": "Kampung Salit"
+      },
+      {
+        "name": "Kampung Seberang Jaya"
+      },
+      {
+        "name": "Kampung Seberang Pumpong"
+      },
+      {
+        "name": "Kampung Seberang Tok Soh"
+      },
+      {
+        "name": "Kampung Selarong Lalang Kanan"
+      },
+      {
+        "name": "Kampung Selarong Panjang"
+      },
+      {
+        "name": "Kampung Sematang Gunong"
+      },
+      {
+        "name": "Kampung Sematang Pinang"
+      },
+      {
+        "name": "Kampung Sena"
+      },
+      {
+        "name": "Kampung Senggora"
+      },
+      {
+        "name": "Kampung Sentosa"
+      },
+      {
+        "name": "Kampung Sera"
+      },
+      {
+        "name": "Kampung Setar"
+      },
+      {
+        "name": "Kampung Simpang Empat Kuar"
+      },
+      {
+        "name": "Kampung Suka Menanti"
+      },
+      {
+        "name": "Kampung Sungai Aton"
+      },
+      {
+        "name": "Kampung Sungai Dedap"
+      },
+      {
+        "name": "Kampung Sungai Durian"
+      },
+      {
+        "name": "Kampung Sungai Korok 1"
+      },
+      {
+        "name": "Kampung Sungai Limau"
+      },
+      {
+        "name": "Kampung Sungai Lintang"
+      },
+      {
+        "name": "Kampung Sungai Mati"
+      },
+      {
+        "name": "Kampung Sungai Nonang"
+      },
+      {
+        "name": "Kampung Sungai Papan"
+      },
+      {
+        "name": "Kampung Sungai Tembak"
+      },
+      {
+        "name": "Kampung Sungai Tengas"
+      },
+      {
+        "name": "Kampung Tanjung Kiri"
+      },
+      {
+        "name": "Kampung Tanjung Putus"
+      },
+      {
+        "name": "Kampung Tas"
+      },
+      {
+        "name": "Kampung Telaga Batu"
+      },
+      {
+        "name": "Kampung Telaga Batu"
+      },
+      {
+        "name": "Kampung Teloi Tua"
+      },
+      {
+        "name": "Kampung Telok Binasa"
+      },
+      {
+        "name": "Kampung Telok Chengai"
+      },
+      {
+        "name": "Kampung Telok Gelam"
+      },
+      {
+        "name": "Kampung Telok Jawa"
+      },
+      {
+        "name": "Kampung Telok Kechai"
+      },
+      {
+        "name": "Kampung Telok Talipon"
+      },
+      {
+        "name": "Kampung Teluk Bagan"
+      },
+      {
+        "name": "Kampung Teluk Bulang"
+      },
+      {
+        "name": "Kampung Teluk Malek"
+      },
+      {
+        "name": "Kampung Tengah"
+      },
+      {
+        "name": "Kampung Tengah"
+      },
+      {
+        "name": "Kampung Tiak"
+      },
+      {
+        "name": "Kampung Titi Batu"
+      },
+      {
+        "name": "Kampung Titi Gajah"
+      },
+      {
+        "name": "Kampung Titi Teras"
+      },
+      {
+        "name": "Kampung Tok Jalai"
+      },
+      {
+        "name": "Kampung Tok Kassim"
+      },
+      {
+        "name": "Kampung Tradisi"
+      },
+      {
+        "name": "Kampung Tradisi Paya Pahlawan"
+      },
+      {
+        "name": "Kampung Tupai"
+      },
+      {
+        "name": "Kampung Ulu Sedaka"
+      },
+      {
+        "name": "Karangan"
+      },
+      {
+        "name": "Kebun 500"
+      },
+      {
+        "name": "Kelang Baharu"
+      },
+      {
+        "name": "Kepala Batas"
+      },
+      {
+        "name": "Kerpan"
+      },
+      {
+        "name": "Kg Perak"
+      },
+      {
+        "name": "Kobah"
+      },
+      {
+        "name": "Kodiang"
+      },
+      {
+        "name": "Kota Giam"
+      },
+      {
+        "name": "Kota Kuala Muda"
+      },
+      {
+        "name": "Kota Sarang Semut"
+      },
+      {
+        "name": "Kuah"
+      },
+      {
+        "name": "Kuala Kangkong"
+      },
+      {
+        "name": "Kuala Kedah"
+      },
+      {
+        "name": "Kuala Kerpan"
+      },
+      {
+        "name": "Kuala Ketil"
+      },
+      {
+        "name": "Kuala Nerang"
+      },
+      {
+        "name": "Kuala Pegang"
+      },
+      {
+        "name": "Kuala Sala"
+      },
+      {
+        "name": "Kuala Sin"
+      },
+      {
+        "name": "Kuala Teriang"
+      },
+      {
+        "name": "Kubang Leret"
+      },
+      {
+        "name": "Kubang Sepat"
+      },
+      {
+        "name": "Kubur Panjang"
+      },
+      {
+        "name": "Kulim"
+      },
+      {
+        "name": "Kupang"
+      },
+      {
+        "name": "Limbong"
+      },
+      {
+        "name": "Lubok Buntar"
+      },
+      {
+        "name": "Lubuk Getah"
+      },
+      {
+        "name": "Lubuk Kawah"
+      },
+      {
+        "name": "Lunas"
+      },
+      {
+        "name": "Malau"
+      },
+      {
+        "name": "Mata Ayer"
+      },
+      {
+        "name": "Megat Dewa"
+      },
+      {
+        "name": "Mentaloon"
+      },
+      {
+        "name": "Merbau Pulas"
+      },
+      {
+        "name": "Merbok"
+      },
+      {
+        "name": "Naga Lilit"
+      },
+      {
+        "name": "Naka"
+      },
+      {
+        "name": "Napoh"
+      },
+      {
+        "name": "Nawa"
+      },
+      {
+        "name": "Oriental Village"
+      },
+      {
+        "name": "Padang Durian"
+      },
+      {
+        "name": "Padang Lembu"
+      },
+      {
+        "name": "Padang Lumat"
+      },
+      {
+        "name": "Padang Meiha"
+      },
+      {
+        "name": "Padang Pusing"
+      },
+      {
+        "name": "Padang Sanai"
+      },
+      {
+        "name": "Padang Serai"
+      },
+      {
+        "name": "Padang Sira"
+      },
+      {
+        "name": "Pantai Cenang"
+      },
+      {
+        "name": "Pantai Jamai"
+      },
+      {
+        "name": "Pantai Johor"
+      },
+      {
+        "name": "Pantai Tanjung Rhu"
+      },
+      {
+        "name": "Pantai Tengah"
+      },
+      {
+        "name": "Paya Keriang Menyabong"
+      },
+      {
+        "name": "Paya Lateh"
+      },
+      {
+        "name": "Pekan Langgar"
+      },
+      {
+        "name": "Pelubang"
+      },
+      {
+        "name": "Pengkalan Kakap"
+      },
+      {
+        "name": "Penyarom"
+      },
+      {
+        "name": "Permatang Buluh"
+      },
+      {
+        "name": "Permatang Ibus"
+      },
+      {
+        "name": "Permatang Kerat Telunjuk"
+      },
+      {
+        "name": "Pokok Sena"
+      },
+      {
+        "name": "Pondok Chegar"
+      },
+      {
+        "name": "Pong Utara"
+      },
+      {
+        "name": "Pulai"
+      },
+      {
+        "name": "Pulau Chapa"
+      },
+      {
+        "name": "Pumpong"
+      },
+      {
+        "name": "Relau"
+      },
+      {
+        "name": "Ruat"
+      },
+      {
+        "name": "Sanglang"
+      },
+      {
+        "name": "Sawa Kecil"
+      },
+      {
+        "name": "Sedaka"
+      },
+      {
+        "name": "Selama (Bandar Baharu)"
+      },
+      {
+        "name": "Selarong Batang"
+      },
+      {
+        "name": "Selingkoh"
+      },
+      {
+        "name": "Semeling"
+      },
+      {
+        "name": "Senara"
+      },
+      {
+        "name": "Serdang"
+      },
+      {
+        "name": "Sidam Kanan"
+      },
+      {
+        "name": "Sidam Kiri"
+      },
+      {
+        "name": "Sik"
+      },
+      {
+        "name": "Simpang Empat"
+      },
+      {
+        "name": "Simpang Tiga Sungai Limau"
+      },
+      {
+        "name": "Singkir Laut"
+      },
+      {
+        "name": "Sintok"
+      },
+      {
+        "name": "Siong"
+      },
+      {
+        "name": "Sungai Daun"
+      },
+      {
+        "name": "Sungai Lalang"
+      },
+      {
+        "name": "Sungai Limau Dalam"
+      },
+      {
+        "name": "Sungai Petani"
+      },
+      {
+        "name": "Sungai Seluang"
+      },
+      {
+        "name": "Sungai Tiang"
+      },
+      {
+        "name": "Taman Nilam"
+      },
+      {
+        "name": "Tanah Merah"
+      },
+      {
+        "name": "Tanah Merah"
+      },
+      {
+        "name": "Tanjung Dawai"
+      },
+      {
+        "name": "Tawar"
+      },
+      {
+        "name": "Tebengau"
+      },
+      {
+        "name": "Telaga Bata"
+      },
+      {
+        "name": "Terap"
+      },
+      {
+        "name": "Teroi"
+      },
+      {
+        "name": "Tikam Batu"
+      },
+      {
+        "name": "Titi Haji Idris"
+      },
+      {
+        "name": "Titi Serong"
+      },
+      {
+        "name": "Tokai"
+      },
+      {
+        "name": "Tualang"
+      },
+      {
+        "name": "Tunjang"
+      },
+      {
+        "name": "Yan Besar"
+      },
+      {
+        "name": "Yan Kechil"
+      }
+    ]
+  },
+  {
+    "name": "Kelantan",
+    "cities": [
+      {
+        "name": "Ayer Lanas"
+      },
+      {
+        "name": "Bachok"
+      },
+      {
+        "name": "Banggol"
+      },
+      {
+        "name": "Bukit Bunga"
+      },
+      {
+        "name": "Bukit Panau"
+      },
+      {
+        "name": "Chegar Bedil"
+      },
+      {
+        "name": "Chenulang"
+      },
+      {
+        "name": "Cherang Ruku"
+      },
+      {
+        "name": "Dabong"
+      },
+      {
+        "name": "Felda Aring 1"
+      },
+      {
+        "name": "Felda Aring 4"
+      },
+      {
+        "name": "Felda Aring 5"
+      },
+      {
+        "name": "Felda Aring 6"
+      },
+      {
+        "name": "Felda Aring 8"
+      },
+      {
+        "name": "Felda Ciku"
+      },
+      {
+        "name": "Gua Musang"
+      },
+      {
+        "name": "Jelawang"
+      },
+      {
+        "name": "Jelawat"
+      },
+      {
+        "name": "Jeli"
+      },
+      {
+        "name": "Kampong Dendong A"
+      },
+      {
+        "name": "Kampong Kubur Datu"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung Barong"
+      },
+      {
+        "name": "Kampung Baru Sungai Rual"
+      },
+      {
+        "name": "Kampung Belahat"
+      },
+      {
+        "name": "Kampung Chachu"
+      },
+      {
+        "name": "Kampung Chemal"
+      },
+      {
+        "name": "Kampung Cina"
+      },
+      {
+        "name": "Kampung Gunong"
+      },
+      {
+        "name": "Kampung Jabir"
+      },
+      {
+        "name": "Kampung Jenereh Bongkok"
+      },
+      {
+        "name": "Kampung Kebakat"
+      },
+      {
+        "name": "Kampung Kemahang"
+      },
+      {
+        "name": "Kampung Kemuning"
+      },
+      {
+        "name": "Kampung Kok Keli"
+      },
+      {
+        "name": "Kampung Kok Pasir"
+      },
+      {
+        "name": "Kampung Kubang Batang"
+      },
+      {
+        "name": "Kampung Kulim"
+      },
+      {
+        "name": "Kampung Pengkalan Kubor"
+      },
+      {
+        "name": "Kampung Sering"
+      },
+      {
+        "name": "Kampung Sungai Batu"
+      },
+      {
+        "name": "Kampung Tangkol"
+      },
+      {
+        "name": "Kampung Tawang"
+      },
+      {
+        "name": "Kampung Tendong"
+      },
+      {
+        "name": "Kedai Lalat"
+      },
+      {
+        "name": "Kedai Mulong"
+      },
+      {
+        "name": "Kemubu"
+      },
+      {
+        "name": "Ketereh"
+      },
+      {
+        "name": "Kg. Tanah Puteh"
+      },
+      {
+        "name": "Kok Lanas"
+      },
+      {
+        "name": "Kota Bharu"
+      },
+      {
+        "name": "Kuala Balah"
+      },
+      {
+        "name": "Kuala Betis"
+      },
+      {
+        "name": "Kuala Krai"
+      },
+      {
+        "name": "Kubang Kerian"
+      },
+      {
+        "name": "Lakota"
+      },
+      {
+        "name": "Lawang"
+      },
+      {
+        "name": "Limau Kasturi"
+      },
+      {
+        "name": "Lojing"
+      },
+      {
+        "name": "Machang"
+      },
+      {
+        "name": "Manek Urai"
+      },
+      {
+        "name": "Melor"
+      },
+      {
+        "name": "Meranti"
+      },
+      {
+        "name": "Nibong"
+      },
+      {
+        "name": "Panglima Bayu"
+      },
+      {
+        "name": "Pasir Mas"
+      },
+      {
+        "name": "Pasir Puteh"
+      },
+      {
+        "name": "Peringat"
+      },
+      {
+        "name": "Pos Balar"
+      },
+      {
+        "name": "Pulai"
+      },
+      {
+        "name": "Pulai Chondong"
+      },
+      {
+        "name": "Rantau Panjang"
+      },
+      {
+        "name": "Sabak"
+      },
+      {
+        "name": "Salor"
+      },
+      {
+        "name": "Sirian"
+      },
+      {
+        "name": "Sri Bintang"
+      },
+      {
+        "name": "Sungai Asap"
+      },
+      {
+        "name": "Sungai Long"
+      },
+      {
+        "name": "Sungai Rual"
+      },
+      {
+        "name": "Tanah Merah"
+      },
+      {
+        "name": "Temangan"
+      },
+      {
+        "name": "To Uban"
+      },
+      {
+        "name": "Tok Bok"
+      },
+      {
+        "name": "Tumpat"
+      },
+      {
+        "name": "Wakaf Bharu"
+      }
+    ]
+  },
+  {
+    "name": "Melaka",
+    "cities": [
+      {
+        "name": "Alor Gajah"
+      },
+      {
+        "name": "Asahan"
+      },
+      {
+        "name": "Ayer Keroh"
+      },
+      {
+        "name": "Bandaraya Melaka"
+      },
+      {
+        "name": "Batang Melaka"
+      },
+      {
+        "name": "Bemban"
+      },
+      {
+        "name": "Bukit Asahan"
+      },
+      {
+        "name": "Durian Tunggal"
+      },
+      {
+        "name": "Felda Bukit Senggeh"
+      },
+      {
+        "name": "Jasin"
+      },
+      {
+        "name": "Kampung Baru Paya Mengkuang"
+      },
+      {
+        "name": "Kampung Man Lok"
+      },
+      {
+        "name": "Kampung Paya Dalam"
+      },
+      {
+        "name": "Kampung Ulu Duyong"
+      },
+      {
+        "name": "Kesang Pajak"
+      },
+      {
+        "name": "Kg Maju Pondok Batang"
+      },
+      {
+        "name": "Kg. Batang Tiga Timur"
+      },
+      {
+        "name": "Kg. Bertam Malim"
+      },
+      {
+        "name": "Kg. Tanjung Minyak"
+      },
+      {
+        "name": "Lendu"
+      },
+      {
+        "name": "Lubuk China"
+      },
+      {
+        "name": "Masjid Tanah"
+      },
+      {
+        "name": "Merlimau"
+      },
+      {
+        "name": "Paya Lebar"
+      },
+      {
+        "name": "Paya Mengkuang"
+      },
+      {
+        "name": "Paya Rumput"
+      },
+      {
+        "name": "Pekan Pasir"
+      },
+      {
+        "name": "Pulau Sebang"
+      },
+      {
+        "name": "Selandar"
+      },
+      {
+        "name": "Sempang Kerayong"
+      },
+      {
+        "name": "Simpang Bekoh"
+      },
+      {
+        "name": "Simpang Empat"
+      },
+      {
+        "name": "Sungai Rambai"
+      },
+      {
+        "name": "Sungai Udang"
+      },
+      {
+        "name": "Taman Mengkuang"
+      },
+      {
+        "name": "Tanjung Keling"
+      }
+    ]
+  },
+  {
+    "name": "Negeri Sembilan",
+    "cities": [
+      {
+        "name": "Ayer Kuning"
+      },
+      {
+        "name": "Bahau"
+      },
+      {
+        "name": "Bandar Seri Jempol (Bandar Baru Serting)"
+      },
+      {
+        "name": "Batu Kikir"
+      },
+      {
+        "name": "Broga"
+      },
+      {
+        "name": "Bukit Batu Sawa"
+      },
+      {
+        "name": "Bukit Pelanduk"
+      },
+      {
+        "name": "Felda Bukit Jalor"
+      },
+      {
+        "name": "Felda Jelai"
+      },
+      {
+        "name": "Felda Pasir Besar"
+      },
+      {
+        "name": "Felda Pasoh Empat"
+      },
+      {
+        "name": "Gadong"
+      },
+      {
+        "name": "Gemas"
+      },
+      {
+        "name": "Gemencheh"
+      },
+      {
+        "name": "Johol"
+      },
+      {
+        "name": "Juasseh"
+      },
+      {
+        "name": "Kampung Amar Penghulu"
+      },
+      {
+        "name": "Kampung Baru Merah Site A"
+      },
+      {
+        "name": "Kampung Baru Pantai"
+      },
+      {
+        "name": "Kampung Baru Pertang"
+      },
+      {
+        "name": "Kampung Bukit Kubot"
+      },
+      {
+        "name": "Kampung Gedang"
+      },
+      {
+        "name": "Kampung Ibol"
+      },
+      {
+        "name": "Kampung Ismail"
+      },
+      {
+        "name": "Kampung Kelaka"
+      },
+      {
+        "name": "Kampung Kemin"
+      },
+      {
+        "name": "Kampung Kuala Pahi"
+      },
+      {
+        "name": "Kampung Ngoi Ngoi"
+      },
+      {
+        "name": "Kampung Panchor"
+      },
+      {
+        "name": "Kampung Pantai"
+      },
+      {
+        "name": "Kampung Parit"
+      },
+      {
+        "name": "Kampung Parit Mulu"
+      },
+      {
+        "name": "Kampung Pelangai"
+      },
+      {
+        "name": "Kampung Peradong"
+      },
+      {
+        "name": "Kampung Petaseh"
+      },
+      {
+        "name": "Kampung Petaseh Hulu"
+      },
+      {
+        "name": "Kampung Rambai Baris"
+      },
+      {
+        "name": "Kampung Renal"
+      },
+      {
+        "name": "Kampung Sawah"
+      },
+      {
+        "name": "Kampung Serting Tengah"
+      },
+      {
+        "name": "Kampung Serting Ulu"
+      },
+      {
+        "name": "Kampung Simpang Gelam"
+      },
+      {
+        "name": "Kampung Sungai Timun"
+      },
+      {
+        "name": "Kampung Tembun"
+      },
+      {
+        "name": "Kampung Terachi"
+      },
+      {
+        "name": "Kampung Ulu Klawang"
+      },
+      {
+        "name": "Kg. Acheh"
+      },
+      {
+        "name": "Kg. Bukit Gelugor"
+      },
+      {
+        "name": "Kg. Tekir"
+      },
+      {
+        "name": "Kota"
+      },
+      {
+        "name": "Kuala Klawang"
+      },
+      {
+        "name": "Kuala Pilah"
+      },
+      {
+        "name": "Kuning Selatan"
+      },
+      {
+        "name": "Labu"
+      },
+      {
+        "name": "Ladang Geddes"
+      },
+      {
+        "name": "Ladang Sua Betong"
+      },
+      {
+        "name": "Lenggeng"
+      },
+      {
+        "name": "Linggi"
+      },
+      {
+        "name": "Mantin"
+      },
+      {
+        "name": "Nilai"
+      },
+      {
+        "name": "Pajam"
+      },
+      {
+        "name": "Pantai"
+      },
+      {
+        "name": "Parit Tinggi"
+      },
+      {
+        "name": "Pasir Panjang"
+      },
+      {
+        "name": "Pedas"
+      },
+      {
+        "name": "Pengkalan Kempas"
+      },
+      {
+        "name": "Pertang"
+      },
+      {
+        "name": "Port Dickson"
+      },
+      {
+        "name": "Pusat Bandar Palong"
+      },
+      {
+        "name": "Rantau"
+      },
+      {
+        "name": "Rembau"
+      },
+      {
+        "name": "Rompin"
+      },
+      {
+        "name": "Senaling"
+      },
+      {
+        "name": "Seremban"
+      },
+      {
+        "name": "Serting Hilir"
+      },
+      {
+        "name": "Siliau"
+      },
+      {
+        "name": "Simpang Pertang"
+      },
+      {
+        "name": "Sri Parit"
+      },
+      {
+        "name": "Sungai Lui"
+      },
+      {
+        "name": "Sungai Muntoh"
+      },
+      {
+        "name": "Taman Moyang Salleh"
+      },
+      {
+        "name": "Taman Sri Terachi"
+      },
+      {
+        "name": "Tampin"
+      },
+      {
+        "name": "Tanah Merah Site C"
+      },
+      {
+        "name": "Tanjung Ipoh"
+      }
+    ]
+  },
+  {
+    "name": "Pahang",
+    "cities": [
+      {
+        "name": "Bandar Baharu Rompin"
+      },
+      {
+        "name": "Bandar Jengka"
+      },
+      {
+        "name": "Bandar Muadzam Shah"
+      },
+      {
+        "name": "Bandar Tun Abdul Razak"
+      },
+      {
+        "name": "Batu Malim"
+      },
+      {
+        "name": "Bentong"
+      },
+      {
+        "name": "Bukit Fraser"
+      },
+      {
+        "name": "Bukit Ibam"
+      },
+      {
+        "name": "Bukit Puchong"
+      },
+      {
+        "name": "Bukit Tinggi"
+      },
+      {
+        "name": "Cameron Highlands"
+      },
+      {
+        "name": "Chenor"
+      },
+      {
+        "name": "Cherating"
+      },
+      {
+        "name": "Damak"
+      },
+      {
+        "name": "Desa Warisan Putra"
+      },
+      {
+        "name": "Felda Anggerik Jengka 1"
+      },
+      {
+        "name": "Felda Bukit Goh"
+      },
+      {
+        "name": "Felda Bukit Mendi"
+      },
+      {
+        "name": "Felda Cempaka Jengka 2"
+      },
+      {
+        "name": "Felda Chini"
+      },
+      {
+        "name": "Felda Chini Timur"
+      },
+      {
+        "name": "Felda Dahlia Jengka 3"
+      },
+      {
+        "name": "Felda Keembung Jengka 6"
+      },
+      {
+        "name": "Felda Kekwa Jengka 5"
+      },
+      {
+        "name": "Felda Lepar"
+      },
+      {
+        "name": "Felda Lepar Hilir 1"
+      },
+      {
+        "name": "Felda Lepar Utara"
+      },
+      {
+        "name": "Felda Mawar Jengka 10"
+      },
+      {
+        "name": "Felda Melati Jengka 11"
+      },
+      {
+        "name": "Felda Melor Jengka 12"
+      },
+      {
+        "name": "Felda Mempaga"
+      },
+      {
+        "name": "Felda Padang Piol"
+      },
+      {
+        "name": "Felda Panching Selatan"
+      },
+      {
+        "name": "Felda Selancar 2"
+      },
+      {
+        "name": "Felda Selancar 3"
+      },
+      {
+        "name": "Felda Selancar 4"
+      },
+      {
+        "name": "Felda Selancar 5"
+      },
+      {
+        "name": "Felda Sungai Kemahal"
+      },
+      {
+        "name": "Felda Sungai Retang"
+      },
+      {
+        "name": "Felda Sungai Tekam"
+      },
+      {
+        "name": "Felda Tersang"
+      },
+      {
+        "name": "Felda Triang 3"
+      },
+      {
+        "name": "Felda Ulu Jempol"
+      },
+      {
+        "name": "Ganchong"
+      },
+      {
+        "name": "Genting Highlands"
+      },
+      {
+        "name": "Genting Sempah"
+      },
+      {
+        "name": "Jerantut"
+      },
+      {
+        "name": "Kampong Kasing"
+      },
+      {
+        "name": "Kampong Telang"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung Asap"
+      },
+      {
+        "name": "Kampung Bangau Tanjung"
+      },
+      {
+        "name": "Kampung Bantal"
+      },
+      {
+        "name": "Kampung Baru Cherating"
+      },
+      {
+        "name": "Kampung Baru Simpang Sanggang"
+      },
+      {
+        "name": "Kampung Batu Empat"
+      },
+      {
+        "name": "Kampung Batu Kapur"
+      },
+      {
+        "name": "Kampung Bukit Dinding"
+      },
+      {
+        "name": "Kampung Bukit Genting"
+      },
+      {
+        "name": "Kampung Bukit Ketumbit"
+      },
+      {
+        "name": "Kampung Bukit Lada"
+      },
+      {
+        "name": "Kampung Bukit Lada"
+      },
+      {
+        "name": "Kampung Bukit Ngeri"
+      },
+      {
+        "name": "Kampung Chatin"
+      },
+      {
+        "name": "Kampung Chendor"
+      },
+      {
+        "name": "Kampung Chengkenik"
+      },
+      {
+        "name": "Kampung Dala"
+      },
+      {
+        "name": "Kampung Darat Sanggang"
+      },
+      {
+        "name": "Kampung Dato Shariff Ahmad"
+      },
+      {
+        "name": "Kampung Desa Murni"
+      },
+      {
+        "name": "Kampung Gajah Mati"
+      },
+      {
+        "name": "Kampung Gajah Mati"
+      },
+      {
+        "name": "Kampung Gali"
+      },
+      {
+        "name": "Kampung Gantok"
+      },
+      {
+        "name": "Kampung Gebeng"
+      },
+      {
+        "name": "Kampung Gong Halt"
+      },
+      {
+        "name": "Kampung Guntong"
+      },
+      {
+        "name": "Kampung Jalan Tegak"
+      },
+      {
+        "name": "Kampung Jambu Rias"
+      },
+      {
+        "name": "Kampung Janda Baik"
+      },
+      {
+        "name": "Kampung Jerantut Peri"
+      },
+      {
+        "name": "Kampung Karak Setia"
+      },
+      {
+        "name": "Kampung Kelat Rendang"
+      },
+      {
+        "name": "Kampung Kelibang"
+      },
+      {
+        "name": "Kampung Kenangan"
+      },
+      {
+        "name": "Kampung Ketam"
+      },
+      {
+        "name": "Kampung Kuala Kaung"
+      },
+      {
+        "name": "Kampung Kuala Mai"
+      },
+      {
+        "name": "Kampung Kuala Sanggang"
+      },
+      {
+        "name": "Kampung Kubang Ikan"
+      },
+      {
+        "name": "Kampung Labu"
+      },
+      {
+        "name": "Kampung Lebu"
+      },
+      {
+        "name": "Kampung Lengkong"
+      },
+      {
+        "name": "Kampung Lipat Kajang"
+      },
+      {
+        "name": "Kampung Lompat"
+      },
+      {
+        "name": "Kampung Lubuk Payong"
+      },
+      {
+        "name": "Kampung Mambang Berulang"
+      },
+      {
+        "name": "Kampung Marhum"
+      },
+      {
+        "name": "Kampung Masjid"
+      },
+      {
+        "name": "Kampung Orang Asli Batu 14"
+      },
+      {
+        "name": "Kampung Padang"
+      },
+      {
+        "name": "Kampung Padang Lalang"
+      },
+      {
+        "name": "Kampung Padang Piol"
+      },
+      {
+        "name": "Kampung Padang Tenggala"
+      },
+      {
+        "name": "Kampung Paya Banir"
+      },
+      {
+        "name": "Kampung Paya Jauh"
+      },
+      {
+        "name": "Kampung Paya Jejawi"
+      },
+      {
+        "name": "Kampung Paya Kechik"
+      },
+      {
+        "name": "Kampung Paya Mengkuang"
+      },
+      {
+        "name": "Kampung Peragap"
+      },
+      {
+        "name": "Kampung Permatang Arang"
+      },
+      {
+        "name": "Kampung Petoh"
+      },
+      {
+        "name": "Kampung Pulau Jawa"
+      },
+      {
+        "name": "Kampung Pulau Tambun"
+      },
+      {
+        "name": "Kampung Punjung"
+      },
+      {
+        "name": "Kampung Raja"
+      },
+      {
+        "name": "Kampung Rui"
+      },
+      {
+        "name": "Kampung Sanggang"
+      },
+      {
+        "name": "Kampung Sanggang Bahagia"
+      },
+      {
+        "name": "Kampung Satak"
+      },
+      {
+        "name": "Kampung Seboi"
+      },
+      {
+        "name": "Kampung Sentosa"
+      },
+      {
+        "name": "Kampung Simpang Tebing Tinggi"
+      },
+      {
+        "name": "Kampung Siong"
+      },
+      {
+        "name": "Kampung Sungai Buluh"
+      },
+      {
+        "name": "Kampung Sungai Karang Darat"
+      },
+      {
+        "name": "Kampung Sungai Klau"
+      },
+      {
+        "name": "Kampung Sungai Penjuring"
+      },
+      {
+        "name": "Kampung Sungai Ular"
+      },
+      {
+        "name": "Kampung Sungai Ular"
+      },
+      {
+        "name": "Kampung Tan Sri Yahya"
+      },
+      {
+        "name": "Kampung Tanam"
+      },
+      {
+        "name": "Kampung Tanjung Gahai"
+      },
+      {
+        "name": "Kampung Tanjung Medang Hilir"
+      },
+      {
+        "name": "Kampung Temai"
+      },
+      {
+        "name": "Kampung Tengah"
+      },
+      {
+        "name": "Kampung Teroh"
+      },
+      {
+        "name": "Kampung Tiram"
+      },
+      {
+        "name": "Kampung Tualang"
+      },
+      {
+        "name": "Kampung Tualang Hilir"
+      },
+      {
+        "name": "Kampung Ubai"
+      },
+      {
+        "name": "Karak"
+      },
+      {
+        "name": "Kemayan"
+      },
+      {
+        "name": "Kerdau"
+      },
+      {
+        "name": "Kg Batu Putih"
+      },
+      {
+        "name": "Kg Leban Chondong"
+      },
+      {
+        "name": "Kg Orang Asli Batu 8"
+      },
+      {
+        "name": "Kg Pulau Tawar Baru"
+      },
+      {
+        "name": "Kg Sepakat"
+      },
+      {
+        "name": "Kg Serun"
+      },
+      {
+        "name": "Kg Sungai Dua"
+      },
+      {
+        "name": "Kuala Kenau"
+      },
+      {
+        "name": "Kuala Krau"
+      },
+      {
+        "name": "Kuala Lipis"
+      },
+      {
+        "name": "Kuala Medang"
+      },
+      {
+        "name": "Kuala Pahang"
+      },
+      {
+        "name": "Kuala Rompin"
+      },
+      {
+        "name": "Kuala Tahan"
+      },
+      {
+        "name": "Kuantan"
+      },
+      {
+        "name": "Lepar"
+      },
+      {
+        "name": "Maran"
+      },
+      {
+        "name": "Mentakab"
+      },
+      {
+        "name": "Merapoh"
+      },
+      {
+        "name": "Nenasi"
+      },
+      {
+        "name": "Paloh Hinai"
+      },
+      {
+        "name": "Pekan"
+      },
+      {
+        "name": "Pekan Tajau"
+      },
+      {
+        "name": "Pos Buntu"
+      },
+      {
+        "name": "Pos Lejang"
+      },
+      {
+        "name": "Raub"
+      },
+      {
+        "name": "Rompin"
+      },
+      {
+        "name": "Sepayang"
+      },
+      {
+        "name": "Simpang Pelangai"
+      },
+      {
+        "name": "Songsang"
+      },
+      {
+        "name": "Sri Jaya"
+      },
+      {
+        "name": "Sungai Jerik"
+      },
+      {
+        "name": "Sungai Koyan"
+      },
+      {
+        "name": "Sungai Lembing"
+      },
+      {
+        "name": "Sungai Ruan"
+      },
+      {
+        "name": "Taman Baging Jaya"
+      },
+      {
+        "name": "Taman Bukit Cermin"
+      },
+      {
+        "name": "Taman Chatin Indah"
+      },
+      {
+        "name": "Taman Desa Aman"
+      },
+      {
+        "name": "Taman Desa Bangau"
+      },
+      {
+        "name": "Taman Desa Bongsu"
+      },
+      {
+        "name": "Taman Desa Jaya"
+      },
+      {
+        "name": "Taman Jaya 7"
+      },
+      {
+        "name": "Taman Murni"
+      },
+      {
+        "name": "Taman Sentosa"
+      },
+      {
+        "name": "Taman Sri Kemuning"
+      },
+      {
+        "name": "Tekam Utara"
+      },
+      {
+        "name": "Temerloh"
+      },
+      {
+        "name": "Triang"
+      }
+    ]
+  },
+  {
+    "name": "Perak",
+    "cities": [
+      {
+        "name": "Alor Pongsu"
+      },
+      {
+        "name": "Ayer Kuning"
+      },
+      {
+        "name": "Ayer Tawar"
+      },
+      {
+        "name": "Bagan Baharu"
+      },
+      {
+        "name": "Bagan Datuk"
+      },
+      {
+        "name": "Bagan Serai"
+      },
+      {
+        "name": "Bagan Tiang"
+      },
+      {
+        "name": "Bandariang"
+      },
+      {
+        "name": "Batu Gajah"
+      },
+      {
+        "name": "Batu Kurau"
+      },
+      {
+        "name": "Behrang"
+      },
+      {
+        "name": "Beruas"
+      },
+      {
+        "name": "Besout"
+      },
+      {
+        "name": "Beswok"
+      },
+      {
+        "name": "Bidor"
+      },
+      {
+        "name": "Bota"
+      },
+      {
+        "name": "Bukit Bertam"
+      },
+      {
+        "name": "Changkat Jering"
+      },
+      {
+        "name": "Changkat Keruing"
+      },
+      {
+        "name": "Changkat Lada"
+      },
+      {
+        "name": "Chemor"
+      },
+      {
+        "name": "Chenderiang"
+      },
+      {
+        "name": "Chenderong Balai"
+      },
+      {
+        "name": "Chikus"
+      },
+      {
+        "name": "Dawoj"
+      },
+      {
+        "name": "Felcra Seberang Perak"
+      },
+      {
+        "name": "Felda Ijok"
+      },
+      {
+        "name": "Felda Lawin Utara"
+      },
+      {
+        "name": "Felda Papulut"
+      },
+      {
+        "name": "Gerik"
+      },
+      {
+        "name": "Gopeng"
+      },
+      {
+        "name": "Guntong"
+      },
+      {
+        "name": "Hutan Melintang"
+      },
+      {
+        "name": "Ipoh"
+      },
+      {
+        "name": "Jelai"
+      },
+      {
+        "name": "Kampar"
+      },
+      {
+        "name": "Kampong Gajah"
+      },
+      {
+        "name": "Kampung Air Panas"
+      },
+      {
+        "name": "Kampung Ayer Panas"
+      },
+      {
+        "name": "Kampung Ayer Terjun"
+      },
+      {
+        "name": "Kampung Balun"
+      },
+      {
+        "name": "Kampung Banggol Belimbing"
+      },
+      {
+        "name": "Kampung Baru Air Kala"
+      },
+      {
+        "name": "Kampung Baru Kuala Rui"
+      },
+      {
+        "name": "Kampung Baru Liman Kati"
+      },
+      {
+        "name": "Kampung Baru Sungai Terap"
+      },
+      {
+        "name": "Kampung Baru Tasek"
+      },
+      {
+        "name": "Kampung Basia Lama"
+      },
+      {
+        "name": "Kampung Batu Melintang"
+      },
+      {
+        "name": "Kampung Behrang Ulu"
+      },
+      {
+        "name": "Kampung Beng"
+      },
+      {
+        "name": "Kampung Bongor"
+      },
+      {
+        "name": "Kampung Bukit Nangka"
+      },
+      {
+        "name": "Kampung Bukit Sapi"
+      },
+      {
+        "name": "Kampung Bukit Serdang"
+      },
+      {
+        "name": "Kampung Changkat Berangan"
+      },
+      {
+        "name": "Kampung Changkat Petai"
+      },
+      {
+        "name": "Kampung Changkat Sulaiman"
+      },
+      {
+        "name": "Kampung Cina"
+      },
+      {
+        "name": "Kampung Dew"
+      },
+      {
+        "name": "Kampung Gelok"
+      },
+      {
+        "name": "Kampung Gua Badak"
+      },
+      {
+        "name": "Kampung Kandang Hilir"
+      },
+      {
+        "name": "Kampung Kelawar"
+      },
+      {
+        "name": "Kampung Kerunai"
+      },
+      {
+        "name": "Kampung Kolam"
+      },
+      {
+        "name": "Kampung Kota"
+      },
+      {
+        "name": "Kampung Kota Lama"
+      },
+      {
+        "name": "Kampung Kota Lama Kanan"
+      },
+      {
+        "name": "Kampung Kuak Hulu"
+      },
+      {
+        "name": "Kampung Kuala Sayong Hulu"
+      },
+      {
+        "name": "Kampung Langkor Hulu"
+      },
+      {
+        "name": "Kampung Loh Karai"
+      },
+      {
+        "name": "Kampung Luat"
+      },
+      {
+        "name": "Kampung Malau"
+      },
+      {
+        "name": "Kampung Merbau"
+      },
+      {
+        "name": "Kampung Mutiara"
+      },
+      {
+        "name": "Kampung Pahit"
+      },
+      {
+        "name": "Kampung Periang"
+      },
+      {
+        "name": "Kampung Raja Hitam"
+      },
+      {
+        "name": "Kampung Salak Baru"
+      },
+      {
+        "name": "Kampung Salak Utara"
+      },
+      {
+        "name": "Kampung Sawa"
+      },
+      {
+        "name": "Kampung Sayong"
+      },
+      {
+        "name": "Kampung Sayong Lembah"
+      },
+      {
+        "name": "Kampung Sayong Mesjid"
+      },
+      {
+        "name": "Kampung Sayong Tengah"
+      },
+      {
+        "name": "Kampung Sedia"
+      },
+      {
+        "name": "Kampung Senta"
+      },
+      {
+        "name": "Kampung Seri Perkasa"
+      },
+      {
+        "name": "Kampung Sira Panas"
+      },
+      {
+        "name": "Kampung Sungai Batu"
+      },
+      {
+        "name": "Kampung Sungai Bemban"
+      },
+      {
+        "name": "Kampung Sungai Dendang"
+      },
+      {
+        "name": "Kampung Sungai Rambutan"
+      },
+      {
+        "name": "Kampung Sungai Rotan"
+      },
+      {
+        "name": "Kampung Tawai"
+      },
+      {
+        "name": "Kampung Temelong"
+      },
+      {
+        "name": "Kampung Tersusun Air Kuning"
+      },
+      {
+        "name": "Kampung Tersusun Salak Stesen"
+      },
+      {
+        "name": "Kampung Timah"
+      },
+      {
+        "name": "Kampung Tiong"
+      },
+      {
+        "name": "Kampung Ulu Chepur"
+      },
+      {
+        "name": "Kamunting"
+      },
+      {
+        "name": "Kanthan"
+      },
+      {
+        "name": "Kg Air Panas"
+      },
+      {
+        "name": "Kg Belum Baru"
+      },
+      {
+        "name": "Kg Padang Kunyit"
+      },
+      {
+        "name": "Kg Senin"
+      },
+      {
+        "name": "Kg. Palas"
+      },
+      {
+        "name": "Kota Setia"
+      },
+      {
+        "name": "Kota Tampan"
+      },
+      {
+        "name": "Kotai"
+      },
+      {
+        "name": "Kuala Gula"
+      },
+      {
+        "name": "Kuala Kangsar"
+      },
+      {
+        "name": "Kuala Kurau"
+      },
+      {
+        "name": "Kuala Mu"
+      },
+      {
+        "name": "Lambor Kanan"
+      },
+      {
+        "name": "Langkap"
+      },
+      {
+        "name": "Lasah"
+      },
+      {
+        "name": "Lawin"
+      },
+      {
+        "name": "Lenggong"
+      },
+      {
+        "name": "Lepang Nenering"
+      },
+      {
+        "name": "Lintang"
+      },
+      {
+        "name": "Lubok Merbau"
+      },
+      {
+        "name": "Lumut"
+      },
+      {
+        "name": "Malim Nawar"
+      },
+      {
+        "name": "Mambang Diawan"
+      },
+      {
+        "name": "Manong"
+      },
+      {
+        "name": "Matang"
+      },
+      {
+        "name": "Menglembu"
+      },
+      {
+        "name": "Padang Gajah"
+      },
+      {
+        "name": "Pantai Remis"
+      },
+      {
+        "name": "Papan"
+      },
+      {
+        "name": "Parit"
+      },
+      {
+        "name": "Parit Buntar"
+      },
+      {
+        "name": "Pendeq"
+      },
+      {
+        "name": "Pengkalan Baharu"
+      },
+      {
+        "name": "Pengkalan Hulu"
+      },
+      {
+        "name": "Pos Gedong"
+      },
+      {
+        "name": "Pos Slim"
+      },
+      {
+        "name": "Pulau Pangkor"
+      },
+      {
+        "name": "Pulau Tiga"
+      },
+      {
+        "name": "Pusing"
+      },
+      {
+        "name": "Rantau Panjang"
+      },
+      {
+        "name": "Redang Panjang"
+      },
+      {
+        "name": "Selama (Perak)"
+      },
+      {
+        "name": "Selekoh"
+      },
+      {
+        "name": "Selinsing"
+      },
+      {
+        "name": "Seri Iskandar"
+      },
+      {
+        "name": "Seri Manjung"
+      },
+      {
+        "name": "Simpang Empat (Semanggol)"
+      },
+      {
+        "name": "Simpang Lima"
+      },
+      {
+        "name": "Siputeh"
+      },
+      {
+        "name": "Sitiawan"
+      },
+      {
+        "name": "Slim River"
+      },
+      {
+        "name": "Sumpitan"
+      },
+      {
+        "name": "Sungai Kerang"
+      },
+      {
+        "name": "Sungai Siput"
+      },
+      {
+        "name": "Sungai Sumun"
+      },
+      {
+        "name": "Sungkai"
+      },
+      {
+        "name": "Taiping"
+      },
+      {
+        "name": "Tanjung Malim"
+      },
+      {
+        "name": "Tanjung Piandang"
+      },
+      {
+        "name": "Tanjung Rambutan"
+      },
+      {
+        "name": "Tanjung Tualang"
+      },
+      {
+        "name": "Tapah"
+      },
+      {
+        "name": "Tapah Road"
+      },
+      {
+        "name": "Teluk Intan"
+      },
+      {
+        "name": "Temakan"
+      },
+      {
+        "name": "Temoh"
+      },
+      {
+        "name": "Temoh Stesen"
+      },
+      {
+        "name": "Terong"
+      },
+      {
+        "name": "Titi Serong"
+      },
+      {
+        "name": "Trolak"
+      },
+      {
+        "name": "Tronoh"
+      },
+      {
+        "name": "Ulu Geruntum"
+      },
+      {
+        "name": "Ulu Sepetang"
+      },
+      {
+        "name": "Ulu Slim"
+      },
+      {
+        "name": "Yum"
+      }
+    ]
+  },
+  {
+    "name": "Perlis",
+    "cities": [
+      {
+        "name": "Arau"
+      },
+      {
+        "name": "Beseri"
+      },
+      {
+        "name": "Kaki Bukit"
+      },
+      {
+        "name": "Kampung Alor Pulai"
+      },
+      {
+        "name": "Kampung Balik Bukit"
+      },
+      {
+        "name": "Kampung Banat"
+      },
+      {
+        "name": "Kampung Baru Kok Klang"
+      },
+      {
+        "name": "Kampung Batu Dua"
+      },
+      {
+        "name": "Kampung Guar Ujung Batu"
+      },
+      {
+        "name": "Kampung Hutan Kandis"
+      },
+      {
+        "name": "Kampung Jelempok"
+      },
+      {
+        "name": "Kampung Kenangan"
+      },
+      {
+        "name": "Kampung Kepala Batas Pauh"
+      },
+      {
+        "name": "Kampung Kok Klang"
+      },
+      {
+        "name": "Kampung Kubang Gajah"
+      },
+      {
+        "name": "Kampung Padang Pauh"
+      },
+      {
+        "name": "Kampung Paya"
+      },
+      {
+        "name": "Kampung Paya Burma"
+      },
+      {
+        "name": "Kampung Perak"
+      },
+      {
+        "name": "Kampung Perit"
+      },
+      {
+        "name": "Kampung Salang"
+      },
+      {
+        "name": "Kampung Sena"
+      },
+      {
+        "name": "Kampung Sungai Berembang"
+      },
+      {
+        "name": "Kampung Tanjung Gelam"
+      },
+      {
+        "name": "Kangar"
+      },
+      {
+        "name": "Kuala Perlis"
+      },
+      {
+        "name": "Mata Ayer"
+      },
+      {
+        "name": "Padang Besar"
+      },
+      {
+        "name": "Padang Siding"
+      },
+      {
+        "name": "Simpang Empat"
+      },
+      {
+        "name": "Tambun Tulang"
+      },
+      {
+        "name": "Tebing Tinggi"
+      },
+      {
+        "name": "Wang Kelian"
+      }
+    ]
+  },
+  {
+    "name": "Pulau Pinang",
+    "cities": [
+      {
+        "name": "Ara Kuda"
+      },
+      {
+        "name": "Balik Pulau"
+      },
+      {
+        "name": "Batu Kawan"
+      },
+      {
+        "name": "Bayan Lepas"
+      },
+      {
+        "name": "Bukit Mertajam"
+      },
+      {
+        "name": "Bumbung Lima"
+      },
+      {
+        "name": "Butterworth"
+      },
+      {
+        "name": "Changkat"
+      },
+      {
+        "name": "George Town"
+      },
+      {
+        "name": "Gertak Sanggul"
+      },
+      {
+        "name": "Kampung Aston"
+      },
+      {
+        "name": "Kampung Selamat"
+      },
+      {
+        "name": "Kepala Batas"
+      },
+      {
+        "name": "Kerung"
+      },
+      {
+        "name": "Kuala Muda"
+      },
+      {
+        "name": "Kuba"
+      },
+      {
+        "name": "Kubang Menerong"
+      },
+      {
+        "name": "Kubang Semang"
+      },
+      {
+        "name": "Lahar Yooi"
+      },
+      {
+        "name": "Lubuk Sepang"
+      },
+      {
+        "name": "Mengkuang"
+      },
+      {
+        "name": "Muara Cawang"
+      },
+      {
+        "name": "Nibong Tebal"
+      },
+      {
+        "name": "Padang Menora"
+      },
+      {
+        "name": "Pantai Aceh"
+      },
+      {
+        "name": "Penaga"
+      },
+      {
+        "name": "Penanti"
+      },
+      {
+        "name": "Perigi"
+      },
+      {
+        "name": "Perkampungan Berapit"
+      },
+      {
+        "name": "Permatang Buloh"
+      },
+      {
+        "name": "Permatang Damar Laut"
+      },
+      {
+        "name": "Permatang Pauh"
+      },
+      {
+        "name": "Permatang Sintok"
+      },
+      {
+        "name": "Permatang Sungai Dua"
+      },
+      {
+        "name": "Permatang Tok Jaya"
+      },
+      {
+        "name": "Pokok Sena"
+      },
+      {
+        "name": "Pokok Tampang"
+      },
+      {
+        "name": "Pulau Betong"
+      },
+      {
+        "name": "Pulau Pinang"
+      },
+      {
+        "name": "Simpang Ampat"
+      },
+      {
+        "name": "Simpur"
+      },
+      {
+        "name": "Sungai Acheh"
+      },
+      {
+        "name": "Sungai Duri"
+      },
+      {
+        "name": "Sungai Lembu"
+      },
+      {
+        "name": "Talang Sawah"
+      },
+      {
+        "name": "Tanah Liat"
+      },
+      {
+        "name": "Tanjung Mulak"
+      },
+      {
+        "name": "Tanjung Sirih"
+      },
+      {
+        "name": "Tasek"
+      },
+      {
+        "name": "Tasek Gelugor"
+      },
+      {
+        "name": "Tl Sejemput"
+      },
+      {
+        "name": "Valdor"
+      }
+    ]
+  },
+  {
+    "name": "Sabah",
+    "cities": [
+      {
+        "name": "6.97652, 117.20146"
+      },
+      {
+        "name": "Abai"
+      },
+      {
+        "name": "Abandoned Heavy Truck"
+      },
+      {
+        "name": "Agan"
+      },
+      {
+        "name": "Agudon"
+      },
+      {
+        "name": "Alab"
+      },
+      {
+        "name": "Ambual"
+      },
+      {
+        "name": "Anambai Baru"
+      },
+      {
+        "name": "Ansip Laut"
+      },
+      {
+        "name": "Ansip Tengah"
+      },
+      {
+        "name": "Antabakan"
+      },
+      {
+        "name": "Antolob"
+      },
+      {
+        "name": "Asrama Sk Tiong Widu"
+      },
+      {
+        "name": "Babayasing"
+      },
+      {
+        "name": "Badukan"
+      },
+      {
+        "name": "Bagian"
+      },
+      {
+        "name": "Bahab"
+      },
+      {
+        "name": "Bahagia"
+      },
+      {
+        "name": "Baitah"
+      },
+      {
+        "name": "Balai Budaya Totogop"
+      },
+      {
+        "name": "Balaron"
+      },
+      {
+        "name": "Balaron Kecil"
+      },
+      {
+        "name": "Bandar Cendrawasih"
+      },
+      {
+        "name": "Bandar Kembara Sakti"
+      },
+      {
+        "name": "Bandar Sahabat"
+      },
+      {
+        "name": "Bandukan Baru"
+      },
+      {
+        "name": "Bandukan Lama"
+      },
+      {
+        "name": "Bandukan Ulu"
+      },
+      {
+        "name": "Bangau"
+      },
+      {
+        "name": "Bangawong"
+      },
+      {
+        "name": "Bansuit"
+      },
+      {
+        "name": "Bantul"
+      },
+      {
+        "name": "Barasanon"
+      },
+      {
+        "name": "Bariawa Ulu"
+      },
+      {
+        "name": "Batu 11 Jalan Sook"
+      },
+      {
+        "name": "Batu 12 Jalan Sook"
+      },
+      {
+        "name": "Batu 16-18 Jln Sook"
+      },
+      {
+        "name": "Batu 5"
+      },
+      {
+        "name": "Batu Lunguyan"
+      },
+      {
+        "name": "Batu Payung"
+      },
+      {
+        "name": "Batu Sapi"
+      },
+      {
+        "name": "Bawing"
+      },
+      {
+        "name": "Bayag"
+      },
+      {
+        "name": "Beaufort"
+      },
+      {
+        "name": "Belinin"
+      },
+      {
+        "name": "Belinin Division"
+      },
+      {
+        "name": "Beluran"
+      },
+      {
+        "name": "Benoni"
+      },
+      {
+        "name": "Bereing"
+      },
+      {
+        "name": "Berungis"
+      },
+      {
+        "name": "Biah Batu 4"
+      },
+      {
+        "name": "Biah Skim"
+      },
+      {
+        "name": "Biah Tengah"
+      },
+      {
+        "name": "Bidor Sawit Agricultural Development"
+      },
+      {
+        "name": "Bigor"
+      },
+      {
+        "name": "Bina Baru"
+      },
+      {
+        "name": "Binakaan"
+      },
+      {
+        "name": "Binanding"
+      },
+      {
+        "name": "Bingkor Lama"
+      },
+      {
+        "name": "Binuou Laut"
+      },
+      {
+        "name": "Binuou Tengah"
+      },
+      {
+        "name": "Binuou Ulu"
+      },
+      {
+        "name": "Bitoon"
+      },
+      {
+        "name": "Bola Baru"
+      },
+      {
+        "name": "Bola Lama"
+      },
+      {
+        "name": "Bolisuk Baru"
+      },
+      {
+        "name": "Bolotikon"
+      },
+      {
+        "name": "Bolouh"
+      },
+      {
+        "name": "Bomboi"
+      },
+      {
+        "name": "Bongawan"
+      },
+      {
+        "name": "Bongkud"
+      },
+      {
+        "name": "Bonod Batu 7"
+      },
+      {
+        "name": "Bonor"
+      },
+      {
+        "name": "Bornion Timber Sdn. Bhd."
+      },
+      {
+        "name": "Borolungan"
+      },
+      {
+        "name": "Botung"
+      },
+      {
+        "name": "Buang Sayang"
+      },
+      {
+        "name": "Bukah"
+      },
+      {
+        "name": "Bukit Indah"
+      },
+      {
+        "name": "Bulu Silou"
+      },
+      {
+        "name": "Bunakon"
+      },
+      {
+        "name": "Bunang Laut"
+      },
+      {
+        "name": "Bundu Tuhan Sibah"
+      },
+      {
+        "name": "Bundu Tuhan Sokid"
+      },
+      {
+        "name": "Bunga Raya"
+      },
+      {
+        "name": "Bunsit"
+      },
+      {
+        "name": "Buntulon"
+      },
+      {
+        "name": "Buntung"
+      },
+      {
+        "name": "Camp Tenera Plantation, Sunggala"
+      },
+      {
+        "name": "Cinta Mata"
+      },
+      {
+        "name": "Dalit Gana"
+      },
+      {
+        "name": "Dalit Laut"
+      },
+      {
+        "name": "Dallas"
+      },
+      {
+        "name": "Damai"
+      },
+      {
+        "name": "Dandong"
+      },
+      {
+        "name": "Dandulit"
+      },
+      {
+        "name": "Dantayon"
+      },
+      {
+        "name": "Daramakan"
+      },
+      {
+        "name": "Delayan Baru"
+      },
+      {
+        "name": "Delayan Lama"
+      },
+      {
+        "name": "Desa Aman"
+      },
+      {
+        "name": "Desa Cattle"
+      },
+      {
+        "name": "Desa Orcid Ville Fasa I"
+      },
+      {
+        "name": "Desa Orcid Ville Fasa Ii"
+      },
+      {
+        "name": "Dimpangoh"
+      },
+      {
+        "name": "Dobut"
+      },
+      {
+        "name": "Dolamos"
+      },
+      {
+        "name": "Donggongon"
+      },
+      {
+        "name": "Dubolon"
+      },
+      {
+        "name": "Dumbun"
+      },
+      {
+        "name": "Dumpiring Atas"
+      },
+      {
+        "name": "Dumpiring Bawah"
+      },
+      {
+        "name": "Enam"
+      },
+      {
+        "name": "Entilibon"
+      },
+      {
+        "name": "Estet Kakarangan"
+      },
+      {
+        "name": "Estet Rimbunan Jadi (Map Plantation)"
+      },
+      {
+        "name": "Estet Samhin/ High Hill Resources"
+      },
+      {
+        "name": "Estet Sri Padasa"
+      },
+      {
+        "name": "Gana-Gana"
+      },
+      {
+        "name": "Garas"
+      },
+      {
+        "name": "Garong"
+      },
+      {
+        "name": "Gasabon"
+      },
+      {
+        "name": "Gaulan"
+      },
+      {
+        "name": "Giman"
+      },
+      {
+        "name": "Giring"
+      },
+      {
+        "name": "Giring-Giring"
+      },
+      {
+        "name": "Gondohon"
+      },
+      {
+        "name": "Gumpa"
+      },
+      {
+        "name": "Gusi"
+      },
+      {
+        "name": "Himbaan"
+      },
+      {
+        "name": "Inakaak"
+      },
+      {
+        "name": "Inandung"
+      },
+      {
+        "name": "Itp 1 (2811 Ha)"
+      },
+      {
+        "name": "Itp 2 (3112 Ha)"
+      },
+      {
+        "name": "Itp 3 (4208 Ha)"
+      },
+      {
+        "name": "Itp 4 (1653 Ha)"
+      },
+      {
+        "name": "Itp 5 (4777 Ha)"
+      },
+      {
+        "name": "Itp 6 (3037.58 Ha)"
+      },
+      {
+        "name": "Jambu"
+      },
+      {
+        "name": "Jawala Plantation Industries Sdn. Bhd."
+      },
+      {
+        "name": "Johan Jaya"
+      },
+      {
+        "name": "Kabangawong"
+      },
+      {
+        "name": "Kabatang Baru"
+      },
+      {
+        "name": "Kabu (The Forgotten Village)"
+      },
+      {
+        "name": "Kabuan"
+      },
+      {
+        "name": "Kaimadang"
+      },
+      {
+        "name": "Kaingaran"
+      },
+      {
+        "name": "Kakutar"
+      },
+      {
+        "name": "Kalabakan"
+      },
+      {
+        "name": "Kalabi"
+      },
+      {
+        "name": "Kalampun"
+      },
+      {
+        "name": "Kalas"
+      },
+      {
+        "name": "Kaliwot"
+      },
+      {
+        "name": "Kalugus"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung Adian"
+      },
+      {
+        "name": "Kampung Air Sim Sim"
+      },
+      {
+        "name": "Kampung Ambong"
+      },
+      {
+        "name": "Kampung Apin Apin"
+      },
+      {
+        "name": "Kampung Bahab"
+      },
+      {
+        "name": "Kampung Balibatu"
+      },
+      {
+        "name": "Kampung Bangsai"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru-Baru"
+      },
+      {
+        "name": "Kampung Basai Baru"
+      },
+      {
+        "name": "Kampung Batu Puteh."
+      },
+      {
+        "name": "Kampung Bayangan"
+      },
+      {
+        "name": "Kampung Bayayat"
+      },
+      {
+        "name": "Kampung Bedukan"
+      },
+      {
+        "name": "Kampung Berungis"
+      },
+      {
+        "name": "Kampung Betotai"
+      },
+      {
+        "name": "Kampung Binsuluk"
+      },
+      {
+        "name": "Kampung Binsulung"
+      },
+      {
+        "name": "Kampung Bintasan"
+      },
+      {
+        "name": "Kampung Bokilong"
+      },
+      {
+        "name": "Kampung Bolong"
+      },
+      {
+        "name": "Kampung Bongol"
+      },
+      {
+        "name": "Kampung Botition"
+      },
+      {
+        "name": "Kampung Bugaron"
+      },
+      {
+        "name": "Kampung Bukid Rantai"
+      },
+      {
+        "name": "Kampung Bukit Bendera"
+      },
+      {
+        "name": "Kampung Bundu Paka"
+      },
+      {
+        "name": "Kampung Damai Sfi"
+      },
+      {
+        "name": "Kampung Delayan"
+      },
+      {
+        "name": "Kampung Delima"
+      },
+      {
+        "name": "Kampung Dogoton"
+      },
+      {
+        "name": "Kampung Dudar"
+      },
+      {
+        "name": "Kampung Gandukut"
+      },
+      {
+        "name": "Kampung Gansurai"
+      },
+      {
+        "name": "Kampung Gaur"
+      },
+      {
+        "name": "Kampung Gentuong"
+      },
+      {
+        "name": "Kampung Hungab"
+      },
+      {
+        "name": "Kampung Intutan"
+      },
+      {
+        "name": "Kampung K. Rampayan"
+      },
+      {
+        "name": "Kampung Kabatu"
+      },
+      {
+        "name": "Kampung Kabidang"
+      },
+      {
+        "name": "Kampung Kabuluh"
+      },
+      {
+        "name": "Kampung Kadayan"
+      },
+      {
+        "name": "Kampung Kalutan"
+      },
+      {
+        "name": "Kampung Kamarin"
+      },
+      {
+        "name": "Kampung Karagasan"
+      },
+      {
+        "name": "Kampung Kaung"
+      },
+      {
+        "name": "Kampung Kaung Melawan"
+      },
+      {
+        "name": "Kampung Kaung Ulu"
+      },
+      {
+        "name": "Kampung Kawang-Kawang"
+      },
+      {
+        "name": "Kampung Kayangat"
+      },
+      {
+        "name": "Kampung Kayu Putih"
+      },
+      {
+        "name": "Kampung Kebayau"
+      },
+      {
+        "name": "Kampung Keguraan"
+      },
+      {
+        "name": "Kampung Kerokot Laut"
+      },
+      {
+        "name": "Kampung Kias"
+      },
+      {
+        "name": "Kampung Kiau Nuluh"
+      },
+      {
+        "name": "Kampung Kiau Taburi"
+      },
+      {
+        "name": "Kampung Kinabaan"
+      },
+      {
+        "name": "Kampung Kinasaraban"
+      },
+      {
+        "name": "Kampung Kituntul"
+      },
+      {
+        "name": "Kampung Kiulu"
+      },
+      {
+        "name": "Kampung Klias Kecil"
+      },
+      {
+        "name": "Kampung Kobambangan"
+      },
+      {
+        "name": "Kampung Kobusak"
+      },
+      {
+        "name": "Kampung Kolapis"
+      },
+      {
+        "name": "Kampung Kotunuan Lama"
+      },
+      {
+        "name": "Kampung Kuangoh"
+      },
+      {
+        "name": "Kampung Kukut"
+      },
+      {
+        "name": "Kampung Kula Karamuak"
+      },
+      {
+        "name": "Kampung Laboi"
+      },
+      {
+        "name": "Kampung Lanas"
+      },
+      {
+        "name": "Kampung Lasau Tintapon"
+      },
+      {
+        "name": "Kampung Lasun"
+      },
+      {
+        "name": "Kampung Lingkabau"
+      },
+      {
+        "name": "Kampung Lingkubang"
+      },
+      {
+        "name": "Kampung Lingkungan"
+      },
+      {
+        "name": "Kampung Lobong-Lobong"
+      },
+      {
+        "name": "Kampung Lobou"
+      },
+      {
+        "name": "Kampung Lok Nunuk"
+      },
+      {
+        "name": "Kampung Lokos"
+      },
+      {
+        "name": "Kampung Lot M"
+      },
+      {
+        "name": "Kampung Lotung"
+      },
+      {
+        "name": "Kampung Malana"
+      },
+      {
+        "name": "Kampung Malintatan"
+      },
+      {
+        "name": "Kampung Mandap"
+      },
+      {
+        "name": "Kampung Mandap Doluoh"
+      },
+      {
+        "name": "Kampung Marak Parak"
+      },
+      {
+        "name": "Kampung Marimbau"
+      },
+      {
+        "name": "Kampung Matopang"
+      },
+      {
+        "name": "Kampung Melabu"
+      },
+      {
+        "name": "Kampung Melangkap"
+      },
+      {
+        "name": "Kampung Melangkap Baru"
+      },
+      {
+        "name": "Kampung Melangkap Kapa"
+      },
+      {
+        "name": "Kampung Melangkap Noriou"
+      },
+      {
+        "name": "Kampung Melangkap Tiong"
+      },
+      {
+        "name": "Kampung Melangkap Tomis"
+      },
+      {
+        "name": "Kampung Melapi Sugut"
+      },
+      {
+        "name": "Kampung Membulu"
+      },
+      {
+        "name": "Kampung Mengkulat"
+      },
+      {
+        "name": "Kampung Menyangit"
+      },
+      {
+        "name": "Kampung Merintanam"
+      },
+      {
+        "name": "Kampung Mimpas"
+      },
+      {
+        "name": "Kampung Molisou"
+      },
+      {
+        "name": "Kampung Monggis"
+      },
+      {
+        "name": "Kampung Nahaba"
+      },
+      {
+        "name": "Kampung Nanamun"
+      },
+      {
+        "name": "Kampung Narinang"
+      },
+      {
+        "name": "Kampung Nibalayan"
+      },
+      {
+        "name": "Kampung Nopungguk"
+      },
+      {
+        "name": "Kampung Paal"
+      },
+      {
+        "name": "Kampung Paginatan"
+      },
+      {
+        "name": "Kampung Pahu"
+      },
+      {
+        "name": "Kampung Paka Kiulu"
+      },
+      {
+        "name": "Kampung Palakat"
+      },
+      {
+        "name": "Kampung Pamanuhan"
+      },
+      {
+        "name": "Kampung Pantai"
+      },
+      {
+        "name": "Kampung Piasau"
+      },
+      {
+        "name": "Kampung Pimping"
+      },
+      {
+        "name": "Kampung Pinangkau"
+      },
+      {
+        "name": "Kampung Pinolobu"
+      },
+      {
+        "name": "Kampung Pirasan"
+      },
+      {
+        "name": "Kampung Pituru Darat"
+      },
+      {
+        "name": "Kampung Pituru Laut"
+      },
+      {
+        "name": "Kampung Podos"
+      },
+      {
+        "name": "Kampung Pomotodon"
+      },
+      {
+        "name": "Kampung Pompod Kelawat"
+      },
+      {
+        "name": "Kampung Pompodon"
+      },
+      {
+        "name": "Kampung Pongoputan Baru"
+      },
+      {
+        "name": "Kampung Puhus"
+      },
+      {
+        "name": "Kampung Purak Ogis"
+      },
+      {
+        "name": "Kampung Rajunah"
+      },
+      {
+        "name": "Kampung Rangalau"
+      },
+      {
+        "name": "Kampung Ranggal"
+      },
+      {
+        "name": "Kampung Rani"
+      },
+      {
+        "name": "Kampung Ratau"
+      },
+      {
+        "name": "Kampung Rompon"
+      },
+      {
+        "name": "Kampung Rosok"
+      },
+      {
+        "name": "Kampung Salan"
+      },
+      {
+        "name": "Kampung Sambah"
+      },
+      {
+        "name": "Kampung Sandatan"
+      },
+      {
+        "name": "Kampung Sawangan"
+      },
+      {
+        "name": "Kampung Sayap"
+      },
+      {
+        "name": "Kampung Selamat"
+      },
+      {
+        "name": "Kampung Simbulon"
+      },
+      {
+        "name": "Kampung Simpangan Lama"
+      },
+      {
+        "name": "Kampung Sinarupa"
+      },
+      {
+        "name": "Kampung Sinulihan"
+      },
+      {
+        "name": "Kampung Sogoh"
+      },
+      {
+        "name": "Kampung Sook"
+      },
+      {
+        "name": "Kampung Sorinsim"
+      },
+      {
+        "name": "Kampung Soronsob"
+      },
+      {
+        "name": "Kampung Sukang Sugut"
+      },
+      {
+        "name": "Kampung Sumbilingan"
+      },
+      {
+        "name": "Kampung Sungai"
+      },
+      {
+        "name": "Kampung Sungai Obar"
+      },
+      {
+        "name": "Kampung Sungai Rungus"
+      },
+      {
+        "name": "Kampung Sunsui"
+      },
+      {
+        "name": "Kampung Sunsuron"
+      },
+      {
+        "name": "Kampung Suromboton"
+      },
+      {
+        "name": "Kampung Taginambor"
+      },
+      {
+        "name": "Kampung Taginambur"
+      },
+      {
+        "name": "Kampung Taginambur Jaya"
+      },
+      {
+        "name": "Kampung Taginambur Kiulu"
+      },
+      {
+        "name": "Kampung Takuli"
+      },
+      {
+        "name": "Kampung Talamason"
+      },
+      {
+        "name": "Kampung Tamalang"
+      },
+      {
+        "name": "Kampung Tambatuon"
+      },
+      {
+        "name": "Kampung Tambulaung"
+      },
+      {
+        "name": "Kampung Tambulion"
+      },
+      {
+        "name": "Kampung Tamu Darat"
+      },
+      {
+        "name": "Kampung Tangkol"
+      },
+      {
+        "name": "Kampung Tanjung Aru Lama"
+      },
+      {
+        "name": "Kampung Tanjung Batu Laut"
+      },
+      {
+        "name": "Kampung Tanjung Nipis"
+      },
+      {
+        "name": "Kampung Tegudon"
+      },
+      {
+        "name": "Kampung Tembayang"
+      },
+      {
+        "name": "Kampung Tenghilan"
+      },
+      {
+        "name": "Kampung Terintidon"
+      },
+      {
+        "name": "Kampung Tiampus"
+      },
+      {
+        "name": "Kampung Timbang Batu 2"
+      },
+      {
+        "name": "Kampung Timbulus Sugut"
+      },
+      {
+        "name": "Kampung Tinata"
+      },
+      {
+        "name": "Kampung Tinindukan"
+      },
+      {
+        "name": "Kampung Tiong Gondohon"
+      },
+      {
+        "name": "Kampung Tiong Kamburaon"
+      },
+      {
+        "name": "Kampung Tiong Simpodon"
+      },
+      {
+        "name": "Kampung Tiong Temburung"
+      },
+      {
+        "name": "Kampung Tolus"
+      },
+      {
+        "name": "Kampung Tomboilik"
+      },
+      {
+        "name": "Kampung Tomis"
+      },
+      {
+        "name": "Kampung Tomis Jaya"
+      },
+      {
+        "name": "Kampung Tudan"
+      },
+      {
+        "name": "Kampung Tuguson"
+      },
+      {
+        "name": "Kampung Ulu Kimanis"
+      },
+      {
+        "name": "Kampung Ulu Monsok"
+      },
+      {
+        "name": "Kanawahon"
+      },
+      {
+        "name": "Kandawayon"
+      },
+      {
+        "name": "Kandinga"
+      },
+      {
+        "name": "Kanibongan"
+      },
+      {
+        "name": "Kantas"
+      },
+      {
+        "name": "Kantin Tibow"
+      },
+      {
+        "name": "Kapayan Baru"
+      },
+      {
+        "name": "Kapayan Lama"
+      },
+      {
+        "name": "Kapok"
+      },
+      {
+        "name": "Karagasan"
+      },
+      {
+        "name": "Karakit"
+      },
+      {
+        "name": "Karamatoi Laut / Skim"
+      },
+      {
+        "name": "Karamatoi Ulu"
+      },
+      {
+        "name": "Karampalon"
+      },
+      {
+        "name": "Karanaan"
+      },
+      {
+        "name": "Karanaan Baru"
+      },
+      {
+        "name": "Kasugui"
+      },
+      {
+        "name": "Kasumunsong"
+      },
+      {
+        "name": "Kauluan"
+      },
+      {
+        "name": "Kawakahan"
+      },
+      {
+        "name": "Kawasan Pertanian Kisagut"
+      },
+      {
+        "name": "Kawiyan"
+      },
+      {
+        "name": "Kayau"
+      },
+      {
+        "name": "Kebulu"
+      },
+      {
+        "name": "Kem Afi Suang Duyung"
+      },
+      {
+        "name": "Kem Tentera Sri Saliku"
+      },
+      {
+        "name": "Keningau"
+      },
+      {
+        "name": "Keritan Laut"
+      },
+      {
+        "name": "Kg Mengaris"
+      },
+      {
+        "name": "Kg Mengaris2"
+      },
+      {
+        "name": "Kg. Agis"
+      },
+      {
+        "name": "Kg. Awas Awas"
+      },
+      {
+        "name": "Kg. Babalitan"
+      },
+      {
+        "name": "Kg. Babason"
+      },
+      {
+        "name": "Kg. Baginda"
+      },
+      {
+        "name": "Kg. Bahagia"
+      },
+      {
+        "name": "Kg. Baitah"
+      },
+      {
+        "name": "Kg. Bakalau"
+      },
+      {
+        "name": "Kg. Bakiau"
+      },
+      {
+        "name": "Kg. Balaban"
+      },
+      {
+        "name": "Kg. Balantos"
+      },
+      {
+        "name": "Kg. Balung"
+      },
+      {
+        "name": "Kg. Bangau"
+      },
+      {
+        "name": "Kg. Banjar"
+      },
+      {
+        "name": "Kg. Baring"
+      },
+      {
+        "name": "Kg. Baun"
+      },
+      {
+        "name": "Kg. Bautu"
+      },
+      {
+        "name": "Kg. Berhala Darat"
+      },
+      {
+        "name": "Kg. Berundong"
+      },
+      {
+        "name": "Kg. Binanun"
+      },
+      {
+        "name": "Kg. Buang Sayang 2"
+      },
+      {
+        "name": "Kg. Budu"
+      },
+      {
+        "name": "Kg. Bundusan"
+      },
+      {
+        "name": "Kg. Dalit"
+      },
+      {
+        "name": "Kg. Dambai Papar"
+      },
+      {
+        "name": "Kg. Dandulit"
+      },
+      {
+        "name": "Kg. Gading"
+      },
+      {
+        "name": "Kg. Gadong"
+      },
+      {
+        "name": "Kg. Gadung"
+      },
+      {
+        "name": "Kg. Gum Gum"
+      },
+      {
+        "name": "Kg. Haungan"
+      },
+      {
+        "name": "Kg. Himpangno"
+      },
+      {
+        "name": "Kg. Hinalung Pampalang"
+      },
+      {
+        "name": "Kg. Indah"
+      },
+      {
+        "name": "Kg. Jawa"
+      },
+      {
+        "name": "Kg. Jaya Bakti"
+      },
+      {
+        "name": "Kg. Jaya Baru"
+      },
+      {
+        "name": "Kg. Kagasa"
+      },
+      {
+        "name": "Kg. Kahaba"
+      },
+      {
+        "name": "Kg. Kaingalan Sapulut"
+      },
+      {
+        "name": "Kg. Karamunting Baru"
+      },
+      {
+        "name": "Kg. Katalirus"
+      },
+      {
+        "name": "Kg. Kawang"
+      },
+      {
+        "name": "Kg. Kayul"
+      },
+      {
+        "name": "Kg. Kelawat"
+      },
+      {
+        "name": "Kg. Kota Klias"
+      },
+      {
+        "name": "Kg. Koyoon"
+      },
+      {
+        "name": "Kg. Kuala"
+      },
+      {
+        "name": "Kg. Kuala Salung"
+      },
+      {
+        "name": "Kg. Kuyoh"
+      },
+      {
+        "name": "Kg. Labang"
+      },
+      {
+        "name": "Kg. Labug"
+      },
+      {
+        "name": "Kg. Langkukuk"
+      },
+      {
+        "name": "Kg. Lauak"
+      },
+      {
+        "name": "Kg. Laut Papar"
+      },
+      {
+        "name": "Kg. Layon"
+      },
+      {
+        "name": "Kg. Limbawang"
+      },
+      {
+        "name": "Kg. Liningkar"
+      },
+      {
+        "name": "Kg. Liningkar"
+      },
+      {
+        "name": "Kg. Lupak Meluas"
+      },
+      {
+        "name": "Kg. Malampoi"
+      },
+      {
+        "name": "Kg. Maliau"
+      },
+      {
+        "name": "Kg. Malidang"
+      },
+      {
+        "name": "Kg. Matopang"
+      },
+      {
+        "name": "Kg. Mawantul"
+      },
+      {
+        "name": "Kg. Melugus"
+      },
+      {
+        "name": "Kg. Mempakul"
+      },
+      {
+        "name": "Kg. Muhibbah"
+      },
+      {
+        "name": "Kg. Naaturan"
+      },
+      {
+        "name": "Kg. Nangkawangan"
+      },
+      {
+        "name": "Kg. Nelayan Tengah"
+      },
+      {
+        "name": "Kg. Nukahan"
+      },
+      {
+        "name": "Kg. Padas Damit"
+      },
+      {
+        "name": "Kg. Pamunterian"
+      },
+      {
+        "name": "Kg. Pandiwan"
+      },
+      {
+        "name": "Kg. Panganitan"
+      },
+      {
+        "name": "Kg. Pangaraan"
+      },
+      {
+        "name": "Kg. Patau & Mahua Waterfall Tambunan"
+      },
+      {
+        "name": "Kg. Pengalat Besar"
+      },
+      {
+        "name": "Kg. Pengalat Kecil"
+      },
+      {
+        "name": "Kg. Pengkalan Peturu"
+      },
+      {
+        "name": "Kg. Perpaduan Datok Moh"
+      },
+      {
+        "name": "Kg. Pohon Batu"
+      },
+      {
+        "name": "Kg. Ponontomon"
+      },
+      {
+        "name": "Kg. Romol Saliku Sepulut"
+      },
+      {
+        "name": "Kg. Sabungo"
+      },
+      {
+        "name": "Kg. Saguan"
+      },
+      {
+        "name": "Kg. Salarom Lama"
+      },
+      {
+        "name": "Kg. Saliku"
+      },
+      {
+        "name": "Kg. Saliman"
+      },
+      {
+        "name": "Kg. Samalang"
+      },
+      {
+        "name": "Kg. Samawang"
+      },
+      {
+        "name": "Kg. Samuran"
+      },
+      {
+        "name": "Kg. Sandukan"
+      },
+      {
+        "name": "Kg. Sasalap"
+      },
+      {
+        "name": "Kg. Sasandukon"
+      },
+      {
+        "name": "Kg. Saupi"
+      },
+      {
+        "name": "Kg. Sejahtera Pangkalan Salung"
+      },
+      {
+        "name": "Kg. Sendukut"
+      },
+      {
+        "name": "Kg. Sinikaluan"
+      },
+      {
+        "name": "Kg. Solog"
+      },
+      {
+        "name": "Kg. Sosogoh"
+      },
+      {
+        "name": "Kg. Sumakiuakiu"
+      },
+      {
+        "name": "Kg. Sumantakawan"
+      },
+      {
+        "name": "Kg. Sumbiling"
+      },
+      {
+        "name": "Kg. Sumolombom"
+      },
+      {
+        "name": "Kg. Tabanka"
+      },
+      {
+        "name": "Kg. Takul"
+      },
+      {
+        "name": "Kg. Taman Rakyat"
+      },
+      {
+        "name": "Kg. Tamau"
+      },
+      {
+        "name": "Kg. Tampusison"
+      },
+      {
+        "name": "Kg. Tanah Merah"
+      },
+      {
+        "name": "Kg. Tatalaan Ulu"
+      },
+      {
+        "name": "Kg. Tataluan"
+      },
+      {
+        "name": "Kg. Tataluan Pandiwan"
+      },
+      {
+        "name": "Kg. Tempurong"
+      },
+      {
+        "name": "Kg. Tenggilung"
+      },
+      {
+        "name": "Kg. Tetiku Pamalan"
+      },
+      {
+        "name": "Kg. Tigot"
+      },
+      {
+        "name": "Kg. Tikandis"
+      },
+      {
+        "name": "Kg. Tinagalan Laut"
+      },
+      {
+        "name": "Kg. Tinangol"
+      },
+      {
+        "name": "Kg. Tinutuan"
+      },
+      {
+        "name": "Kg. Tiong"
+      },
+      {
+        "name": "Kg. Tiulon"
+      },
+      {
+        "name": "Kg. Toboh Baru"
+      },
+      {
+        "name": "Kg. Toboh Laut"
+      },
+      {
+        "name": "Kg. Tombovo"
+      },
+      {
+        "name": "Kg. Tonomon"
+      },
+      {
+        "name": "Kg. Tuarid Taud"
+      },
+      {
+        "name": "Kg. Ulu Mosopoh"
+      },
+      {
+        "name": "Kg. Wangkang"
+      },
+      {
+        "name": "Kg.Kuala Sapi"
+      },
+      {
+        "name": "Kg.Malabau"
+      },
+      {
+        "name": "Kiawayan"
+      },
+      {
+        "name": "Kibbas"
+      },
+      {
+        "name": "Kigiok"
+      },
+      {
+        "name": "Kigiwit"
+      },
+      {
+        "name": "Kilambang"
+      },
+      {
+        "name": "Kilanas"
+      },
+      {
+        "name": "Kilimu"
+      },
+      {
+        "name": "Kilo"
+      },
+      {
+        "name": "Kilugus"
+      },
+      {
+        "name": "Kimanis"
+      },
+      {
+        "name": "Kimolohing"
+      },
+      {
+        "name": "Kinabatangan"
+      },
+      {
+        "name": "Kinapulidan"
+      },
+      {
+        "name": "Kinasaraban"
+      },
+      {
+        "name": "Kinasaraban Baru"
+      },
+      {
+        "name": "Kindasan"
+      },
+      {
+        "name": "Kinoundusan"
+      },
+      {
+        "name": "Kionsom"
+      },
+      {
+        "name": "Kionsom Baru"
+      },
+      {
+        "name": "Kipahung"
+      },
+      {
+        "name": "Kipaliu"
+      },
+      {
+        "name": "Kiporing"
+      },
+      {
+        "name": "Kirokot"
+      },
+      {
+        "name": "Kirokot"
+      },
+      {
+        "name": "Kirokot Baru"
+      },
+      {
+        "name": "Kitaih"
+      },
+      {
+        "name": "Kitong"
+      },
+      {
+        "name": "Kitoring"
+      },
+      {
+        "name": "Kitou"
+      },
+      {
+        "name": "Kituntul Baru"
+      },
+      {
+        "name": "Kituntul Lama"
+      },
+      {
+        "name": "Kiulu Baru"
+      },
+      {
+        "name": "Kiwakau"
+      },
+      {
+        "name": "Kiwawoi"
+      },
+      {
+        "name": "Kks Sdn. Bhd. Kompartment 19"
+      },
+      {
+        "name": "Kks Sdn. Bhd. Kompartment 19"
+      },
+      {
+        "name": "Klinik Desa Dalit"
+      },
+      {
+        "name": "Kobosion"
+      },
+      {
+        "name": "Kobuh Baru"
+      },
+      {
+        "name": "Kodong"
+      },
+      {
+        "name": "Kodop Baru"
+      },
+      {
+        "name": "Kodop Baru"
+      },
+      {
+        "name": "Kokob"
+      },
+      {
+        "name": "Koligan"
+      },
+      {
+        "name": "Kologon"
+      },
+      {
+        "name": "Komburongoh"
+      },
+      {
+        "name": "Kompartment 123"
+      },
+      {
+        "name": "Kompartment 125"
+      },
+      {
+        "name": "Kompartment 143"
+      },
+      {
+        "name": "Kompartment 147"
+      },
+      {
+        "name": "Kompartment 148"
+      },
+      {
+        "name": "Kompartment 149/145"
+      },
+      {
+        "name": "Kompartment 152"
+      },
+      {
+        "name": "Kompartment 154"
+      },
+      {
+        "name": "Kompartment 155"
+      },
+      {
+        "name": "Kompartment 162"
+      },
+      {
+        "name": "Kompartment 50"
+      },
+      {
+        "name": "Kompartment 50"
+      },
+      {
+        "name": "Kompartment 82 (Ah Chia Camp)"
+      },
+      {
+        "name": "Kompartment 86"
+      },
+      {
+        "name": "Kopongian"
+      },
+      {
+        "name": "Koporingan Baru"
+      },
+      {
+        "name": "Koporingan Lama"
+      },
+      {
+        "name": "Kopuakan"
+      },
+      {
+        "name": "Kosisingon"
+      },
+      {
+        "name": "Kota Belud"
+      },
+      {
+        "name": "Kota Kinabalu"
+      },
+      {
+        "name": "Kota Marudu"
+      },
+      {
+        "name": "Kuala Aging"
+      },
+      {
+        "name": "Kuala Biah"
+      },
+      {
+        "name": "Kuala Monsok"
+      },
+      {
+        "name": "Kuala Penyu"
+      },
+      {
+        "name": "Kuala Punteh"
+      },
+      {
+        "name": "Kuala Sabinait"
+      },
+      {
+        "name": "Kuala Sibangali"
+      },
+      {
+        "name": "Kuala Sumaralang"
+      },
+      {
+        "name": "Kuala Sumatalun"
+      },
+      {
+        "name": "Kuala Tigasa"
+      },
+      {
+        "name": "Kuala Tumalasak"
+      },
+      {
+        "name": "Kudat"
+      },
+      {
+        "name": "Kukub"
+      },
+      {
+        "name": "Kumawanan"
+      },
+      {
+        "name": "Kumawanan"
+      },
+      {
+        "name": "Kunak"
+      },
+      {
+        "name": "Kundasang"
+      },
+      {
+        "name": "Kundasang"
+      },
+      {
+        "name": "Labiron"
+      },
+      {
+        "name": "Lagkau"
+      },
+      {
+        "name": "Lahad Datu"
+      },
+      {
+        "name": "Lalapakon"
+      },
+      {
+        "name": "Lambanga"
+      },
+      {
+        "name": "Lampas Sabinait"
+      },
+      {
+        "name": "Langkon"
+      },
+      {
+        "name": "Langsat"
+      },
+      {
+        "name": "Lasing"
+      },
+      {
+        "name": "Layag-Layag"
+      },
+      {
+        "name": "Ldg. Sawit Union Globe"
+      },
+      {
+        "name": "Ldg. Sawit Wangsa Putih Aman"
+      },
+      {
+        "name": "Lembah Permai"
+      },
+      {
+        "name": "Liau Laut"
+      },
+      {
+        "name": "Liawan Ulu"
+      },
+      {
+        "name": "Libang"
+      },
+      {
+        "name": "Libodon Baru"
+      },
+      {
+        "name": "Ligs"
+      },
+      {
+        "name": "Ligs Sosopon"
+      },
+      {
+        "name": "Linapasan"
+      },
+      {
+        "name": "Lingkudau"
+      },
+      {
+        "name": "Linsosod"
+      },
+      {
+        "name": "Linsudan"
+      },
+      {
+        "name": "Lintuhun Baru"
+      },
+      {
+        "name": "Lipasu"
+      },
+      {
+        "name": "Lipoi"
+      },
+      {
+        "name": "Liposu Baru"
+      },
+      {
+        "name": "Liposu Lama"
+      },
+      {
+        "name": "Lirung"
+      },
+      {
+        "name": "Liu"
+      },
+      {
+        "name": "Liu Darat"
+      },
+      {
+        "name": "Loboh"
+      },
+      {
+        "name": "Loboh Baru"
+      },
+      {
+        "name": "Lobou Baru"
+      },
+      {
+        "name": "Lobou Kiyip"
+      },
+      {
+        "name": "Lobou Lama"
+      },
+      {
+        "name": "Lobou Timbua"
+      },
+      {
+        "name": "Lohan 1"
+      },
+      {
+        "name": "Lohan Ulu"
+      },
+      {
+        "name": "Loji Rawatan Air Pagalungan"
+      },
+      {
+        "name": "Lok Kapas"
+      },
+      {
+        "name": "Lokapas"
+      },
+      {
+        "name": "Long Pasia"
+      },
+      {
+        "name": "Longut Lama"
+      },
+      {
+        "name": "Loporon"
+      },
+      {
+        "name": "Lotong"
+      },
+      {
+        "name": "Lotong Ulu"
+      },
+      {
+        "name": "Luanti Baru"
+      },
+      {
+        "name": "Luanti Baru"
+      },
+      {
+        "name": "Lubong"
+      },
+      {
+        "name": "Lukan"
+      },
+      {
+        "name": "Lukapon"
+      },
+      {
+        "name": "Lumat"
+      },
+      {
+        "name": "Lumiri Tengah"
+      },
+      {
+        "name": "Lumpagas"
+      },
+      {
+        "name": "Lungkidau"
+      },
+      {
+        "name": "Lunsiu"
+      },
+      {
+        "name": "Lutut"
+      },
+      {
+        "name": "Maatol"
+      },
+      {
+        "name": "Maatol"
+      },
+      {
+        "name": "Magatang"
+      },
+      {
+        "name": "Mailo"
+      },
+      {
+        "name": "Mailu/ Tiulon"
+      },
+      {
+        "name": "Malaing Ulu"
+      },
+      {
+        "name": "Maligan"
+      },
+      {
+        "name": "Malilia"
+      },
+      {
+        "name": "Malilia"
+      },
+      {
+        "name": "Malubang"
+      },
+      {
+        "name": "Mamagon"
+      },
+      {
+        "name": "Mambu"
+      },
+      {
+        "name": "Mampisas"
+      },
+      {
+        "name": "Mampisas"
+      },
+      {
+        "name": "Manantangah"
+      },
+      {
+        "name": "Mangkam"
+      },
+      {
+        "name": "Mangkapoh"
+      },
+      {
+        "name": "Mangkapon Darat"
+      },
+      {
+        "name": "Mangkapon Laut"
+      },
+      {
+        "name": "Mangkapon Radap"
+      },
+      {
+        "name": "Mangkataie"
+      },
+      {
+        "name": "Mangkubau Darat"
+      },
+      {
+        "name": "Mangkubau Laut"
+      },
+      {
+        "name": "Mangkubau Laut"
+      },
+      {
+        "name": "Mangkulasing"
+      },
+      {
+        "name": "Manikulau"
+      },
+      {
+        "name": "Mansalu"
+      },
+      {
+        "name": "Mansiang"
+      },
+      {
+        "name": "Mansiat"
+      },
+      {
+        "name": "Mantanid"
+      },
+      {
+        "name": "Mantatap"
+      },
+      {
+        "name": "Mantaya"
+      },
+      {
+        "name": "Mantub"
+      },
+      {
+        "name": "Mapad"
+      },
+      {
+        "name": "Mapan-Mapan"
+      },
+      {
+        "name": "Mapila"
+      },
+      {
+        "name": "Marakau"
+      },
+      {
+        "name": "Marapok"
+      },
+      {
+        "name": "Mararagang"
+      },
+      {
+        "name": "Marasak"
+      },
+      {
+        "name": "Maringgan"
+      },
+      {
+        "name": "Maringkan Baru"
+      },
+      {
+        "name": "Masak"
+      },
+      {
+        "name": "Masapol"
+      },
+      {
+        "name": "Masilou"
+      },
+      {
+        "name": "Matan"
+      },
+      {
+        "name": "Matunggong"
+      },
+      {
+        "name": "Matupang"
+      },
+      {
+        "name": "Maukab"
+      },
+      {
+        "name": "Megah Jaya"
+      },
+      {
+        "name": "Meiutut"
+      },
+      {
+        "name": "Melalap"
+      },
+      {
+        "name": "Melubang"
+      },
+      {
+        "name": "Membakut"
+      },
+      {
+        "name": "Membulu"
+      },
+      {
+        "name": "Mempulut"
+      },
+      {
+        "name": "Mempulut Kolobot"
+      },
+      {
+        "name": "Menggatal"
+      },
+      {
+        "name": "Meninipir"
+      },
+      {
+        "name": "Meninipir Lama"
+      },
+      {
+        "name": "Mentalik"
+      },
+      {
+        "name": "Menumbok"
+      },
+      {
+        "name": "Meridi"
+      },
+      {
+        "name": "Merungin"
+      },
+      {
+        "name": "Mesej Bunang"
+      },
+      {
+        "name": "Meserui"
+      },
+      {
+        "name": "Mesilau"
+      },
+      {
+        "name": "Minansut"
+      },
+      {
+        "name": "Minduhuaon Baru"
+      },
+      {
+        "name": "Minihas"
+      },
+      {
+        "name": "Minihas"
+      },
+      {
+        "name": "Minonun"
+      },
+      {
+        "name": "Mogoho"
+      },
+      {
+        "name": "Mohimboyon Baru"
+      },
+      {
+        "name": "Mohimboyon Lama"
+      },
+      {
+        "name": "Mokodou"
+      },
+      {
+        "name": "Mokotog"
+      },
+      {
+        "name": "Molinsau/Mampakot"
+      },
+      {
+        "name": "Molosok"
+      },
+      {
+        "name": "Monggis"
+      },
+      {
+        "name": "Mongitom Baru"
+      },
+      {
+        "name": "Mongitom Ulu"
+      },
+      {
+        "name": "Mongorimot"
+      },
+      {
+        "name": "Monguwou"
+      },
+      {
+        "name": "Monsok Tengah"
+      },
+      {
+        "name": "Monsok Ulu"
+      },
+      {
+        "name": "Monsokito"
+      },
+      {
+        "name": "Monsorulung"
+      },
+      {
+        "name": "Morungin 1"
+      },
+      {
+        "name": "Morungin 2"
+      },
+      {
+        "name": "Mototou"
+      },
+      {
+        "name": "Mumpoit"
+      },
+      {
+        "name": "Murud Kurud"
+      },
+      {
+        "name": "Muruk"
+      },
+      {
+        "name": "Mustika"
+      },
+      {
+        "name": "Naaba"
+      },
+      {
+        "name": "Nabawan"
+      },
+      {
+        "name": "Nabutan Baru"
+      },
+      {
+        "name": "Nagaya"
+      },
+      {
+        "name": "Nakuyung"
+      },
+      {
+        "name": "Nalapak"
+      },
+      {
+        "name": "Nalumad"
+      },
+      {
+        "name": "Namadan Baru"
+      },
+      {
+        "name": "Namalasakan Butul"
+      },
+      {
+        "name": "Namaus"
+      },
+      {
+        "name": "Namaus"
+      },
+      {
+        "name": "Nampasan Baru"
+      },
+      {
+        "name": "Nampasan Lama"
+      },
+      {
+        "name": "Nandagan"
+      },
+      {
+        "name": "Nangka"
+      },
+      {
+        "name": "Naradau"
+      },
+      {
+        "name": "Narambai"
+      },
+      {
+        "name": "Narawang"
+      },
+      {
+        "name": "Naruntung"
+      },
+      {
+        "name": "Nasakot"
+      },
+      {
+        "name": "Naukab (Bundu Apin-Apin)"
+      },
+      {
+        "name": "Nawanon"
+      },
+      {
+        "name": "Niasan"
+      },
+      {
+        "name": "Noluoh"
+      },
+      {
+        "name": "Nopung 1"
+      },
+      {
+        "name": "Nopung 2"
+      },
+      {
+        "name": "Nukakatan Baru"
+      },
+      {
+        "name": "Nuntunan"
+      },
+      {
+        "name": "Nunuk Ragang"
+      },
+      {
+        "name": "Nunuk Ragang"
+      },
+      {
+        "name": "Padang"
+      },
+      {
+        "name": "Pagalungan"
+      },
+      {
+        "name": "Pagansangan"
+      },
+      {
+        "name": "Paginatan"
+      },
+      {
+        "name": "Pahetowai"
+      },
+      {
+        "name": "Pahu"
+      },
+      {
+        "name": "Pahu"
+      },
+      {
+        "name": "Pahu Sasapan"
+      },
+      {
+        "name": "Paka"
+      },
+      {
+        "name": "Paka 1"
+      },
+      {
+        "name": "Paka 2"
+      },
+      {
+        "name": "Pamaitan"
+      },
+      {
+        "name": "Pampangon"
+      },
+      {
+        "name": "Panagatan Laut (Mapua)"
+      },
+      {
+        "name": "Panagatan Ulu"
+      },
+      {
+        "name": "Panarakan"
+      },
+      {
+        "name": "Panawan"
+      },
+      {
+        "name": "Pancuran"
+      },
+      {
+        "name": "Pangamadan"
+      },
+      {
+        "name": "Pangas Laut"
+      },
+      {
+        "name": "Pangas Ulu"
+      },
+      {
+        "name": "Pangasaan"
+      },
+      {
+        "name": "Pangi"
+      },
+      {
+        "name": "Pantai Baru"
+      },
+      {
+        "name": "Panui"
+      },
+      {
+        "name": "Panulangon"
+      },
+      {
+        "name": "Papar"
+      },
+      {
+        "name": "Papar Baru"
+      },
+      {
+        "name": "Pasir Putih"
+      },
+      {
+        "name": "Patau"
+      },
+      {
+        "name": "Patikang Laut"
+      },
+      {
+        "name": "Patikang Ulu"
+      },
+      {
+        "name": "Pauh"
+      },
+      {
+        "name": "Paus"
+      },
+      {
+        "name": "Payaton"
+      },
+      {
+        "name": "Pejabat Daerah Kecil Pagalungan"
+      },
+      {
+        "name": "Pejabat Perhutanan Tibow"
+      },
+      {
+        "name": "Pejabat Sub Sektor Salarom Taka"
+      },
+      {
+        "name": "Pejabat Sub Sektor Salung"
+      },
+      {
+        "name": "Pejabat Sub Sektor Tibow"
+      },
+      {
+        "name": "Pekan Baru/Kikiran"
+      },
+      {
+        "name": "Pekan Nabalu"
+      },
+      {
+        "name": "Pekan Taginambur"
+      },
+      {
+        "name": "Pengaradan"
+      },
+      {
+        "name": "Pengolobon"
+      },
+      {
+        "name": "Pensiangan"
+      },
+      {
+        "name": "Perancangan"
+      },
+      {
+        "name": "Pialungan"
+      },
+      {
+        "name": "Piasau"
+      },
+      {
+        "name": "Pilanas"
+      },
+      {
+        "name": "Pinampadan"
+      },
+      {
+        "name": "Pinangah"
+      },
+      {
+        "name": "Pinausuk"
+      },
+      {
+        "name": "Pinawantai"
+      },
+      {
+        "name": "Pingan Pingan"
+      },
+      {
+        "name": "Pingas Camp Kompartment 144"
+      },
+      {
+        "name": "Pinipi"
+      },
+      {
+        "name": "Pinitudahan/Mininto."
+      },
+      {
+        "name": "Pioh"
+      },
+      {
+        "name": "Piowou"
+      },
+      {
+        "name": "Pitas"
+      },
+      {
+        "name": "Pituru"
+      },
+      {
+        "name": "Polod 1"
+      },
+      {
+        "name": "Polod 2"
+      },
+      {
+        "name": "Poring"
+      },
+      {
+        "name": "Poring Simbuan"
+      },
+      {
+        "name": "Poropot"
+      },
+      {
+        "name": "Pugi"
+      },
+      {
+        "name": "Pulau Tigabu"
+      },
+      {
+        "name": "Pulungan A"
+      },
+      {
+        "name": "Pulungan B"
+      },
+      {
+        "name": "Pulutan"
+      },
+      {
+        "name": "Pulutan"
+      },
+      {
+        "name": "Pulutan"
+      },
+      {
+        "name": "Punggol"
+      },
+      {
+        "name": "Pungitan Polod"
+      },
+      {
+        "name": "Punteh Div. Plantation"
+      },
+      {
+        "name": "Punti Ngabai"
+      },
+      {
+        "name": "Pupuan"
+      },
+      {
+        "name": "Pupuluton"
+      },
+      {
+        "name": "Purak Pogis"
+      },
+      {
+        "name": "Puralai/Sri Kayangan"
+      },
+      {
+        "name": "Puru-Puru"
+      },
+      {
+        "name": "Purutan"
+      },
+      {
+        "name": "Purutan Laut"
+      },
+      {
+        "name": "Purutan Ulu"
+      },
+      {
+        "name": "Putatan"
+      },
+      {
+        "name": "Rampayan"
+      },
+      {
+        "name": "Rampayan Ulu"
+      },
+      {
+        "name": "Ran. Rumah Murah"
+      },
+      {
+        "name": "Ranau"
+      },
+      {
+        "name": "Rancangan Belia Tiulon"
+      },
+      {
+        "name": "Ranggom"
+      },
+      {
+        "name": "Rangko / Kiaburi"
+      },
+      {
+        "name": "Rapak"
+      },
+      {
+        "name": "Ratau"
+      },
+      {
+        "name": "Rayoh"
+      },
+      {
+        "name": "Riah"
+      },
+      {
+        "name": "Rimbayan"
+      },
+      {
+        "name": "Ritting"
+      },
+      {
+        "name": "Rompon"
+      },
+      {
+        "name": "Rompon Scheme Ii"
+      },
+      {
+        "name": "Rondogung"
+      },
+      {
+        "name": "Rondogung Baru"
+      },
+      {
+        "name": "Rugading"
+      },
+      {
+        "name": "Ruhukon"
+      },
+      {
+        "name": "Rumuyuh"
+      },
+      {
+        "name": "Sabah Tea"
+      },
+      {
+        "name": "Sabibingkol"
+      },
+      {
+        "name": "Sabuluh"
+      },
+      {
+        "name": "Sabungo"
+      },
+      {
+        "name": "Sagindai Lama"
+      },
+      {
+        "name": "Sakali"
+      },
+      {
+        "name": "Sakikilo"
+      },
+      {
+        "name": "Salang"
+      },
+      {
+        "name": "Salarom Baru"
+      },
+      {
+        "name": "Salarom Taka"
+      },
+      {
+        "name": "Saliha B"
+      },
+      {
+        "name": "Saliku Pensiangan"
+      },
+      {
+        "name": "Saliliran (The Lost Village)"
+      },
+      {
+        "name": "Salinatan"
+      },
+      {
+        "name": "Saliwangan"
+      },
+      {
+        "name": "Salulong"
+      },
+      {
+        "name": "Samali"
+      },
+      {
+        "name": "Samangkok"
+      },
+      {
+        "name": "Sanang"
+      },
+      {
+        "name": "Sandakan"
+      },
+      {
+        "name": "Sandapak"
+      },
+      {
+        "name": "Sapulut"
+      },
+      {
+        "name": "Sapulut Forest Development Sdn. Bhd."
+      },
+      {
+        "name": "Sarapong"
+      },
+      {
+        "name": "Sarikan A"
+      },
+      {
+        "name": "Sarikan B"
+      },
+      {
+        "name": "Sasagahan"
+      },
+      {
+        "name": "Sasaie / Tampulan"
+      },
+      {
+        "name": "Sawangon"
+      },
+      {
+        "name": "Seborong"
+      },
+      {
+        "name": "Segindai Baru"
+      },
+      {
+        "name": "Semporna"
+      },
+      {
+        "name": "Senagang"
+      },
+      {
+        "name": "Senagang Jln Lama"
+      },
+      {
+        "name": "Senaija"
+      },
+      {
+        "name": "Sentorama Sdn. Bhd."
+      },
+      {
+        "name": "Seraya Camp Gerak Sabah"
+      },
+      {
+        "name": "Seri Aman"
+      },
+      {
+        "name": "Seri Lalang (Kapakaan)"
+      },
+      {
+        "name": "Seri Menanti"
+      },
+      {
+        "name": "Serupil"
+      },
+      {
+        "name": "Siatu"
+      },
+      {
+        "name": "Sibuah"
+      },
+      {
+        "name": "Sigapon"
+      },
+      {
+        "name": "Sigatal Baru"
+      },
+      {
+        "name": "Sigatal Lama"
+      },
+      {
+        "name": "Sikalabaan"
+      },
+      {
+        "name": "Sikalabot"
+      },
+      {
+        "name": "Sikuati"
+      },
+      {
+        "name": "Silad"
+      },
+      {
+        "name": "Silou"
+      },
+      {
+        "name": "Silungai"
+      },
+      {
+        "name": "Simatuoh"
+      },
+      {
+        "name": "Simohong"
+      },
+      {
+        "name": "Simpang 4 Kasabug"
+      },
+      {
+        "name": "Simpang Pagalungan - Saliku"
+      },
+      {
+        "name": "Simpang Poring"
+      },
+      {
+        "name": "Simpang Tiga"
+      },
+      {
+        "name": "Sinapar"
+      },
+      {
+        "name": "Sinar Harapan"
+      },
+      {
+        "name": "Sinaron (Proper)"
+      },
+      {
+        "name": "Sinaron Tengah/Ulu"
+      },
+      {
+        "name": "Sindumin"
+      },
+      {
+        "name": "Singga Mata"
+      },
+      {
+        "name": "Singga Mata (Ansip)"
+      },
+      {
+        "name": "Singgaron Baru"
+      },
+      {
+        "name": "Sinisian"
+      },
+      {
+        "name": "Sinorut"
+      },
+      {
+        "name": "Sinsingon"
+      },
+      {
+        "name": "Sinua"
+      },
+      {
+        "name": "Sinulihan Baru"
+      },
+      {
+        "name": "Sinurai"
+      },
+      {
+        "name": "Sipitang"
+      },
+      {
+        "name": "Sipuok"
+      },
+      {
+        "name": "Siwalor"
+      },
+      {
+        "name": "Siwanal"
+      },
+      {
+        "name": "Sk Kuala Salong"
+      },
+      {
+        "name": "Skim Bumburing"
+      },
+      {
+        "name": "Skim Pamalan"
+      },
+      {
+        "name": "Sldb Dalit"
+      },
+      {
+        "name": "Sldb Tinagalan"
+      },
+      {
+        "name": "Sodomon"
+      },
+      {
+        "name": "Sodul"
+      },
+      {
+        "name": "Somuru"
+      },
+      {
+        "name": "Sondukut"
+      },
+      {
+        "name": "Sondukut Baru"
+      },
+      {
+        "name": "Sosolungon"
+      },
+      {
+        "name": "Sosondoton"
+      },
+      {
+        "name": "Sosopon (Lohan 2)"
+      },
+      {
+        "name": "Soyod"
+      },
+      {
+        "name": "Sri Menanti"
+      },
+      {
+        "name": "Sri Telipok Baru"
+      },
+      {
+        "name": "Suan"
+      },
+      {
+        "name": "Suan Ulu/Tengah"
+      },
+      {
+        "name": "Suang Duyung"
+      },
+      {
+        "name": "Suangbat"
+      },
+      {
+        "name": "Sukau"
+      },
+      {
+        "name": "Sukses Plantation"
+      },
+      {
+        "name": "Sumabi"
+      },
+      {
+        "name": "Sumalang (Liwan)"
+      },
+      {
+        "name": "Sumbiling"
+      },
+      {
+        "name": "Sumbilingon"
+      },
+      {
+        "name": "Suminimpod"
+      },
+      {
+        "name": "Sungai Matoi"
+      },
+      {
+        "name": "Sungai Rakit"
+      },
+      {
+        "name": "Sungai Sungai"
+      },
+      {
+        "name": "Sungangon"
+      },
+      {
+        "name": "Sungoi"
+      },
+      {
+        "name": "Surusop"
+      },
+      {
+        "name": "Susulat Baru"
+      },
+      {
+        "name": "Susuon"
+      },
+      {
+        "name": "Susuon Baru"
+      },
+      {
+        "name": "Syarikat Sogreen Plantation"
+      },
+      {
+        "name": "Taba"
+      },
+      {
+        "name": "Tagai"
+      },
+      {
+        "name": "Tagibang"
+      },
+      {
+        "name": "Tajur"
+      },
+      {
+        "name": "Takad"
+      },
+      {
+        "name": "Takilis"
+      },
+      {
+        "name": "Takurik"
+      },
+      {
+        "name": "Takutan"
+      },
+      {
+        "name": "Talas"
+      },
+      {
+        "name": "Tamalang"
+      },
+      {
+        "name": "Taman Berjaya"
+      },
+      {
+        "name": "Taman Bersatu"
+      },
+      {
+        "name": "Taman Bintang"
+      },
+      {
+        "name": "Tambiau"
+      },
+      {
+        "name": "Tambunan"
+      },
+      {
+        "name": "Tamparuli"
+      },
+      {
+        "name": "Tampasak Liwan"
+      },
+      {
+        "name": "Tampulos"
+      },
+      {
+        "name": "Tanah Merah"
+      },
+      {
+        "name": "Tanggui"
+      },
+      {
+        "name": "Tanggulon Jaya"
+      },
+      {
+        "name": "Tangkulap"
+      },
+      {
+        "name": "Tangkungon"
+      },
+      {
+        "name": "Tanid"
+      },
+      {
+        "name": "Tanjung Berungus"
+      },
+      {
+        "name": "Tarawas"
+      },
+      {
+        "name": "Tariwad"
+      },
+      {
+        "name": "Tatalaan Ulu"
+      },
+      {
+        "name": "Tataluan"
+      },
+      {
+        "name": "Tatapu"
+      },
+      {
+        "name": "Tawau"
+      },
+      {
+        "name": "Telaga"
+      },
+      {
+        "name": "Telaga"
+      },
+      {
+        "name": "Telupid"
+      },
+      {
+        "name": "Tenderung Gayo"
+      },
+      {
+        "name": "Tenghilan"
+      },
+      {
+        "name": "Tenom"
+      },
+      {
+        "name": "Terolobou Baru"
+      },
+      {
+        "name": "Tetagas"
+      },
+      {
+        "name": "Tg Malawali"
+      },
+      {
+        "name": "Tiang 1"
+      },
+      {
+        "name": "Tiang Baru"
+      },
+      {
+        "name": "Tiang Lama"
+      },
+      {
+        "name": "Tibabar"
+      },
+      {
+        "name": "Tiga (Bundu Apin-Apin)"
+      },
+      {
+        "name": "Tiga Tarok"
+      },
+      {
+        "name": "Tikolod"
+      },
+      {
+        "name": "Tikolod Ulu"
+      },
+      {
+        "name": "Timbua A (Debut)"
+      },
+      {
+        "name": "Timbua B (Kombiroi)"
+      },
+      {
+        "name": "Tinagat"
+      },
+      {
+        "name": "Tinanduk"
+      },
+      {
+        "name": "Tinanom"
+      },
+      {
+        "name": "Tinaom"
+      },
+      {
+        "name": "Tinatasan"
+      },
+      {
+        "name": "Tinindoi"
+      },
+      {
+        "name": "Tinompok"
+      },
+      {
+        "name": "Tinompok Liwan"
+      },
+      {
+        "name": "Tinutuan"
+      },
+      {
+        "name": "Tiong"
+      },
+      {
+        "name": "Titimbangon / Mempikit Ulu"
+      },
+      {
+        "name": "Toboh Lama"
+      },
+      {
+        "name": "Togis"
+      },
+      {
+        "name": "Togop Darat"
+      },
+      {
+        "name": "Togop Laut"
+      },
+      {
+        "name": "Togoyog"
+      },
+      {
+        "name": "Togudon Baru"
+      },
+      {
+        "name": "Togudon Lama"
+      },
+      {
+        "name": "Tohan Baru"
+      },
+      {
+        "name": "Tompios"
+      },
+      {
+        "name": "Tongod"
+      },
+      {
+        "name": "Tonobon Baru"
+      },
+      {
+        "name": "Tonop"
+      },
+      {
+        "name": "Tontolob Liwan"
+      },
+      {
+        "name": "Toporoh"
+      },
+      {
+        "name": "Torikon"
+      },
+      {
+        "name": "Torolobou"
+      },
+      {
+        "name": "Toruntungan"
+      },
+      {
+        "name": "Totogop"
+      },
+      {
+        "name": "Toupos"
+      },
+      {
+        "name": "Tuad (Bundu Apin-Apin)"
+      },
+      {
+        "name": "Tuaran"
+      },
+      {
+        "name": "Tuaran Baru"
+      },
+      {
+        "name": "Tuawon"
+      },
+      {
+        "name": "Tudan"
+      },
+      {
+        "name": "Tudan Baru"
+      },
+      {
+        "name": "Tudangan"
+      },
+      {
+        "name": "Tuhan"
+      },
+      {
+        "name": "Tulir"
+      },
+      {
+        "name": "Tumbalang"
+      },
+      {
+        "name": "Tundangon"
+      },
+      {
+        "name": "Tungou"
+      },
+      {
+        "name": "Tuntumulud"
+      },
+      {
+        "name": "Ulu Angkarut"
+      },
+      {
+        "name": "Ulu Keritan"
+      },
+      {
+        "name": "Ulu Kumawanan"
+      },
+      {
+        "name": "Ulu Monsorulung"
+      },
+      {
+        "name": "Ulu Senagang"
+      },
+      {
+        "name": "Umpason"
+      },
+      {
+        "name": "Ungkup"
+      },
+      {
+        "name": "Waang"
+      },
+      {
+        "name": "Wakaku"
+      },
+      {
+        "name": "Walou"
+      },
+      {
+        "name": "Waluhu"
+      },
+      {
+        "name": "Wawasan"
+      },
+      {
+        "name": "Wayan"
+      },
+      {
+        "name": "Weston"
+      },
+      {
+        "name": "Widu"
+      },
+      {
+        "name": "Widu"
+      },
+      {
+        "name": "Yeng Boon Tiong (Kandang 5)"
+      },
+      {
+        "name": "Zat Istimewa Sdn. Bhd."
+      },
+      {
+        "name": "Zillion Fortune Sdn. Bhd."
+      }
+    ]
+  },
+  {
+    "name": "Sarawak",
+    "cities": [
+      {
+        "name": "Abok Mawang"
+      },
+      {
+        "name": "Apau Goon"
+      },
+      {
+        "name": "Asajaya"
+      },
+      {
+        "name": "Awat-Awat"
+      },
+      {
+        "name": "Ba Abang"
+      },
+      {
+        "name": "Ba'Kelalan"
+      },
+      {
+        "name": "Baki Lama"
+      },
+      {
+        "name": "Bako Bazaar"
+      },
+      {
+        "name": "Bakong (Beluru)"
+      },
+      {
+        "name": "Balai Ringin"
+      },
+      {
+        "name": "Balingian"
+      },
+      {
+        "name": "Bandar Baru Mukah"
+      },
+      {
+        "name": "Bandar Mutiara Tebedu"
+      },
+      {
+        "name": "Bario"
+      },
+      {
+        "name": "Baru"
+      },
+      {
+        "name": "Batu Bungan"
+      },
+      {
+        "name": "Batu Danau"
+      },
+      {
+        "name": "Batu Kawa"
+      },
+      {
+        "name": "Batu Kitang"
+      },
+      {
+        "name": "Batu Lintang"
+      },
+      {
+        "name": "Batu Niah"
+      },
+      {
+        "name": "Batu Patong"
+      },
+      {
+        "name": "Bau"
+      },
+      {
+        "name": "Bawang Assan"
+      },
+      {
+        "name": "Bayong"
+      },
+      {
+        "name": "Bekenu (Subis)"
+      },
+      {
+        "name": "Beladin"
+      },
+      {
+        "name": "Belaga"
+      },
+      {
+        "name": "Bengoh Resettlement Scheme"
+      },
+      {
+        "name": "Beratok"
+      },
+      {
+        "name": "Betong"
+      },
+      {
+        "name": "Bintangor"
+      },
+      {
+        "name": "Bintulu"
+      },
+      {
+        "name": "Buso"
+      },
+      {
+        "name": "Ciq Pandaruan"
+      },
+      {
+        "name": "Dalat"
+      },
+      {
+        "name": "Daro"
+      },
+      {
+        "name": "Data Bilah"
+      },
+      {
+        "name": "Debak"
+      },
+      {
+        "name": "Demak Laut"
+      },
+      {
+        "name": "Engkilili"
+      },
+      {
+        "name": "Entulang"
+      },
+      {
+        "name": "Entulang Engkalat"
+      },
+      {
+        "name": "Entulang Jalai"
+      },
+      {
+        "name": "Entulang Lalang"
+      },
+      {
+        "name": "Entulang Pra"
+      },
+      {
+        "name": "Gedong"
+      },
+      {
+        "name": "Government Quarters Lawas"
+      },
+      {
+        "name": "Happy Garden"
+      },
+      {
+        "name": "Igan"
+      },
+      {
+        "name": "Jakar"
+      },
+      {
+        "name": "Jambusan"
+      },
+      {
+        "name": "Jelukong"
+      },
+      {
+        "name": "Julau"
+      },
+      {
+        "name": "Kabong"
+      },
+      {
+        "name": "Kampong Bobak Sejinjang"
+      },
+      {
+        "name": "Kampong Haji Wahed"
+      },
+      {
+        "name": "Kampong Lereng Bukit"
+      },
+      {
+        "name": "Kampong Lopeng Tengah"
+      },
+      {
+        "name": "Kampong Luak"
+      },
+      {
+        "name": "Kampong Pulau Melayu"
+      },
+      {
+        "name": "Kampong Sungai Baong"
+      },
+      {
+        "name": "Kampong Tulang"
+      },
+      {
+        "name": "Kampong Wireless"
+      },
+      {
+        "name": "Kamppung Tesu Kura"
+      },
+      {
+        "name": "Kampung"
+      },
+      {
+        "name": "Kampung Abang"
+      },
+      {
+        "name": "Kampung Abit"
+      },
+      {
+        "name": "Kampung Abok"
+      },
+      {
+        "name": "Kampung Agong Tua"
+      },
+      {
+        "name": "Kampung Anak Tuno"
+      },
+      {
+        "name": "Kampung Annah Rais"
+      },
+      {
+        "name": "Kampung Antayan Baru"
+      },
+      {
+        "name": "Kampung Antayan Kersik"
+      },
+      {
+        "name": "Kampung Antayan Kropok"
+      },
+      {
+        "name": "Kampung Antayan Liun"
+      },
+      {
+        "name": "Kampung Antayan Sarawak"
+      },
+      {
+        "name": "Kampung Apar"
+      },
+      {
+        "name": "Kampung Aping Dadak"
+      },
+      {
+        "name": "Kampung Assum"
+      },
+      {
+        "name": "Kampung Atas"
+      },
+      {
+        "name": "Kampung Badong"
+      },
+      {
+        "name": "Kampung Baing"
+      },
+      {
+        "name": "Kampung Bajo"
+      },
+      {
+        "name": "Kampung Bangau"
+      },
+      {
+        "name": "Kampung Bangka Semong"
+      },
+      {
+        "name": "Kampung Bantang"
+      },
+      {
+        "name": "Kampung Barieng"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru"
+      },
+      {
+        "name": "Kampung Baru Jangkar?"
+      },
+      {
+        "name": "Kampung Baru' Mawang"
+      },
+      {
+        "name": "Kampung Batu Bakarang"
+      },
+      {
+        "name": "Kampung Batu Dua"
+      },
+      {
+        "name": "Kampung Batu Gong"
+      },
+      {
+        "name": "Kampung Batu Kitang Jaya"
+      },
+      {
+        "name": "Kampung Batu Kitang Lama"
+      },
+      {
+        "name": "Kampung Batu Kudi"
+      },
+      {
+        "name": "Kampung Batu Rekang"
+      },
+      {
+        "name": "Kampung Batu Sepit"
+      },
+      {
+        "name": "Kampung Batu Tiga"
+      },
+      {
+        "name": "Kampung Bawang"
+      },
+      {
+        "name": "Kampung Bawang"
+      },
+      {
+        "name": "Kampung Bayai"
+      },
+      {
+        "name": "Kampung Bayur"
+      },
+      {
+        "name": "Kampung Bedega"
+      },
+      {
+        "name": "Kampung Begu"
+      },
+      {
+        "name": "Kampung Belantak"
+      },
+      {
+        "name": "Kampung Belunad"
+      },
+      {
+        "name": "Kampung Bengang"
+      },
+      {
+        "name": "Kampung Bengoh"
+      },
+      {
+        "name": "Kampung Benuas"
+      },
+      {
+        "name": "Kampung Benuk"
+      },
+      {
+        "name": "Kampung Beradau"
+      },
+      {
+        "name": "Kampung Berawan"
+      },
+      {
+        "name": "Kampung Betong Kanowit"
+      },
+      {
+        "name": "Kampung Biawak"
+      },
+      {
+        "name": "Kampung Bidak"
+      },
+      {
+        "name": "Kampung Bidak Mawang"
+      },
+      {
+        "name": "Kampung Bidak Plaman"
+      },
+      {
+        "name": "Kampung Bijongon"
+      },
+      {
+        "name": "Kampung Bijuray Mongag"
+      },
+      {
+        "name": "Kampung Bintawa Lama"
+      },
+      {
+        "name": "Kampung Bisira Rayang"
+      },
+      {
+        "name": "Kampung Bitokan"
+      },
+      {
+        "name": "Kampung Blimbin"
+      },
+      {
+        "name": "Kampung Blimbin A"
+      },
+      {
+        "name": "Kampung Blimbin B"
+      },
+      {
+        "name": "Kampung Blimbin Cina"
+      },
+      {
+        "name": "Kampung Blimbing Kawa"
+      },
+      {
+        "name": "Kampung Bobak Sajong"
+      },
+      {
+        "name": "Kampung Bogag"
+      },
+      {
+        "name": "Kampung Bojong Sting"
+      },
+      {
+        "name": "Kampung Bokah"
+      },
+      {
+        "name": "Kampung Boyan"
+      },
+      {
+        "name": "Kampung Bratan"
+      },
+      {
+        "name": "Kampung Bratan Asah"
+      },
+      {
+        "name": "Kampung Buang?"
+      },
+      {
+        "name": "Kampung Bugu"
+      },
+      {
+        "name": "Kampung Bukit Batu"
+      },
+      {
+        "name": "Kampung Bukit Nanas"
+      },
+      {
+        "name": "Kampung Bukit Panchor"
+      },
+      {
+        "name": "Kampung Bumbok"
+      },
+      {
+        "name": "Kampung Bunan Gega"
+      },
+      {
+        "name": "Kampung Bunan Pondok"
+      },
+      {
+        "name": "Kampung Bunga"
+      },
+      {
+        "name": "Kampung Bunga Rampai"
+      },
+      {
+        "name": "Kampung Bunga'"
+      },
+      {
+        "name": "Kampung Bungai"
+      },
+      {
+        "name": "Kampung Buntal"
+      },
+      {
+        "name": "Kampung Chupak"
+      },
+      {
+        "name": "Kampung Dagang"
+      },
+      {
+        "name": "Kampung Daha Mawang"
+      },
+      {
+        "name": "Kampung Daha Seroban"
+      },
+      {
+        "name": "Kampung Dahan"
+      },
+      {
+        "name": "Kampung Dangak"
+      },
+      {
+        "name": "Kampung Darul Falah"
+      },
+      {
+        "name": "Kampung Darul Huda"
+      },
+      {
+        "name": "Kampung Darul Iman"
+      },
+      {
+        "name": "Kampung Darul Islam"
+      },
+      {
+        "name": "Kampung Daun"
+      },
+      {
+        "name": "Kampung Diang Ipuh"
+      },
+      {
+        "name": "Kampung Duras"
+      },
+      {
+        "name": "Kampung Duyoh"
+      },
+      {
+        "name": "Kampung Emok"
+      },
+      {
+        "name": "Kampung Empasa"
+      },
+      {
+        "name": "Kampung Endap"
+      },
+      {
+        "name": "Kampung Engkeroh"
+      },
+      {
+        "name": "Kampung Engkeroh Tebakang"
+      },
+      {
+        "name": "Kampung Ensebang"
+      },
+      {
+        "name": "Kampung Ensebang Jaya"
+      },
+      {
+        "name": "Kampung Ensebang Kuari"
+      },
+      {
+        "name": "Kampung Ensebang Padang Billion"
+      },
+      {
+        "name": "Kampung Entawa"
+      },
+      {
+        "name": "Kampung Entingan"
+      },
+      {
+        "name": "Kampung Entubuh"
+      },
+      {
+        "name": "Kampung Gahat Mawang"
+      },
+      {
+        "name": "Kampung Garung"
+      },
+      {
+        "name": "Kampung Gawang"
+      },
+      {
+        "name": "Kampung Gayu"
+      },
+      {
+        "name": "Kampung Gerunggang"
+      },
+      {
+        "name": "Kampung Giam"
+      },
+      {
+        "name": "Kampung Giam Baru"
+      },
+      {
+        "name": "Kampung Git"
+      },
+      {
+        "name": "Kampung Grait"
+      },
+      {
+        "name": "Kampung Grogo"
+      },
+      {
+        "name": "Kampung Gua Dalam"
+      },
+      {
+        "name": "Kampung Gua Sukat"
+      },
+      {
+        "name": "Kampung Gumaya"
+      },
+      {
+        "name": "Kampung Gumbang"
+      },
+      {
+        "name": "Kampung Gumpey"
+      },
+      {
+        "name": "Kampung Gunda"
+      },
+      {
+        "name": "Kampung Hilir Serian"
+      },
+      {
+        "name": "Kampung Hulu Serian"
+      },
+      {
+        "name": "Kampung Igom"
+      },
+      {
+        "name": "Kampung Ipai"
+      },
+      {
+        "name": "Kampung Ipai Baru"
+      },
+      {
+        "name": "Kampung Itol"
+      },
+      {
+        "name": "Kampung Jabir"
+      },
+      {
+        "name": "Kampung Jagoi Gunong"
+      },
+      {
+        "name": "Kampung Jagoi Serikin"
+      },
+      {
+        "name": "Kampung Jalan Siantan"
+      },
+      {
+        "name": "Kampung Jambu"
+      },
+      {
+        "name": "Kampung Jampari"
+      },
+      {
+        "name": "Kampung Jangkar"
+      },
+      {
+        "name": "Kampung Jantan"
+      },
+      {
+        "name": "Kampung Jemoreng"
+      },
+      {
+        "name": "Kampung Jenan Mawang"
+      },
+      {
+        "name": "Kampung Jenan Pisa"
+      },
+      {
+        "name": "Kampung Jenan Tapau"
+      },
+      {
+        "name": "Kampung Jerijeh"
+      },
+      {
+        "name": "Kampung Jernang Baru"
+      },
+      {
+        "name": "Kampung Jirok"
+      },
+      {
+        "name": "Kampung Judin"
+      },
+      {
+        "name": "Kampung Jugan"
+      },
+      {
+        "name": "Kampung Junggu Mawang"
+      },
+      {
+        "name": "Kampung Kakai"
+      },
+      {
+        "name": "Kampung Kakas"
+      },
+      {
+        "name": "Kampung Kaman"
+      },
+      {
+        "name": "Kampung Kamas"
+      },
+      {
+        "name": "Kampung Kambug"
+      },
+      {
+        "name": "Kampung Kandis Baru"
+      },
+      {
+        "name": "Kampung Kandis Lama"
+      },
+      {
+        "name": "Kampung Karu"
+      },
+      {
+        "name": "Kampung Kemayau"
+      },
+      {
+        "name": "Kampung Kendaie"
+      },
+      {
+        "name": "Kampung Keranji"
+      },
+      {
+        "name": "Kampung Keranji"
+      },
+      {
+        "name": "Kampung Keromboi"
+      },
+      {
+        "name": "Kampung Kiding"
+      },
+      {
+        "name": "Kampung Klaoh"
+      },
+      {
+        "name": "Kampung Kohom Mandeg"
+      },
+      {
+        "name": "Kampung Kohom Mawang"
+      },
+      {
+        "name": "Kampung Kopit"
+      },
+      {
+        "name": "Kampung Koran Bari"
+      },
+      {
+        "name": "Kampung Koran Empaneg"
+      },
+      {
+        "name": "Kampung Koran Mawang"
+      },
+      {
+        "name": "Kampung Koran Plaman"
+      },
+      {
+        "name": "Kampung Krait"
+      },
+      {
+        "name": "Kampung Krangan Baru"
+      },
+      {
+        "name": "Kampung Krangan Engkatak"
+      },
+      {
+        "name": "Kampung Krangan Jaya"
+      },
+      {
+        "name": "Kampung Krangan Tekalong"
+      },
+      {
+        "name": "Kampung Krangan Trusan"
+      },
+      {
+        "name": "Kampung Krian"
+      },
+      {
+        "name": "Kampung Krusen Kranji"
+      },
+      {
+        "name": "Kampung Krusen Mawang"
+      },
+      {
+        "name": "Kampung Krusen Siu"
+      },
+      {
+        "name": "Kampung Kuala Balingian"
+      },
+      {
+        "name": "Kampung Kuala Briwang"
+      },
+      {
+        "name": "Kampung Kuala Matu"
+      },
+      {
+        "name": "Kampung Kuap"
+      },
+      {
+        "name": "Kampung Kujang Mawang"
+      },
+      {
+        "name": "Kampung Kujang Plaman"
+      },
+      {
+        "name": "Kampung Kujang Sain"
+      },
+      {
+        "name": "Kampung Kut"
+      },
+      {
+        "name": "Kampung Lachau Jinggau"
+      },
+      {
+        "name": "Kampung Lanchang Sda"
+      },
+      {
+        "name": "Kampung Lanchang Spg"
+      },
+      {
+        "name": "Kampung Lebor"
+      },
+      {
+        "name": "Kampung Ledan Gumbang"
+      },
+      {
+        "name": "Kampung Lembuak"
+      },
+      {
+        "name": "Kampung Lidah Tanah"
+      },
+      {
+        "name": "Kampung Limau"
+      },
+      {
+        "name": "Kampung Limpaki"
+      },
+      {
+        "name": "Kampung Limpaku Pinang"
+      },
+      {
+        "name": "Kampung Limpaong"
+      },
+      {
+        "name": "Kampung Limpasong"
+      },
+      {
+        "name": "Kampung Linsat"
+      },
+      {
+        "name": "Kampung Lintang Baru"
+      },
+      {
+        "name": "Kampung Lintang Baru"
+      },
+      {
+        "name": "Kampung Lobang Batu"
+      },
+      {
+        "name": "Kampung Lobang Batu Bedang"
+      },
+      {
+        "name": "Kampung Lobang Batu Lin"
+      },
+      {
+        "name": "Kampung Lobang Batu Mawang"
+      },
+      {
+        "name": "Kampung Longgo"
+      },
+      {
+        "name": "Kampung Lubok Ria"
+      },
+      {
+        "name": "Kampung Lubuk Sigantang"
+      },
+      {
+        "name": "Kampung Lumut"
+      },
+      {
+        "name": "Kampung Maang"
+      },
+      {
+        "name": "Kampung Malagangai"
+      },
+      {
+        "name": "Kampung Mambong"
+      },
+      {
+        "name": "Kampung Mang Besi"
+      },
+      {
+        "name": "Kampung Mangka"
+      },
+      {
+        "name": "Kampung Mapu Tragu"
+      },
+      {
+        "name": "Kampung Masaan"
+      },
+      {
+        "name": "Kampung Mawang"
+      },
+      {
+        "name": "Kampung Mawang Taup"
+      },
+      {
+        "name": "Kampung Mayang Kawan"
+      },
+      {
+        "name": "Kampung Mayang Mawang"
+      },
+      {
+        "name": "Kampung Melaban"
+      },
+      {
+        "name": "Kampung Melayu"
+      },
+      {
+        "name": "Kampung Melugu Tembawai"
+      },
+      {
+        "name": "Kampung Menaul"
+      },
+      {
+        "name": "Kampung Menjau"
+      },
+      {
+        "name": "Kampung Mentong Brawan"
+      },
+      {
+        "name": "Kampung Mentong Mubok"
+      },
+      {
+        "name": "Kampung Mentu Mawang"
+      },
+      {
+        "name": "Kampung Mentu Pondok"
+      },
+      {
+        "name": "Kampung Mentu Tapu"
+      },
+      {
+        "name": "Kampung Mentung Merau"
+      },
+      {
+        "name": "Kampung Meranek"
+      },
+      {
+        "name": "Kampung Merang Baru"
+      },
+      {
+        "name": "Kampung Merang Bedup"
+      },
+      {
+        "name": "Kampung Merang Lama"
+      },
+      {
+        "name": "Kampung Merian Bedup"
+      },
+      {
+        "name": "Kampung Merimbeh"
+      },
+      {
+        "name": "Kampung Mongkos"
+      },
+      {
+        "name": "Kampung Muara Ahi"
+      },
+      {
+        "name": "Kampung Muara Mongkos"
+      },
+      {
+        "name": "Kampung Muara Tuang"
+      },
+      {
+        "name": "Kampung Muboi"
+      },
+      {
+        "name": "Kampung Mujat"
+      },
+      {
+        "name": "Kampung Mundai"
+      },
+      {
+        "name": "Kampung Munggu Kopi"
+      },
+      {
+        "name": "Kampung Munggu Limo"
+      },
+      {
+        "name": "Kampung Murud Mawang"
+      },
+      {
+        "name": "Kampung Murud Plaman"
+      },
+      {
+        "name": "Kampung Nanga Kelassin"
+      },
+      {
+        "name": "Kampung Nauran"
+      },
+      {
+        "name": "Kampung Nowang"
+      },
+      {
+        "name": "Kampung Nusaraya Maras"
+      },
+      {
+        "name": "Kampung Opar"
+      },
+      {
+        "name": "Kampung Opek"
+      },
+      {
+        "name": "Kampung Pabahanan"
+      },
+      {
+        "name": "Kampung Padang Pan"
+      },
+      {
+        "name": "Kampung Padus Stubot"
+      },
+      {
+        "name": "Kampung Pahlawan"
+      },
+      {
+        "name": "Kampung Pakit A"
+      },
+      {
+        "name": "Kampung Pakit B"
+      },
+      {
+        "name": "Kampung Palah Cina"
+      },
+      {
+        "name": "Kampung Palas"
+      },
+      {
+        "name": "Kampung Panchor Cina"
+      },
+      {
+        "name": "Kampung Panchor Dayak"
+      },
+      {
+        "name": "Kampung Pandak"
+      },
+      {
+        "name": "Kampung Pangi"
+      },
+      {
+        "name": "Kampung Pangkalan Amo"
+      },
+      {
+        "name": "Kampung Pangkalan Baru"
+      },
+      {
+        "name": "Kampung Pangkalan Madang"
+      },
+      {
+        "name": "Kampung Paon"
+      },
+      {
+        "name": "Kampung Paon Gahat"
+      },
+      {
+        "name": "Kampung Paon Rimu"
+      },
+      {
+        "name": "Kampung Paon Rimu Bakong"
+      },
+      {
+        "name": "Kampung Parang"
+      },
+      {
+        "name": "Kampung Pasir"
+      },
+      {
+        "name": "Kampung Pasir Hulu"
+      },
+      {
+        "name": "Kampung Pasir Pandak"
+      },
+      {
+        "name": "Kampung Pasir Tengah"
+      },
+      {
+        "name": "Kampung Patung"
+      },
+      {
+        "name": "Kampung Payang"
+      },
+      {
+        "name": "Kampung Payau Achau"
+      },
+      {
+        "name": "Kampung Payau Burus"
+      },
+      {
+        "name": "Kampung Payau Mawang"
+      },
+      {
+        "name": "Kampung Pedaun Bawah"
+      },
+      {
+        "name": "Kampung Pemukat"
+      },
+      {
+        "name": "Kampung Penapak"
+      },
+      {
+        "name": "Kampung Pengiran"
+      },
+      {
+        "name": "Kampung Peninjau Baru"
+      },
+      {
+        "name": "Kampung Peninjau Lama"
+      },
+      {
+        "name": "Kampung Peramas"
+      },
+      {
+        "name": "Kampung Peraya"
+      },
+      {
+        "name": "Kampung Perian"
+      },
+      {
+        "name": "Kampung Perigi"
+      },
+      {
+        "name": "Kampung Peros"
+      },
+      {
+        "name": "Kampung Perundang"
+      },
+      {
+        "name": "Kampung Pesa"
+      },
+      {
+        "name": "Kampung Pesang"
+      },
+      {
+        "name": "Kampung Petag"
+      },
+      {
+        "name": "Kampung Pichin"
+      },
+      {
+        "name": "Kampung Pinang"
+      },
+      {
+        "name": "Kampung Pisa"
+      },
+      {
+        "name": "Kampung Plaie"
+      },
+      {
+        "name": "Kampung Plaman Baki"
+      },
+      {
+        "name": "Kampung Plaman Dunuk"
+      },
+      {
+        "name": "Kampung Plaman Nyabet"
+      },
+      {
+        "name": "Kampung Plaman Payang"
+      },
+      {
+        "name": "Kampung Plaman Sidaun"
+      },
+      {
+        "name": "Kampung Podam"
+      },
+      {
+        "name": "Kampung Pok Ai"
+      },
+      {
+        "name": "Kampung Prangkan Mawang"
+      },
+      {
+        "name": "Kampung Prangkan Merong"
+      },
+      {
+        "name": "Kampung Pridan"
+      },
+      {
+        "name": "Kampung Prutan"
+      },
+      {
+        "name": "Kampung Pueh"
+      },
+      {
+        "name": "Kampung Pugu"
+      },
+      {
+        "name": "Kampung Pulau Kandis"
+      },
+      {
+        "name": "Kampung Pulau Piranuk"
+      },
+      {
+        "name": "Kampung Punang"
+      },
+      {
+        "name": "Kampung Punang Jaya"
+      },
+      {
+        "name": "Kampung Punau"
+      },
+      {
+        "name": "Kampung Puteh"
+      },
+      {
+        "name": "Kampung Raeh"
+      },
+      {
+        "name": "Kampung Rajang"
+      },
+      {
+        "name": "Kampung Ranchan"
+      },
+      {
+        "name": "Kampung Ranchan Madang"
+      },
+      {
+        "name": "Kampung Rapak Atas"
+      },
+      {
+        "name": "Kampung Rapak Lachau"
+      },
+      {
+        "name": "Kampung Rasau"
+      },
+      {
+        "name": "Kampung Raso I"
+      },
+      {
+        "name": "Kampung Raso Ii"
+      },
+      {
+        "name": "Kampung Rayang"
+      },
+      {
+        "name": "Kampung Rejoi"
+      },
+      {
+        "name": "Kampung Rejoi Nyegol"
+      },
+      {
+        "name": "Kampung Rembus"
+      },
+      {
+        "name": "Kampung Remun"
+      },
+      {
+        "name": "Kampung Remun Cina"
+      },
+      {
+        "name": "Kampung Resak"
+      },
+      {
+        "name": "Kampung Retoh Karas (Sda)"
+      },
+      {
+        "name": "Kampung Retoh Mawang"
+      },
+      {
+        "name": "Kampung Retoh Plaman"
+      },
+      {
+        "name": "Kampung Riih Daso"
+      },
+      {
+        "name": "Kampung Riih Mawang"
+      },
+      {
+        "name": "Kampung Rituh Labuan"
+      },
+      {
+        "name": "Kampung Rudan Rayang"
+      },
+      {
+        "name": "Kampung Rukam"
+      },
+      {
+        "name": "Kampung Rumih"
+      },
+      {
+        "name": "Kampung Saai"
+      },
+      {
+        "name": "Kampung Sabal Kurwin"
+      },
+      {
+        "name": "Kampung Sadir"
+      },
+      {
+        "name": "Kampung Sagah"
+      },
+      {
+        "name": "Kampung San Raba"
+      },
+      {
+        "name": "Kampung Sandong"
+      },
+      {
+        "name": "Kampung Sangai Mawang"
+      },
+      {
+        "name": "Kampung Sangai Meringgu"
+      },
+      {
+        "name": "Kampung Santubong"
+      },
+      {
+        "name": "Kampung Sapit"
+      },
+      {
+        "name": "Kampung Sarig"
+      },
+      {
+        "name": "Kampung Sayung"
+      },
+      {
+        "name": "Kampung Sebako"
+      },
+      {
+        "name": "Kampung Sebandi Hilir"
+      },
+      {
+        "name": "Kampung Sebandi Hulu"
+      },
+      {
+        "name": "Kampung Sebangkoi"
+      },
+      {
+        "name": "Kampung Sebat Baru"
+      },
+      {
+        "name": "Kampung Sebat Dayak"
+      },
+      {
+        "name": "Kampung Sebat Melayu"
+      },
+      {
+        "name": "Kampung Sebayor"
+      },
+      {
+        "name": "Kampung Sebemban"
+      },
+      {
+        "name": "Kampung Sebemban"
+      },
+      {
+        "name": "Kampung Sebemban"
+      },
+      {
+        "name": "Kampung Sebenyis"
+      },
+      {
+        "name": "Kampung Seberang Kedai"
+      },
+      {
+        "name": "Kampung Sebetong"
+      },
+      {
+        "name": "Kampung Sebigo Cina"
+      },
+      {
+        "name": "Kampung Sebigo Dayak"
+      },
+      {
+        "name": "Kampung Sebintin"
+      },
+      {
+        "name": "Kampung Sebiris"
+      },
+      {
+        "name": "Kampung Sebuang"
+      },
+      {
+        "name": "Kampung Sebuloh"
+      },
+      {
+        "name": "Kampung Sedaing"
+      },
+      {
+        "name": "Kampung Sedemak"
+      },
+      {
+        "name": "Kampung Sega"
+      },
+      {
+        "name": "Kampung Segenam"
+      },
+      {
+        "name": "Kampung Segong"
+      },
+      {
+        "name": "Kampung Segubang"
+      },
+      {
+        "name": "Kampung Sejijak Kabuhu"
+      },
+      {
+        "name": "Kampung Sejijak Mawang"
+      },
+      {
+        "name": "Kampung Sejijak Plaman"
+      },
+      {
+        "name": "Kampung Sekambal"
+      },
+      {
+        "name": "Kampung Sekuduk"
+      },
+      {
+        "name": "Kampung Selampit"
+      },
+      {
+        "name": "Kampung Selarat"
+      },
+      {
+        "name": "Kampung Selepong Beranggan"
+      },
+      {
+        "name": "Kampung Selepong Jagu"
+      },
+      {
+        "name": "Kampung Selepong Jinggau"
+      },
+      {
+        "name": "Kampung Selepong Lop"
+      },
+      {
+        "name": "Kampung Selepong Maleh"
+      },
+      {
+        "name": "Kampung Semaba"
+      },
+      {
+        "name": "Kampung Semadang"
+      },
+      {
+        "name": "Kampung Semapu"
+      },
+      {
+        "name": "Kampung Semban"
+      },
+      {
+        "name": "Kampung Sembawang Besar"
+      },
+      {
+        "name": "Kampung Sembawang Kecil"
+      },
+      {
+        "name": "Kampung Semeru"
+      },
+      {
+        "name": "Kampung Semop"
+      },
+      {
+        "name": "Kampung Semuja Cina"
+      },
+      {
+        "name": "Kampung Semukoi B"
+      },
+      {
+        "name": "Kampung Semukoi Cina"
+      },
+      {
+        "name": "Kampung Semunin Cina"
+      },
+      {
+        "name": "Kampung Semunin Jaya"
+      },
+      {
+        "name": "Kampung Semuti"
+      },
+      {
+        "name": "Kampung Senah Rayang"
+      },
+      {
+        "name": "Kampung Senibong"
+      },
+      {
+        "name": "Kampung Senibong"
+      },
+      {
+        "name": "Kampung Sentah"
+      },
+      {
+        "name": "Kampung Sepadah"
+      },
+      {
+        "name": "Kampung Serasot"
+      },
+      {
+        "name": "Kampung Seratau"
+      },
+      {
+        "name": "Kampung Serayan Hilir"
+      },
+      {
+        "name": "Kampung Serayan Hulu"
+      },
+      {
+        "name": "Kampung Serdeng"
+      },
+      {
+        "name": "Kampung Seroban"
+      },
+      {
+        "name": "Kampung Seromah"
+      },
+      {
+        "name": "Kampung Seropak"
+      },
+      {
+        "name": "Kampung Seruit"
+      },
+      {
+        "name": "Kampung Serumah"
+      },
+      {
+        "name": "Kampung Sg Aping"
+      },
+      {
+        "name": "Kampung Sg Brooke"
+      },
+      {
+        "name": "Kampung Sg Buluh Bedup"
+      },
+      {
+        "name": "Kampung Sg Buntak"
+      },
+      {
+        "name": "Kampung Sg Engkabang A"
+      },
+      {
+        "name": "Kampung Sg Riset"
+      },
+      {
+        "name": "Kampung Sg Tapang"
+      },
+      {
+        "name": "Kampung Sg. Bandong"
+      },
+      {
+        "name": "Kampung Sg. Barie"
+      },
+      {
+        "name": "Kampung Sg. Batu"
+      },
+      {
+        "name": "Kampung Sg. Duuh"
+      },
+      {
+        "name": "Kampung Sg. Engkabang B"
+      },
+      {
+        "name": "Kampung Sg. Kuhas"
+      },
+      {
+        "name": "Kampung Sg. Limo/Kuali, Chupin"
+      },
+      {
+        "name": "Kampung Sg. Lundu"
+      },
+      {
+        "name": "Kampung Sg. Menyan Cina"
+      },
+      {
+        "name": "Kampung Sg. Pinang"
+      },
+      {
+        "name": "Kampung Sg. Turong"
+      },
+      {
+        "name": "Kampung Sibakar"
+      },
+      {
+        "name": "Kampung Sibatuh"
+      },
+      {
+        "name": "Kampung Sibobog"
+      },
+      {
+        "name": "Kampung Sibuluh"
+      },
+      {
+        "name": "Kampung Sibulung"
+      },
+      {
+        "name": "Kampung Sidanu"
+      },
+      {
+        "name": "Kampung Siga"
+      },
+      {
+        "name": "Kampung Sigandar"
+      },
+      {
+        "name": "Kampung Sikog"
+      },
+      {
+        "name": "Kampung Sileng Dayak"
+      },
+      {
+        "name": "Kampung Sileng Melayu"
+      },
+      {
+        "name": "Kampung Siluk"
+      },
+      {
+        "name": "Kampung Simboh"
+      },
+      {
+        "name": "Kampung Simpang Bokah"
+      },
+      {
+        "name": "Kampung Simpok"
+      },
+      {
+        "name": "Kampung Sinar Baru"
+      },
+      {
+        "name": "Kampung Sinaran Jaya"
+      },
+      {
+        "name": "Kampung Sindang Baru"
+      },
+      {
+        "name": "Kampung Siniawan Lot Melayu"
+      },
+      {
+        "name": "Kampung Siniawan Seberang"
+      },
+      {
+        "name": "Kampung Sinjok"
+      },
+      {
+        "name": "Kampung Sion"
+      },
+      {
+        "name": "Kampung Sira"
+      },
+      {
+        "name": "Kampung Siru Dayak"
+      },
+      {
+        "name": "Kampung Siru Melayu"
+      },
+      {
+        "name": "Kampung Sitaang"
+      },
+      {
+        "name": "Kampung Skiat"
+      },
+      {
+        "name": "Kampung Skiat Lama"
+      },
+      {
+        "name": "Kampung Skibang"
+      },
+      {
+        "name": "Kampung Skio"
+      },
+      {
+        "name": "Kampung Slabi Belala"
+      },
+      {
+        "name": "Kampung Slabi Cina"
+      },
+      {
+        "name": "Kampung Slabi Empurug"
+      },
+      {
+        "name": "Kampung Slabi Entukuh"
+      },
+      {
+        "name": "Kampung Slabi Sengkam"
+      },
+      {
+        "name": "Kampung Sogo"
+      },
+      {
+        "name": "Kampung Soh"
+      },
+      {
+        "name": "Kampung Sorak Dayak"
+      },
+      {
+        "name": "Kampung Sorak Mawang"
+      },
+      {
+        "name": "Kampung Sorak Melayu"
+      },
+      {
+        "name": "Kampung Sri Arjuna"
+      },
+      {
+        "name": "Kampung Sri Menanti"
+      },
+      {
+        "name": "Kampung Stabut"
+      },
+      {
+        "name": "Kampung Stass"
+      },
+      {
+        "name": "Kampung Stenggang"
+      },
+      {
+        "name": "Kampung Stuga"
+      },
+      {
+        "name": "Kampung Stum Muda"
+      },
+      {
+        "name": "Kampung Stunggang Dayak"
+      },
+      {
+        "name": "Kampung Stunggang Melayu"
+      },
+      {
+        "name": "Kampung Stunggang Ulu"
+      },
+      {
+        "name": "Kampung Stungkor Baru"
+      },
+      {
+        "name": "Kampung Suba Bandar"
+      },
+      {
+        "name": "Kampung Suba Bau"
+      },
+      {
+        "name": "Kampung Suba Buan"
+      },
+      {
+        "name": "Kampung Subang"
+      },
+      {
+        "name": "Kampung Sudoh"
+      },
+      {
+        "name": "Kampung Sungai Kura"
+      },
+      {
+        "name": "Kampung Sungai Ladong"
+      },
+      {
+        "name": "Kampung Sungai Pinang Ulu"
+      },
+      {
+        "name": "Kampung Sungai Setakong"
+      },
+      {
+        "name": "Kampung Sungan"
+      },
+      {
+        "name": "Kampung Sutong"
+      },
+      {
+        "name": "Kampung Tabuan Dayak"
+      },
+      {
+        "name": "Kampung Tabuan Rabak"
+      },
+      {
+        "name": "Kampung Taee"
+      },
+      {
+        "name": "Kampung Tambey"
+      },
+      {
+        "name": "Kampung Tana Buda"
+      },
+      {
+        "name": "Kampung Tanah Hitam"
+      },
+      {
+        "name": "Kampung Tanah Mawang"
+      },
+      {
+        "name": "Kampung Tanah Mawang Menyang"
+      },
+      {
+        "name": "Kampung Tanah Mawang Menyang A"
+      },
+      {
+        "name": "Kampung Tanah Puteh"
+      },
+      {
+        "name": "Kampung Tanah Puteh"
+      },
+      {
+        "name": "Kampung Tangga Mawang"
+      },
+      {
+        "name": "Kampung Tanggak Plaman"
+      },
+      {
+        "name": "Kampung Tanjam"
+      },
+      {
+        "name": "Kampung Tanjong Bowang"
+      },
+      {
+        "name": "Kampung Tanjong Poting"
+      },
+      {
+        "name": "Kampung Tanjung Bundong Lot Fasa 1"
+      },
+      {
+        "name": "Kampung Tanjung Bundong Lot Fasa 2"
+      },
+      {
+        "name": "Kampung Tanjung Bundong Tradisi"
+      },
+      {
+        "name": "Kampung Tarat Kringkin"
+      },
+      {
+        "name": "Kampung Tarat Mawang"
+      },
+      {
+        "name": "Kampung Tarat Melawi"
+      },
+      {
+        "name": "Kampung Tarat Sibala"
+      },
+      {
+        "name": "Kampung Tebahan"
+      },
+      {
+        "name": "Kampung Tebakang Dayak"
+      },
+      {
+        "name": "Kampung Tebakang Melayu"
+      },
+      {
+        "name": "Kampung Tebaro"
+      },
+      {
+        "name": "Kampung Tebedu Bung Padus"
+      },
+      {
+        "name": "Kampung Tebedu Mawang"
+      },
+      {
+        "name": "Kampung Tebelu"
+      },
+      {
+        "name": "Kampung Telaga Air"
+      },
+      {
+        "name": "Kampung Telagus"
+      },
+      {
+        "name": "Kampung Telok Melano"
+      },
+      {
+        "name": "Kampung Telok Serabang"
+      },
+      {
+        "name": "Kampung Tema Mawang"
+      },
+      {
+        "name": "Kampung Tema Penggal"
+      },
+      {
+        "name": "Kampung Tema Saan"
+      },
+      {
+        "name": "Kampung Temaga Cina"
+      },
+      {
+        "name": "Kampung Temaga Dayak"
+      },
+      {
+        "name": "Kampung Temaga Melayu"
+      },
+      {
+        "name": "Kampung Tematu"
+      },
+      {
+        "name": "Kampung Tembawang Baru"
+      },
+      {
+        "name": "Kampung Tembawang Sauh"
+      },
+      {
+        "name": "Kampung Temelan Dayak"
+      },
+      {
+        "name": "Kampung Temelan Dayak"
+      },
+      {
+        "name": "Kampung Temong Bengan"
+      },
+      {
+        "name": "Kampung Temong Mawang"
+      },
+      {
+        "name": "Kampung Temong Mura"
+      },
+      {
+        "name": "Kampung Temong Putan"
+      },
+      {
+        "name": "Kampung Teng Paron"
+      },
+      {
+        "name": "Kampung Tepoi"
+      },
+      {
+        "name": "Kampung Terbat Leban"
+      },
+      {
+        "name": "Kampung Terbat Mawang"
+      },
+      {
+        "name": "Kampung Tesu Mawang"
+      },
+      {
+        "name": "Kampung Tian"
+      },
+      {
+        "name": "Kampung Tian Mawang"
+      },
+      {
+        "name": "Kampung Tian Sekawan"
+      },
+      {
+        "name": "Kampung Tijirak"
+      },
+      {
+        "name": "Kampung Timurang"
+      },
+      {
+        "name": "Kampung Titiakar"
+      },
+      {
+        "name": "Kampung Tong Nibong"
+      },
+      {
+        "name": "Kampung Triboh"
+      },
+      {
+        "name": "Kampung Tringgus Matan Nguan"
+      },
+      {
+        "name": "Kampung Tringgus Tabak Rotan"
+      },
+      {
+        "name": "Kampung Triso"
+      },
+      {
+        "name": "Kampung Tubih Behem"
+      },
+      {
+        "name": "Kampung Tubih Mawang"
+      },
+      {
+        "name": "Kampung Tubih Plaman"
+      },
+      {
+        "name": "Kampung Tugag Oma"
+      },
+      {
+        "name": "Kampung Tuna"
+      },
+      {
+        "name": "Kampung Tungan"
+      },
+      {
+        "name": "Kanowit"
+      },
+      {
+        "name": "Kapit"
+      },
+      {
+        "name": "Kemintin Klaoh"
+      },
+      {
+        "name": "Kemintin Tengah"
+      },
+      {
+        "name": "Kesit"
+      },
+      {
+        "name": "Klinik"
+      },
+      {
+        "name": "Kota Padawan"
+      },
+      {
+        "name": "Kota Samarahan"
+      },
+      {
+        "name": "Kota Sentosa"
+      },
+      {
+        "name": "Kpg. Tapang Maong"
+      },
+      {
+        "name": "Krokong"
+      },
+      {
+        "name": "Kuala Lawas"
+      },
+      {
+        "name": "Kuarters Kastam Ciq Pandaruan"
+      },
+      {
+        "name": "Kuching"
+      },
+      {
+        "name": "Lachau"
+      },
+      {
+        "name": "Lachau"
+      },
+      {
+        "name": "Lapok"
+      },
+      {
+        "name": "Lawas"
+      },
+      {
+        "name": "Lempong Empeliau"
+      },
+      {
+        "name": "Lepo Leju"
+      },
+      {
+        "name": "Lepong Sampai"
+      },
+      {
+        "name": "Limbang"
+      },
+      {
+        "name": "Lingga"
+      },
+      {
+        "name": "Lio Mato"
+      },
+      {
+        "name": "Long Anap"
+      },
+      {
+        "name": "Long Apu"
+      },
+      {
+        "name": "Long Atip"
+      },
+      {
+        "name": "Long Aton"
+      },
+      {
+        "name": "Long Aya"
+      },
+      {
+        "name": "Long Banga"
+      },
+      {
+        "name": "Long Banyok"
+      },
+      {
+        "name": "Long Bedian"
+      },
+      {
+        "name": "Long Bemang"
+      },
+      {
+        "name": "Long Buang"
+      },
+      {
+        "name": "Long Ikang"
+      },
+      {
+        "name": "Long Jeeh"
+      },
+      {
+        "name": "Long Jegan"
+      },
+      {
+        "name": "Long Jekitan"
+      },
+      {
+        "name": "Long Julan Pelutan"
+      },
+      {
+        "name": "Long Kepang"
+      },
+      {
+        "name": "Long Keseh"
+      },
+      {
+        "name": "Long Lama"
+      },
+      {
+        "name": "Long Laput"
+      },
+      {
+        "name": "Long Lellang"
+      },
+      {
+        "name": "Long Liam"
+      },
+      {
+        "name": "Long Lobang"
+      },
+      {
+        "name": "Long Loyang"
+      },
+      {
+        "name": "Long Main"
+      },
+      {
+        "name": "Long Makabar"
+      },
+      {
+        "name": "Long Miri"
+      },
+      {
+        "name": "Long Moh"
+      },
+      {
+        "name": "Long Na'Ah"
+      },
+      {
+        "name": "Long Nakan"
+      },
+      {
+        "name": "Long Nuah"
+      },
+      {
+        "name": "Long Palai"
+      },
+      {
+        "name": "Long Panai"
+      },
+      {
+        "name": "Long Peluan"
+      },
+      {
+        "name": "Long Pillah"
+      },
+      {
+        "name": "Long Sabulon"
+      },
+      {
+        "name": "Long Sela'An"
+      },
+      {
+        "name": "Long Selawan"
+      },
+      {
+        "name": "Long Semiang"
+      },
+      {
+        "name": "Long Seniai"
+      },
+      {
+        "name": "Long Senong"
+      },
+      {
+        "name": "Long Seridan"
+      },
+      {
+        "name": "Long Silat"
+      },
+      {
+        "name": "Long Sobing"
+      },
+      {
+        "name": "Long Tabeng"
+      },
+      {
+        "name": "Long Tengoa"
+      },
+      {
+        "name": "Long Teran Kanan"
+      },
+      {
+        "name": "Long Teran Kiri"
+      },
+      {
+        "name": "Long Terawan"
+      },
+      {
+        "name": "Long Tisam"
+      },
+      {
+        "name": "Long Toyut"
+      },
+      {
+        "name": "Long Tujang"
+      },
+      {
+        "name": "Long Tungan"
+      },
+      {
+        "name": "Long Urang Village"
+      },
+      {
+        "name": "Longtebangan"
+      },
+      {
+        "name": "Lubok Antu"
+      },
+      {
+        "name": "Lundu"
+      },
+      {
+        "name": "Lutong"
+      },
+      {
+        "name": "Machan"
+      },
+      {
+        "name": "Maludam"
+      },
+      {
+        "name": "Marudi"
+      },
+      {
+        "name": "Matu"
+      },
+      {
+        "name": "Medong"
+      },
+      {
+        "name": "Melugu Kuari"
+      },
+      {
+        "name": "Melugu Skim"
+      },
+      {
+        "name": "Melugu Tengah"
+      },
+      {
+        "name": "Memaloi"
+      },
+      {
+        "name": "Mengkalap"
+      },
+      {
+        "name": "Merapok"
+      },
+      {
+        "name": "Miri"
+      },
+      {
+        "name": "Mukah"
+      },
+      {
+        "name": "Mulu"
+      },
+      {
+        "name": "Musi"
+      },
+      {
+        "name": "Nanga Dap"
+      },
+      {
+        "name": "Nanga Gaat"
+      },
+      {
+        "name": "Nanga Kain"
+      },
+      {
+        "name": "Nanga Medamit"
+      },
+      {
+        "name": "Nanga Merit"
+      },
+      {
+        "name": "Nanga Ngemah"
+      },
+      {
+        "name": "Nanga Tada Resettlement Scheme"
+      },
+      {
+        "name": "Ngungun Resettlement Scheme"
+      },
+      {
+        "name": "Oya"
+      },
+      {
+        "name": "Pa Dalih"
+      },
+      {
+        "name": "Pa Lungan"
+      },
+      {
+        "name": "Pa Mada"
+      },
+      {
+        "name": "Pa Main"
+      },
+      {
+        "name": "Pa Ukat"
+      },
+      {
+        "name": "Pa Umor"
+      },
+      {
+        "name": "Pa' Ramapuh Atas"
+      },
+      {
+        "name": "Pa' Ramapuh Bawah"
+      },
+      {
+        "name": "Pabahanan"
+      },
+      {
+        "name": "Padang Kerbau"
+      },
+      {
+        "name": "Pain Bojong"
+      },
+      {
+        "name": "Pakan"
+      },
+      {
+        "name": "Paku"
+      },
+      {
+        "name": "Panggil"
+      },
+      {
+        "name": "Pangkalan"
+      },
+      {
+        "name": "Pangkalan Ampat"
+      },
+      {
+        "name": "Pangkalan Tebang"
+      },
+      {
+        "name": "Pantu"
+      },
+      {
+        "name": "Pekan Sungai Tenggang"
+      },
+      {
+        "name": "Permai Jaya"
+      },
+      {
+        "name": "Perumahan Polis Batu Empat"
+      },
+      {
+        "name": "Pijiru"
+      },
+      {
+        "name": "Plaman Monggok"
+      },
+      {
+        "name": "Punang"
+      },
+      {
+        "name": "Punggu Batu Anchau"
+      },
+      {
+        "name": "Punggu Dadak"
+      },
+      {
+        "name": "Punggu Jinggau"
+      },
+      {
+        "name": "Punggu Mawang"
+      },
+      {
+        "name": "Punggu Tapang"
+      },
+      {
+        "name": "Pusa"
+      },
+      {
+        "name": "Putai"
+      },
+      {
+        "name": "Ramudu"
+      },
+      {
+        "name": "Ran"
+      },
+      {
+        "name": "Ranggau"
+      },
+      {
+        "name": "Rapak Tebus"
+      },
+      {
+        "name": "Rejoi"
+      },
+      {
+        "name": "Rh Takung"
+      },
+      {
+        "name": "Roban"
+      },
+      {
+        "name": "Rpr Batu Biah Fasa 2"
+      },
+      {
+        "name": "Rpr Matang Sungai Tengah 2"
+      },
+      {
+        "name": "Rumah Garie"
+      },
+      {
+        "name": "Sabu"
+      },
+      {
+        "name": "Sadong Jaya"
+      },
+      {
+        "name": "San Demam"
+      },
+      {
+        "name": "San Kemantan"
+      },
+      {
+        "name": "San Ugol"
+      },
+      {
+        "name": "San Uncap Undop"
+      },
+      {
+        "name": "Saratok"
+      },
+      {
+        "name": "Sarikei"
+      },
+      {
+        "name": "Sebauh"
+      },
+      {
+        "name": "Sebuyau"
+      },
+      {
+        "name": "Sedarat Baru"
+      },
+      {
+        "name": "Sedarat Mawang"
+      },
+      {
+        "name": "Sedarat Salin"
+      },
+      {
+        "name": "Sejingkat"
+      },
+      {
+        "name": "Selalang"
+      },
+      {
+        "name": "Selangau"
+      },
+      {
+        "name": "Sematan"
+      },
+      {
+        "name": "Semban"
+      },
+      {
+        "name": "Semenggoh"
+      },
+      {
+        "name": "Semuja / Gedong Central"
+      },
+      {
+        "name": "Semukoi A"
+      },
+      {
+        "name": "Serian"
+      },
+      {
+        "name": "Serikin"
+      },
+      {
+        "name": "Sessang"
+      },
+      {
+        "name": "Siang-Siang"
+      },
+      {
+        "name": "Sibu"
+      },
+      {
+        "name": "Sibu Jaya"
+      },
+      {
+        "name": "Siburan"
+      },
+      {
+        "name": "Simanggang"
+      },
+      {
+        "name": "Simpang Niah"
+      },
+      {
+        "name": "Simpang Ubah"
+      },
+      {
+        "name": "Simunjan"
+      },
+      {
+        "name": "Siniawan"
+      },
+      {
+        "name": "Sk Nanga Telawan"
+      },
+      {
+        "name": "Skrang Skim"
+      },
+      {
+        "name": "Song"
+      },
+      {
+        "name": "Spalau"
+      },
+      {
+        "name": "Spaoh"
+      },
+      {
+        "name": "Sri Kenawan"
+      },
+      {
+        "name": "Srijaya"
+      },
+      {
+        "name": "Stapang"
+      },
+      {
+        "name": "Stungkor"
+      },
+      {
+        "name": "Sundar"
+      },
+      {
+        "name": "Sungai Asap Resettlement Scheme"
+      },
+      {
+        "name": "Sungai Dor"
+      },
+      {
+        "name": "Sungai Dua"
+      },
+      {
+        "name": "Sungai Pasai"
+      },
+      {
+        "name": "Sungai Tujoh"
+      },
+      {
+        "name": "Taba Sait"
+      },
+      {
+        "name": "Taiton"
+      },
+      {
+        "name": "Taman Cempaka Indah (Ranggau)"
+      },
+      {
+        "name": "Taman Desa Pabahanan"
+      },
+      {
+        "name": "Taman Seri Patiambun"
+      },
+      {
+        "name": "Tanjong Tepalit"
+      },
+      {
+        "name": "Tanjung Manis"
+      },
+      {
+        "name": "Tanjung Manis (Belawai)"
+      },
+      {
+        "name": "Tapah"
+      },
+      {
+        "name": "Tarat"
+      },
+      {
+        "name": "Tatau"
+      },
+      {
+        "name": "Tebakang"
+      },
+      {
+        "name": "Teng Bukap"
+      },
+      {
+        "name": "Tondong"
+      },
+      {
+        "name": "Trusan"
+      },
+      {
+        "name": "Uma Akeh"
+      },
+      {
+        "name": "Uma Bawang"
+      }
+    ]
+  },
+  {
+    "name": "Selangor",
+    "cities": [
+      {
+        "name": "Ampang Jaya"
+      },
+      {
+        "name": "Bagan Lalang"
+      },
+      {
+        "name": "Bagan Nakhoda Omar"
+      },
+      {
+        "name": "Bagan Pasir"
+      },
+      {
+        "name": "Bagan Sungai Besar"
+      },
+      {
+        "name": "Bagan Sungai Burung"
+      },
+      {
+        "name": "Bagan Terap"
+      },
+      {
+        "name": "Bagan Terap"
+      },
+      {
+        "name": "Bandar Baru Bangi"
+      },
+      {
+        "name": "Bandar Baru Salak Tinggi"
+      },
+      {
+        "name": "Bangi Lama"
+      },
+      {
+        "name": "Banting"
+      },
+      {
+        "name": "Batang Kali"
+      },
+      {
+        "name": "Batu 14 Hulu Langat"
+      },
+      {
+        "name": "Batu Arang"
+      },
+      {
+        "name": "Batu Caves"
+      },
+      {
+        "name": "Beranang"
+      },
+      {
+        "name": "Bestari Jaya"
+      },
+      {
+        "name": "Bukit Beruntung"
+      },
+      {
+        "name": "Cyberjaya"
+      },
+      {
+        "name": "Dengkil"
+      },
+      {
+        "name": "Desa Warisan"
+      },
+      {
+        "name": "Dusun Tua"
+      },
+      {
+        "name": "Felda Gedangsa"
+      },
+      {
+        "name": "Felda Soeharto"
+      },
+      {
+        "name": "Felda Sungai Tengi"
+      },
+      {
+        "name": "Felda Sungai Tengi Selatan"
+      },
+      {
+        "name": "Gombak"
+      },
+      {
+        "name": "Hulu Bernam"
+      },
+      {
+        "name": "Hulu Kelang"
+      },
+      {
+        "name": "Hulu Yam Lama"
+      },
+      {
+        "name": "Ijok"
+      },
+      {
+        "name": "Jenjarom"
+      },
+      {
+        "name": "Jeram"
+      },
+      {
+        "name": "Kajang"
+      },
+      {
+        "name": "Kalumpang"
+      },
+      {
+        "name": "Kampung Air Panas"
+      },
+      {
+        "name": "Kampung Asrah"
+      },
+      {
+        "name": "Kampung Batu 10"
+      },
+      {
+        "name": "Kampung Batu 16"
+      },
+      {
+        "name": "Kampung Batu 23"
+      },
+      {
+        "name": "Kampung Giching Hulu"
+      },
+      {
+        "name": "Kampung Kelinsing"
+      },
+      {
+        "name": "Kampung Limau Manis"
+      },
+      {
+        "name": "Kampung Nipah"
+      },
+      {
+        "name": "Kampung Olak Lempit"
+      },
+      {
+        "name": "Kampung Parit Serong"
+      },
+      {
+        "name": "Kampung Raja Musa"
+      },
+      {
+        "name": "Kampung Seri Tiram Jaya"
+      },
+      {
+        "name": "Kampung Sg Hj Dorani"
+      },
+      {
+        "name": "Kampung Simpang Lima"
+      },
+      {
+        "name": "Kampung Sungai Buah"
+      },
+      {
+        "name": "Kampung Sungai Gulang-Gulang"
+      },
+      {
+        "name": "Kampung Sungai Lang"
+      },
+      {
+        "name": "Kampung Sungai Limau"
+      },
+      {
+        "name": "Kampung Sungai Nibong"
+      },
+      {
+        "name": "Kampung Sungai Semungkis"
+      },
+      {
+        "name": "Kampung Sungai Serai"
+      },
+      {
+        "name": "Kampung Sungai Tangkas"
+      },
+      {
+        "name": "Kampung Tok Adam"
+      },
+      {
+        "name": "Kapar"
+      },
+      {
+        "name": "Kepong"
+      },
+      {
+        "name": "Kerling"
+      },
+      {
+        "name": "Klang"
+      },
+      {
+        "name": "Kuala Kubu Bharu"
+      },
+      {
+        "name": "Kuala Selangor"
+      },
+      {
+        "name": "Kuang"
+      },
+      {
+        "name": "Merbau Berdarah"
+      },
+      {
+        "name": "Meru"
+      },
+      {
+        "name": "Morib"
+      },
+      {
+        "name": "Parit Changkat"
+      },
+      {
+        "name": "Pasir Penambang"
+      },
+      {
+        "name": "Pekan Pasir Panjang"
+      },
+      {
+        "name": "Pekan Sepang"
+      },
+      {
+        "name": "Pelabuhan Klang"
+      },
+      {
+        "name": "Petaling Jaya"
+      },
+      {
+        "name": "Puchong"
+      },
+      {
+        "name": "Pulau Carey"
+      },
+      {
+        "name": "Pulau Ketam"
+      },
+      {
+        "name": "Puncak Alam"
+      },
+      {
+        "name": "Rasa"
+      },
+      {
+        "name": "Rawang"
+      },
+      {
+        "name": "Sabak Bernam"
+      },
+      {
+        "name": "Sasaran"
+      },
+      {
+        "name": "Sekinchan"
+      },
+      {
+        "name": "Seksyen 12"
+      },
+      {
+        "name": "Selayang"
+      },
+      {
+        "name": "Sepang"
+      },
+      {
+        "name": "Serendah"
+      },
+      {
+        "name": "Seri Kembangan"
+      },
+      {
+        "name": "Shah Alam"
+      },
+      {
+        "name": "Simpang Tiga Loji"
+      },
+      {
+        "name": "Subang Jaya"
+      },
+      {
+        "name": "Sungai Air Tawar"
+      },
+      {
+        "name": "Sungai Besar"
+      },
+      {
+        "name": "Sungai Buloh"
+      },
+      {
+        "name": "Sungai Choh"
+      },
+      {
+        "name": "Sungai Panjang"
+      },
+      {
+        "name": "Taman Desa"
+      },
+      {
+        "name": "Tanjung Karang"
+      },
+      {
+        "name": "Tanjung Sepat"
+      },
+      {
+        "name": "Teluk Gong"
+      },
+      {
+        "name": "Teluk Panglima Garang"
+      }
+    ]
+  },
+  {
+    "name": "Terengganu",
+    "cities": [
+      {
+        "name": "Air Jernih"
+      },
+      {
+        "name": "Ajil"
+      },
+      {
+        "name": "Alur Lintah"
+      },
+      {
+        "name": "Bandar Al-Muktafi Billah Shah"
+      },
+      {
+        "name": "Bandar Almuqtafi Billah Shah"
+      },
+      {
+        "name": "Bandar Baharu Cheneh"
+      },
+      {
+        "name": "Bandar Bukit Besi"
+      },
+      {
+        "name": "Bandar Permaisuri"
+      },
+      {
+        "name": "Batu Rakit"
+      },
+      {
+        "name": "Batu Tiong"
+      },
+      {
+        "name": "Binjai Rendah"
+      },
+      {
+        "name": "Bukit Payong"
+      },
+      {
+        "name": "Chukai"
+      },
+      {
+        "name": "Dungun"
+      },
+      {
+        "name": "Felda Belara"
+      },
+      {
+        "name": "Felda Chalok Barat"
+      },
+      {
+        "name": "Felda Jerangau"
+      },
+      {
+        "name": "Felda Jerangau Barat"
+      },
+      {
+        "name": "Felda Neram 1"
+      },
+      {
+        "name": "Felda Selasih"
+      },
+      {
+        "name": "Gong Dato"
+      },
+      {
+        "name": "Jabi"
+      },
+      {
+        "name": "Jerteh"
+      },
+      {
+        "name": "Kampung Air Leleh"
+      },
+      {
+        "name": "Kampung Air Sejuk"
+      },
+      {
+        "name": "Kampung Alor Lik"
+      },
+      {
+        "name": "Kampung Alor Limbat"
+      },
+      {
+        "name": "Kampung Alor Pak Bang"
+      },
+      {
+        "name": "Kampung Alor Serdang"
+      },
+      {
+        "name": "Kampung Alur Parit"
+      },
+      {
+        "name": "Kampung Alur Tuman"
+      },
+      {
+        "name": "Kampung Anak Ikan"
+      },
+      {
+        "name": "Kampung Anak Musang"
+      },
+      {
+        "name": "Kampung Baharu Lubuk Periuk"
+      },
+      {
+        "name": "Kampung Banggol"
+      },
+      {
+        "name": "Kampung Banggol Mempelam"
+      },
+      {
+        "name": "Kampung Banggol Semang"
+      },
+      {
+        "name": "Kampung Banggol Tasek"
+      },
+      {
+        "name": "Kampung Baru Ajil"
+      },
+      {
+        "name": "Kampung Baru Seberang Takir"
+      },
+      {
+        "name": "Kampung Baru Serada"
+      },
+      {
+        "name": "Kampung Basong"
+      },
+      {
+        "name": "Kampung Batu 18"
+      },
+      {
+        "name": "Kampung Batu 9"
+      },
+      {
+        "name": "Kampung Batu Hampar"
+      },
+      {
+        "name": "Kampung Batu Penunggul"
+      },
+      {
+        "name": "Kampung Batu Putih"
+      },
+      {
+        "name": "Kampung Beladau"
+      },
+      {
+        "name": "Kampung Beladau Kepong"
+      },
+      {
+        "name": "Kampung Beladau Kolam"
+      },
+      {
+        "name": "Kampung Beris Nenas"
+      },
+      {
+        "name": "Kampung Besol"
+      },
+      {
+        "name": "Kampung Binjai"
+      },
+      {
+        "name": "Kampung Binjai Berambu"
+      },
+      {
+        "name": "Kampung Binjai Bongkok"
+      },
+      {
+        "name": "Kampung Binjai Kertas"
+      },
+      {
+        "name": "Kampung Bintang"
+      },
+      {
+        "name": "Kampung Bintang"
+      },
+      {
+        "name": "Kampung Bukit Aceh"
+      },
+      {
+        "name": "Kampung Bukit Apit"
+      },
+      {
+        "name": "Kampung Bukit Diman"
+      },
+      {
+        "name": "Kampung Bukit Gasing"
+      },
+      {
+        "name": "Kampung Bukit Grebar"
+      },
+      {
+        "name": "Kampung Bukit Kolam"
+      },
+      {
+        "name": "Kampung Bukit Lawang"
+      },
+      {
+        "name": "Kampung Bukit Merah"
+      },
+      {
+        "name": "Kampung Bukit Nenas"
+      },
+      {
+        "name": "Kampung Bukit Peroh"
+      },
+      {
+        "name": "Kampung Bukit Rhu Rendang"
+      },
+      {
+        "name": "Kampung Bukit Sawa"
+      },
+      {
+        "name": "Kampung Bukit Tanah"
+      },
+      {
+        "name": "Kampung Bukit Tok Bilal"
+      },
+      {
+        "name": "Kampung Chabang"
+      },
+      {
+        "name": "Kampung Chapu"
+      },
+      {
+        "name": "Kampung Che Lijah"
+      },
+      {
+        "name": "Kampung Chepoh"
+      },
+      {
+        "name": "Kampung Dadong"
+      },
+      {
+        "name": "Kampung Delong"
+      },
+      {
+        "name": "Kampung Dendang"
+      },
+      {
+        "name": "Kampung Durian Kassim"
+      },
+      {
+        "name": "Kampung Durian Mentangau"
+      },
+      {
+        "name": "Kampung Dusun Pinang"
+      },
+      {
+        "name": "Kampung Felda Mengkawang"
+      },
+      {
+        "name": "Kampung Gelong Gajah"
+      },
+      {
+        "name": "Kampung Gemuroh"
+      },
+      {
+        "name": "Kampung Getang"
+      },
+      {
+        "name": "Kampung Gondang"
+      },
+      {
+        "name": "Kampung Gong Balai"
+      },
+      {
+        "name": "Kampung Gong Kekabu"
+      },
+      {
+        "name": "Kampung Gong Kiat"
+      },
+      {
+        "name": "Kampung Gong Nangka"
+      },
+      {
+        "name": "Kampung Gong Tok Nasek"
+      },
+      {
+        "name": "Kampung Guntung Luar"
+      },
+      {
+        "name": "Kampung Hutan Ban"
+      },
+      {
+        "name": "Kampung Ibok"
+      },
+      {
+        "name": "Kampung Imam Lapar"
+      },
+      {
+        "name": "Kampung Jambu Bongkok"
+      },
+      {
+        "name": "Kampung Jenagor"
+      },
+      {
+        "name": "Kampung Jeram Hilir"
+      },
+      {
+        "name": "Kampung Jerangau"
+      },
+      {
+        "name": "Kampung Kasar"
+      },
+      {
+        "name": "Kampung Kaya"
+      },
+      {
+        "name": "Kampung Kebor Besar"
+      },
+      {
+        "name": "Kampung Kelulut"
+      },
+      {
+        "name": "Kampung Kepah"
+      },
+      {
+        "name": "Kampung Kesom"
+      },
+      {
+        "name": "Kampung Kolam"
+      },
+      {
+        "name": "Kampung Kuala Abang"
+      },
+      {
+        "name": "Kampung Kuala Dura"
+      },
+      {
+        "name": "Kampung Kuala Jengai"
+      },
+      {
+        "name": "Kampung Kuala Pueh"
+      },
+      {
+        "name": "Kampung Kuala Telemong"
+      },
+      {
+        "name": "Kampung Kubang Palas"
+      },
+      {
+        "name": "Kampung Kubang Palas"
+      },
+      {
+        "name": "Kampung La"
+      },
+      {
+        "name": "Kampung Labohan"
+      },
+      {
+        "name": "Kampung Landas"
+      },
+      {
+        "name": "Kampung Langkap"
+      },
+      {
+        "name": "Kampung Langkap Baru"
+      },
+      {
+        "name": "Kampung Lebak"
+      },
+      {
+        "name": "Kampung Lerek"
+      },
+      {
+        "name": "Kampung Lubuk Batu"
+      },
+      {
+        "name": "Kampung Lubuk Batu"
+      },
+      {
+        "name": "Kampung Lubuk Periok"
+      },
+      {
+        "name": "Kampung Mak Chili"
+      },
+      {
+        "name": "Kampung Matang"
+      },
+      {
+        "name": "Kampung Mengabang Telipot"
+      },
+      {
+        "name": "Kampung Meraga Beris"
+      },
+      {
+        "name": "Kampung Merbau Patah"
+      },
+      {
+        "name": "Kampung Merchang"
+      },
+      {
+        "name": "Kampung Mesah"
+      },
+      {
+        "name": "Kampung Nasi Dingin"
+      },
+      {
+        "name": "Kampung Nyior"
+      },
+      {
+        "name": "Kampung Nyior Kembar"
+      },
+      {
+        "name": "Kampung Padang Hangus"
+      },
+      {
+        "name": "Kampung Padang Kabar"
+      },
+      {
+        "name": "Kampung Padang Macang"
+      },
+      {
+        "name": "Kampung Padang Midin"
+      },
+      {
+        "name": "Kampung Padang Pulut"
+      },
+      {
+        "name": "Kampung Pak Ba"
+      },
+      {
+        "name": "Kampung Paloh"
+      },
+      {
+        "name": "Kampung Paloh Hj Daud"
+      },
+      {
+        "name": "Kampung Panchur"
+      },
+      {
+        "name": "Kampung Pantai Ali"
+      },
+      {
+        "name": "Kampung Pasir Gajah"
+      },
+      {
+        "name": "Kampung Pasir Puteh"
+      },
+      {
+        "name": "Kampung Pasir Puteh"
+      },
+      {
+        "name": "Kampung Pasir Simpul"
+      },
+      {
+        "name": "Kampung Paya"
+      },
+      {
+        "name": "Kampung Paya Kemudi"
+      },
+      {
+        "name": "Kampung Payoh"
+      },
+      {
+        "name": "Kampung Pecah Rotan"
+      },
+      {
+        "name": "Kampung Pela"
+      },
+      {
+        "name": "Kampung Pelam"
+      },
+      {
+        "name": "Kampung Pelong"
+      },
+      {
+        "name": "Kampung Peneh"
+      },
+      {
+        "name": "Kampung Pengadang Baru"
+      },
+      {
+        "name": "Kampung Pengkalan Kuin"
+      },
+      {
+        "name": "Kampung Pengkalan Maras"
+      },
+      {
+        "name": "Kampung Pengkalan Merbau"
+      },
+      {
+        "name": "Kampung Pengkalan Nyireh"
+      },
+      {
+        "name": "Kampung Pengkalan Ranggon"
+      },
+      {
+        "name": "Kampung Peradong"
+      },
+      {
+        "name": "Kampung Perok"
+      },
+      {
+        "name": "Kampung Petaling"
+      },
+      {
+        "name": "Kampung Pinang"
+      },
+      {
+        "name": "Kampung Pinang Baru"
+      },
+      {
+        "name": "Kampung Pulai Tinggi"
+      },
+      {
+        "name": "Kampung Pulau Bahagia"
+      },
+      {
+        "name": "Kampung Pulau Kerengga"
+      },
+      {
+        "name": "Kampung Pulau Manis"
+      },
+      {
+        "name": "Kampung Pulau Sekati"
+      },
+      {
+        "name": "Kampung Putera Jaya"
+      },
+      {
+        "name": "Kampung Raja"
+      },
+      {
+        "name": "Kampung Rawai"
+      },
+      {
+        "name": "Kampung Renek"
+      },
+      {
+        "name": "Kampung Rhu Muda"
+      },
+      {
+        "name": "Kampung Rhu Rendang"
+      },
+      {
+        "name": "Kampung Santong"
+      },
+      {
+        "name": "Kampung Seberang Lencongan"
+      },
+      {
+        "name": "Kampung Seberang Marang"
+      },
+      {
+        "name": "Kampung Seberang Takir Hulu"
+      },
+      {
+        "name": "Kampung Selamat"
+      },
+      {
+        "name": "Kampung Semayor"
+      },
+      {
+        "name": "Kampung Sena Rendang"
+      },
+      {
+        "name": "Kampung Sentol Patah"
+      },
+      {
+        "name": "Kampung Serada"
+      },
+      {
+        "name": "Kampung Serating"
+      },
+      {
+        "name": "Kampung Serdang"
+      },
+      {
+        "name": "Kampung Seri Kenangan"
+      },
+      {
+        "name": "Kampung Sungai Bari"
+      },
+      {
+        "name": "Kampung Sungai Gawi"
+      },
+      {
+        "name": "Kampung Sungai Ikan"
+      },
+      {
+        "name": "Kampung Sungai Lerek"
+      },
+      {
+        "name": "Kampung Sungai Pergam"
+      },
+      {
+        "name": "Kampung Sungai Pinang"
+      },
+      {
+        "name": "Kampung Sungai Serai"
+      },
+      {
+        "name": "Kampung Sungai Ular"
+      },
+      {
+        "name": "Kampung Surau Haji Yaakob"
+      },
+      {
+        "name": "Kampung Tajin"
+      },
+      {
+        "name": "Kampung Tanjung Angsa"
+      },
+      {
+        "name": "Kampung Tanjung Putat"
+      },
+      {
+        "name": "Kampung Tasek"
+      },
+      {
+        "name": "Kampung Tebak"
+      },
+      {
+        "name": "Kampung Tebakang"
+      },
+      {
+        "name": "Kampung Telaga Mengkudu"
+      },
+      {
+        "name": "Kampung Teluk Kalong"
+      },
+      {
+        "name": "Kampung Teluk Menara"
+      },
+      {
+        "name": "Kampung Tembila"
+      },
+      {
+        "name": "Kampung Tengkawang"
+      },
+      {
+        "name": "Kampung Tepus"
+      },
+      {
+        "name": "Kampung Terap Pecah Rotan"
+      },
+      {
+        "name": "Kampung Teris"
+      },
+      {
+        "name": "Kampung Tetambah"
+      },
+      {
+        "name": "Kampung Tiruk"
+      },
+      {
+        "name": "Kampung Tok Dir"
+      },
+      {
+        "name": "Kampung Tok Dor"
+      },
+      {
+        "name": "Kampung Tok Dor"
+      },
+      {
+        "name": "Kampung Tok Dor Luar"
+      },
+      {
+        "name": "Kampung Tok Ku"
+      },
+      {
+        "name": "Kampung Tok Randok"
+      },
+      {
+        "name": "Kampung Wakaf Dua"
+      },
+      {
+        "name": "Kampung Wakaf Mempelam"
+      },
+      {
+        "name": "Kampung Yak Yah"
+      },
+      {
+        "name": "Kemasik"
+      },
+      {
+        "name": "Kerteh"
+      },
+      {
+        "name": "Kg Baloh"
+      },
+      {
+        "name": "Kg Batu 9"
+      },
+      {
+        "name": "Kg Bukit Besar"
+      },
+      {
+        "name": "Kg Bukit Teruna"
+      },
+      {
+        "name": "Kg Kuala Kemaman"
+      },
+      {
+        "name": "Kg Pasir Panjang"
+      },
+      {
+        "name": "Kg. Pasir Hantu"
+      },
+      {
+        "name": "Kg.Beting Lintang"
+      },
+      {
+        "name": "Kg.Fikri"
+      },
+      {
+        "name": "Kg.Jabi Baharu"
+      },
+      {
+        "name": "Kg.Merang"
+      },
+      {
+        "name": "Kg.Penarik"
+      },
+      {
+        "name": "Kg.Tempinis"
+      },
+      {
+        "name": "Kijal"
+      },
+      {
+        "name": "Kuala Berang"
+      },
+      {
+        "name": "Kuala Besut"
+      },
+      {
+        "name": "Kuala Terengganu"
+      },
+      {
+        "name": "Marang"
+      },
+      {
+        "name": "Paka"
+      },
+      {
+        "name": "Pasir Akar"
+      },
+      {
+        "name": "Pasir Belaram"
+      },
+      {
+        "name": "Pekan Chalok Kedai"
+      },
+      {
+        "name": "Pekan Sungai Tong"
+      },
+      {
+        "name": "Pulai Baharu"
+      },
+      {
+        "name": "Rantau Abang"
+      },
+      {
+        "name": "Sari Tembila"
+      },
+      {
+        "name": "Taman Kalong"
+      },
+      {
+        "name": "Taman Kijal Mentauh 2"
+      },
+      {
+        "name": "Taman Nabila"
+      },
+      {
+        "name": "Taman Nuraini 2"
+      },
+      {
+        "name": "Taman Selasih 1"
+      },
+      {
+        "name": "Taman Sri Intan"
+      },
+      {
+        "name": "Tanjung Jara"
+      },
+      {
+        "name": "Wakaf Tengah"
+      }
+    ]
+  }
+]
